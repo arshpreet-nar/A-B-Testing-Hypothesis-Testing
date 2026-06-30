@@ -1,0 +1,2401 @@
+visitor_id,visit_date,group,device,traffic_channel,session_minutes,pages_viewed,converted,revenue_usd
+VIS-00001,2026-05-27,A,Mobile,Paid Search,4.79,4,0,0.0
+VIS-00002,2026-05-26,A,Desktop,Organic,5.39,4,0,0.0
+VIS-00003,2026-05-25,A,Mobile,Referral,4.78,5,0,0.0
+VIS-00004,2026-05-26,A,Desktop,Organic,7.5,3,0,0.0
+VIS-00005,2026-05-03,A,Desktop,Email,3.33,3,0,0.0
+VIS-00006,2026-05-25,A,Desktop,Organic,2.91,6,1,59.24
+VIS-00007,2026-05-29,A,Desktop,Social,1.95,6,0,0.0
+VIS-00008,2026-05-08,A,Desktop,Social,2.6,5,0,0.0
+VIS-00009,2026-05-06,A,Mobile,Social,0.99,6,0,0.0
+VIS-00010,2026-05-03,A,Desktop,Organic,2.05,1,1,46.64
+VIS-00011,2026-05-24,A,Desktop,Organic,3.04,6,0,0.0
+VIS-00012,2026-05-29,A,Desktop,Referral,1.64,5,0,0.0
+VIS-00013,2026-05-19,A,Desktop,Organic,4.05,4,1,78.95
+VIS-00014,2026-05-19,A,Desktop,Referral,5.25,2,0,0.0
+VIS-00015,2026-05-24,A,Desktop,Organic,7.63,3,0,0.0
+VIS-00016,2026-05-01,A,Desktop,Referral,4.89,2,0,0.0
+VIS-00017,2026-05-26,A,Desktop,Social,5.21,4,0,0.0
+VIS-00018,2026-05-28,A,Tablet,Email,3.97,8,0,0.0
+VIS-00019,2026-05-04,A,Mobile,Paid Search,5.06,11,0,0.0
+VIS-00020,2026-05-30,A,Mobile,Organic,3.62,4,0,0.0
+VIS-00021,2026-05-26,A,Mobile,Organic,1.21,3,1,58.33
+VIS-00022,2026-05-09,A,Desktop,Social,6.72,5,0,0.0
+VIS-00023,2026-05-15,A,Desktop,Organic,5.96,3,0,0.0
+VIS-00024,2026-05-25,A,Mobile,Paid Search,2.65,1,0,0.0
+VIS-00025,2026-05-28,A,Mobile,Organic,5.59,1,0,0.0
+VIS-00026,2026-05-03,A,Mobile,Email,0.59,7,0,0.0
+VIS-00027,2026-05-20,A,Mobile,Social,5.85,3,1,61.48
+VIS-00028,2026-05-14,A,Mobile,Organic,1.61,2,0,0.0
+VIS-00029,2026-05-11,A,Desktop,Paid Search,2.76,2,0,0.0
+VIS-00030,2026-05-25,A,Mobile,Organic,8.26,6,0,0.0
+VIS-00031,2026-05-21,A,Desktop,Social,4.71,4,0,0.0
+VIS-00032,2026-05-13,A,Mobile,Paid Search,4.32,10,0,0.0
+VIS-00033,2026-05-27,A,Mobile,Social,3.81,10,0,0.0
+VIS-00034,2026-05-16,A,Desktop,Email,1.24,3,1,54.84
+VIS-00035,2026-05-26,A,Mobile,Organic,0.97,4,0,0.0
+VIS-00036,2026-05-04,A,Desktop,Social,1.36,2,0,0.0
+VIS-00037,2026-05-28,A,Mobile,Paid Search,5.87,5,1,80.94
+VIS-00038,2026-05-25,A,Desktop,Paid Search,5.62,3,0,0.0
+VIS-00039,2026-05-16,A,Mobile,Organic,3.97,5,0,0.0
+VIS-00040,2026-05-15,A,Desktop,Paid Search,3.78,3,0,0.0
+VIS-00041,2026-05-10,A,Desktop,Paid Search,1.22,6,0,0.0
+VIS-00042,2026-05-08,A,Mobile,Paid Search,1.63,4,0,0.0
+VIS-00043,2026-05-09,A,Desktop,Social,10.41,2,0,0.0
+VIS-00044,2026-05-24,A,Desktop,Social,5.64,2,0,0.0
+VIS-00045,2026-05-12,A,Desktop,Organic,2.7,5,0,0.0
+VIS-00046,2026-05-30,A,Mobile,Email,2.68,3,0,0.0
+VIS-00047,2026-05-12,A,Desktop,Email,2.51,4,0,0.0
+VIS-00048,2026-05-17,A,Desktop,Organic,3.34,1,0,0.0
+VIS-00049,2026-05-12,A,Desktop,Referral,4.08,5,0,0.0
+VIS-00050,2026-05-23,A,Mobile,Organic,7.16,3,0,0.0
+VIS-00051,2026-05-11,A,Mobile,Organic,1.69,4,0,0.0
+VIS-00052,2026-05-30,A,Mobile,Referral,2.33,3,0,0.0
+VIS-00053,2026-05-20,A,Mobile,Email,1.32,4,0,0.0
+VIS-00054,2026-05-01,A,Desktop,Paid Search,2.51,6,1,52.18
+VIS-00055,2026-05-29,A,Tablet,Paid Search,2.98,6,0,0.0
+VIS-00056,2026-05-18,A,Desktop,Paid Search,3.21,4,0,0.0
+VIS-00057,2026-05-21,A,Desktop,Email,2.9,2,0,0.0
+VIS-00058,2026-05-30,A,Desktop,Referral,2.97,1,1,60.32
+VIS-00059,2026-05-09,A,Desktop,Social,1.68,4,0,0.0
+VIS-00060,2026-05-04,A,Mobile,Paid Search,4.35,9,0,0.0
+VIS-00061,2026-05-21,A,Desktop,Paid Search,3.82,2,0,0.0
+VIS-00062,2026-05-07,A,Desktop,Email,4.79,5,0,0.0
+VIS-00063,2026-05-01,A,Desktop,Email,8.14,3,1,37.68
+VIS-00064,2026-05-17,A,Desktop,Paid Search,7.26,5,0,0.0
+VIS-00065,2026-05-17,A,Mobile,Organic,4.04,3,0,0.0
+VIS-00066,2026-05-22,A,Mobile,Paid Search,6.21,9,0,0.0
+VIS-00067,2026-05-28,A,Mobile,Referral,2.87,3,1,50.38
+VIS-00068,2026-05-17,A,Mobile,Email,4.9,2,0,0.0
+VIS-00069,2026-05-08,A,Mobile,Organic,1.62,5,0,0.0
+VIS-00070,2026-05-17,A,Desktop,Paid Search,2.52,10,1,64.17
+VIS-00071,2026-05-02,A,Desktop,Email,7.17,1,0,0.0
+VIS-00072,2026-05-02,A,Mobile,Referral,2.97,4,0,0.0
+VIS-00073,2026-05-04,A,Desktop,Organic,1.89,2,1,79.51
+VIS-00074,2026-05-23,A,Tablet,Organic,10.64,8,1,68.04
+VIS-00075,2026-05-27,A,Desktop,Email,1.87,8,0,0.0
+VIS-00076,2026-05-10,A,Mobile,Organic,5.13,7,0,0.0
+VIS-00077,2026-05-03,A,Desktop,Social,3.78,3,0,0.0
+VIS-00078,2026-05-03,A,Mobile,Paid Search,1.79,8,0,0.0
+VIS-00079,2026-05-04,A,Desktop,Paid Search,2.21,1,0,0.0
+VIS-00080,2026-05-29,A,Mobile,Organic,6.48,8,0,0.0
+VIS-00081,2026-05-05,A,Desktop,Social,5.52,2,0,0.0
+VIS-00082,2026-05-20,A,Desktop,Organic,2.97,7,0,0.0
+VIS-00083,2026-05-19,A,Mobile,Paid Search,4.37,2,0,0.0
+VIS-00084,2026-05-14,A,Desktop,Paid Search,4.42,4,0,0.0
+VIS-00085,2026-05-15,A,Desktop,Social,3.25,3,0,0.0
+VIS-00086,2026-05-22,A,Desktop,Email,0.99,3,0,0.0
+VIS-00087,2026-05-25,A,Mobile,Referral,6.32,7,0,0.0
+VIS-00088,2026-05-15,A,Mobile,Organic,1.26,3,1,81.18
+VIS-00089,2026-05-20,A,Desktop,Organic,8.01,3,1,68.0
+VIS-00090,2026-05-04,A,Tablet,Organic,0.95,3,0,0.0
+VIS-00091,2026-05-29,A,Desktop,Organic,0.37,6,0,0.0
+VIS-00092,2026-05-19,A,Mobile,Organic,5.02,7,0,0.0
+VIS-00093,2026-05-21,A,Desktop,Social,3.18,4,0,0.0
+VIS-00094,2026-05-23,A,Mobile,Referral,8.21,3,0,0.0
+VIS-00095,2026-05-08,A,Mobile,Social,1.57,4,0,0.0
+VIS-00096,2026-05-23,A,Mobile,Organic,6.19,5,0,0.0
+VIS-00097,2026-05-30,A,Desktop,Paid Search,5.31,3,0,0.0
+VIS-00098,2026-05-17,A,Mobile,Paid Search,2.99,4,0,0.0
+VIS-00099,2026-05-10,A,Desktop,Referral,2.27,4,1,59.69
+VIS-00100,2026-05-28,A,Desktop,Paid Search,7.22,4,0,0.0
+VIS-00101,2026-05-24,A,Desktop,Organic,0.38,2,0,0.0
+VIS-00102,2026-05-29,A,Desktop,Organic,8.12,5,0,0.0
+VIS-00103,2026-05-22,A,Desktop,Social,5.35,2,1,47.93
+VIS-00104,2026-05-27,A,Desktop,Social,6.6,5,0,0.0
+VIS-00105,2026-05-24,A,Desktop,Organic,6.38,5,0,0.0
+VIS-00106,2026-05-12,A,Tablet,Paid Search,2.6,7,0,0.0
+VIS-00107,2026-05-24,A,Mobile,Social,14.42,6,0,0.0
+VIS-00108,2026-05-09,A,Desktop,Referral,8.79,5,0,0.0
+VIS-00109,2026-05-29,A,Desktop,Paid Search,3.11,1,0,0.0
+VIS-00110,2026-05-16,A,Desktop,Paid Search,3.45,3,0,0.0
+VIS-00111,2026-05-16,A,Desktop,Organic,1.28,5,0,0.0
+VIS-00112,2026-05-20,A,Mobile,Organic,2.71,4,0,0.0
+VIS-00113,2026-05-10,A,Mobile,Organic,2.48,6,0,0.0
+VIS-00114,2026-05-05,A,Mobile,Paid Search,3.57,6,0,0.0
+VIS-00115,2026-05-22,A,Desktop,Referral,0.91,4,0,0.0
+VIS-00116,2026-05-17,A,Mobile,Paid Search,8.0,2,0,0.0
+VIS-00117,2026-05-22,A,Mobile,Email,5.25,3,0,0.0
+VIS-00118,2026-05-14,A,Mobile,Social,3.66,6,0,0.0
+VIS-00119,2026-05-14,A,Mobile,Organic,3.17,1,0,0.0
+VIS-00120,2026-05-01,A,Mobile,Organic,1.81,3,0,0.0
+VIS-00121,2026-05-21,A,Desktop,Organic,2.84,2,0,0.0
+VIS-00122,2026-05-13,A,Mobile,Paid Search,4.1,5,0,0.0
+VIS-00123,2026-05-03,A,Mobile,Email,1.29,5,0,0.0
+VIS-00124,2026-05-12,A,Desktop,Social,2.02,4,0,0.0
+VIS-00125,2026-05-02,A,Desktop,Organic,10.48,5,0,0.0
+VIS-00126,2026-05-29,A,Mobile,Organic,5.17,5,0,0.0
+VIS-00127,2026-05-07,A,Desktop,Social,0.92,1,0,0.0
+VIS-00128,2026-05-02,A,Desktop,Referral,3.64,3,0,0.0
+VIS-00129,2026-05-23,A,Mobile,Referral,1.94,3,0,0.0
+VIS-00130,2026-05-28,A,Mobile,Email,11.78,1,0,0.0
+VIS-00131,2026-05-09,A,Desktop,Social,4.25,6,0,0.0
+VIS-00132,2026-05-28,A,Mobile,Organic,5.19,3,0,0.0
+VIS-00133,2026-05-07,A,Mobile,Organic,5.07,2,0,0.0
+VIS-00134,2026-05-18,A,Mobile,Paid Search,0.28,3,0,0.0
+VIS-00135,2026-05-21,A,Mobile,Referral,12.87,2,0,0.0
+VIS-00136,2026-05-06,A,Mobile,Organic,2.66,7,0,0.0
+VIS-00137,2026-05-05,A,Mobile,Social,4.05,6,0,0.0
+VIS-00138,2026-05-24,A,Mobile,Paid Search,10.56,3,0,0.0
+VIS-00139,2026-05-15,A,Desktop,Paid Search,2.45,4,0,0.0
+VIS-00140,2026-05-05,A,Mobile,Referral,10.04,4,0,0.0
+VIS-00141,2026-05-25,A,Mobile,Email,2.43,4,0,0.0
+VIS-00142,2026-05-10,A,Mobile,Organic,3.74,2,0,0.0
+VIS-00143,2026-05-10,A,Mobile,Email,3.31,4,0,0.0
+VIS-00144,2026-05-20,A,Desktop,Social,2.88,5,0,0.0
+VIS-00145,2026-05-07,A,Mobile,Organic,6.88,2,0,0.0
+VIS-00146,2026-05-13,A,Mobile,Social,4.84,2,0,0.0
+VIS-00147,2026-05-22,A,Mobile,Organic,4.39,1,0,0.0
+VIS-00148,2026-05-14,A,Mobile,Email,1.27,3,0,0.0
+VIS-00149,2026-05-16,A,Desktop,Social,7.92,7,0,0.0
+VIS-00150,2026-05-10,A,Mobile,Organic,6.34,2,0,0.0
+VIS-00151,2026-05-27,A,Desktop,Organic,3.72,4,0,0.0
+VIS-00152,2026-05-02,A,Desktop,Organic,6.01,4,0,0.0
+VIS-00153,2026-05-03,A,Desktop,Organic,2.53,3,0,0.0
+VIS-00154,2026-05-11,A,Desktop,Social,4.43,6,0,0.0
+VIS-00155,2026-05-22,A,Desktop,Organic,2.83,6,0,0.0
+VIS-00156,2026-05-25,A,Desktop,Paid Search,6.55,5,0,0.0
+VIS-00157,2026-05-18,A,Mobile,Organic,5.81,6,0,0.0
+VIS-00158,2026-05-25,A,Desktop,Email,3.39,5,0,0.0
+VIS-00159,2026-05-21,A,Desktop,Organic,4.98,9,1,61.2
+VIS-00160,2026-05-03,A,Desktop,Email,3.7,2,0,0.0
+VIS-00161,2026-05-19,A,Mobile,Social,0.72,7,1,32.01
+VIS-00162,2026-05-17,A,Desktop,Referral,8.57,5,1,70.55
+VIS-00163,2026-05-22,A,Mobile,Email,5.55,5,0,0.0
+VIS-00164,2026-05-11,A,Desktop,Organic,1.98,4,0,0.0
+VIS-00165,2026-05-10,A,Desktop,Organic,5.62,3,0,0.0
+VIS-00166,2026-05-12,A,Mobile,Paid Search,4.7,6,0,0.0
+VIS-00167,2026-05-10,A,Mobile,Referral,4.18,3,1,73.65
+VIS-00168,2026-05-30,A,Mobile,Social,4.96,3,0,0.0
+VIS-00169,2026-05-03,A,Mobile,Paid Search,6.73,2,0,0.0
+VIS-00170,2026-05-25,A,Desktop,Social,2.33,2,0,0.0
+VIS-00171,2026-05-15,A,Desktop,Email,4.78,7,0,0.0
+VIS-00172,2026-05-16,A,Mobile,Email,9.97,6,0,0.0
+VIS-00173,2026-05-01,A,Desktop,Paid Search,3.17,3,0,0.0
+VIS-00174,2026-05-16,A,Mobile,Paid Search,3.76,5,0,0.0
+VIS-00175,2026-05-26,A,Desktop,Referral,7.15,4,0,0.0
+VIS-00176,2026-05-28,A,Desktop,Paid Search,1.95,5,1,56.03
+VIS-00177,2026-05-13,A,Desktop,Email,7.77,5,0,0.0
+VIS-00178,2026-05-12,A,Tablet,Social,4.45,3,0,0.0
+VIS-00179,2026-05-27,A,Mobile,Paid Search,1.97,8,0,0.0
+VIS-00180,2026-05-24,A,Mobile,Referral,5.17,6,0,0.0
+VIS-00181,2026-05-29,A,Mobile,Organic,4.1,2,0,0.0
+VIS-00182,2026-05-22,A,Tablet,Organic,4.03,4,0,0.0
+VIS-00183,2026-05-30,A,Desktop,Email,6.92,3,0,0.0
+VIS-00184,2026-05-23,A,Desktop,Email,4.02,4,0,0.0
+VIS-00185,2026-05-04,A,Mobile,Organic,5.22,7,0,0.0
+VIS-00186,2026-05-14,A,Mobile,Paid Search,3.93,4,0,0.0
+VIS-00187,2026-05-13,A,Mobile,Organic,9.71,4,0,0.0
+VIS-00188,2026-05-21,A,Desktop,Referral,5.9,6,1,64.92
+VIS-00189,2026-05-14,A,Mobile,Organic,1.57,3,0,0.0
+VIS-00190,2026-05-26,A,Mobile,Social,1.49,2,0,0.0
+VIS-00191,2026-05-03,A,Mobile,Organic,3.09,5,0,0.0
+VIS-00192,2026-05-09,A,Mobile,Referral,4.12,3,0,0.0
+VIS-00193,2026-05-25,A,Tablet,Paid Search,3.92,5,0,0.0
+VIS-00194,2026-05-23,A,Desktop,Organic,4.64,4,1,66.29
+VIS-00195,2026-05-23,A,Desktop,Paid Search,4.6,6,0,0.0
+VIS-00196,2026-05-15,A,Desktop,Paid Search,5.2,2,0,0.0
+VIS-00197,2026-05-01,A,Mobile,Organic,13.02,6,0,0.0
+VIS-00198,2026-05-17,A,Desktop,Email,5.13,4,0,0.0
+VIS-00199,2026-05-01,A,Mobile,Paid Search,5.21,1,0,0.0
+VIS-00200,2026-05-14,A,Desktop,Organic,6.01,2,0,0.0
+VIS-00201,2026-05-11,A,Mobile,Organic,4.34,4,0,0.0
+VIS-00202,2026-05-12,A,Mobile,Paid Search,3.35,2,0,0.0
+VIS-00203,2026-05-07,A,Mobile,Organic,3.55,7,0,0.0
+VIS-00204,2026-05-23,A,Mobile,Paid Search,1.93,4,0,0.0
+VIS-00205,2026-05-14,A,Tablet,Organic,7.01,8,0,0.0
+VIS-00206,2026-05-12,A,Mobile,Social,1.27,2,0,0.0
+VIS-00207,2026-05-28,A,Desktop,Email,2.8,5,0,0.0
+VIS-00208,2026-05-06,A,Mobile,Referral,2.49,1,0,0.0
+VIS-00209,2026-05-16,A,Desktop,Social,0.48,4,1,54.62
+VIS-00210,2026-05-24,A,Desktop,Paid Search,5.63,7,0,0.0
+VIS-00211,2026-05-17,A,Desktop,Organic,5.45,4,1,79.77
+VIS-00212,2026-05-12,A,Tablet,Organic,3.99,3,0,0.0
+VIS-00213,2026-05-14,A,Mobile,Organic,6.86,2,0,0.0
+VIS-00214,2026-05-18,A,Desktop,Paid Search,7.34,4,0,0.0
+VIS-00215,2026-05-25,A,Mobile,Organic,4.14,3,0,0.0
+VIS-00216,2026-05-30,A,Desktop,Referral,1.24,2,1,65.95
+VIS-00217,2026-05-23,A,Mobile,Social,2.75,4,0,0.0
+VIS-00218,2026-05-20,A,Mobile,Paid Search,1.43,3,1,30.06
+VIS-00219,2026-05-04,A,Mobile,Organic,2.29,4,0,0.0
+VIS-00220,2026-05-16,A,Desktop,Organic,5.45,2,1,63.97
+VIS-00221,2026-05-02,A,Mobile,Paid Search,2.73,4,0,0.0
+VIS-00222,2026-05-09,A,Desktop,Social,2.05,5,0,0.0
+VIS-00223,2026-05-13,A,Desktop,Referral,0.95,6,0,0.0
+VIS-00224,2026-05-22,A,Desktop,Email,2.86,3,0,0.0
+VIS-00225,2026-05-19,A,Desktop,Paid Search,2.76,3,0,0.0
+VIS-00226,2026-05-29,A,Mobile,Organic,7.56,5,1,65.44
+VIS-00227,2026-05-15,A,Mobile,Paid Search,1.17,1,0,0.0
+VIS-00228,2026-05-22,A,Mobile,Organic,2.26,9,0,0.0
+VIS-00229,2026-05-16,A,Desktop,Paid Search,2.26,6,1,90.69
+VIS-00230,2026-05-24,A,Tablet,Organic,4.87,2,0,0.0
+VIS-00231,2026-05-23,A,Mobile,Organic,4.76,1,0,0.0
+VIS-00232,2026-05-10,A,Tablet,Email,3.28,5,0,0.0
+VIS-00233,2026-05-11,A,Desktop,Paid Search,2.38,5,0,0.0
+VIS-00234,2026-05-10,A,Desktop,Email,5.88,4,0,0.0
+VIS-00235,2026-05-19,A,Desktop,Paid Search,1.69,5,0,0.0
+VIS-00236,2026-05-11,A,Mobile,Organic,6.42,4,0,0.0
+VIS-00237,2026-05-28,A,Mobile,Paid Search,6.49,3,0,0.0
+VIS-00238,2026-05-15,A,Desktop,Paid Search,4.81,6,0,0.0
+VIS-00239,2026-05-23,A,Tablet,Social,3.46,2,0,0.0
+VIS-00240,2026-05-27,A,Mobile,Paid Search,5.08,7,0,0.0
+VIS-00241,2026-05-17,A,Desktop,Social,0.42,1,0,0.0
+VIS-00242,2026-05-14,A,Mobile,Paid Search,3.13,6,0,0.0
+VIS-00243,2026-05-26,A,Desktop,Social,6.18,5,1,29.09
+VIS-00244,2026-05-06,A,Desktop,Social,16.77,3,0,0.0
+VIS-00245,2026-05-29,A,Desktop,Organic,3.35,6,0,0.0
+VIS-00246,2026-05-16,A,Desktop,Organic,5.06,4,0,0.0
+VIS-00247,2026-05-28,A,Desktop,Social,9.67,4,0,0.0
+VIS-00248,2026-05-08,A,Mobile,Paid Search,7.23,6,0,0.0
+VIS-00249,2026-05-28,A,Desktop,Organic,2.72,4,0,0.0
+VIS-00250,2026-05-20,A,Desktop,Email,2.02,4,1,55.69
+VIS-00251,2026-05-01,A,Desktop,Organic,5.2,4,0,0.0
+VIS-00252,2026-05-11,A,Desktop,Organic,10.93,1,0,0.0
+VIS-00253,2026-05-29,A,Mobile,Paid Search,10.52,1,0,0.0
+VIS-00254,2026-05-29,A,Desktop,Social,3.88,4,0,0.0
+VIS-00255,2026-05-19,A,Mobile,Social,4.13,5,0,0.0
+VIS-00256,2026-05-14,A,Mobile,Organic,6.51,4,0,0.0
+VIS-00257,2026-05-17,A,Mobile,Organic,3.99,4,0,0.0
+VIS-00258,2026-05-18,A,Desktop,Organic,5.9,7,0,0.0
+VIS-00259,2026-05-01,A,Mobile,Social,5.64,8,0,0.0
+VIS-00260,2026-05-18,A,Desktop,Social,0.71,3,0,0.0
+VIS-00261,2026-05-06,A,Tablet,Organic,5.23,4,0,0.0
+VIS-00262,2026-05-13,A,Desktop,Organic,7.44,6,0,0.0
+VIS-00263,2026-05-14,A,Desktop,Paid Search,8.68,5,0,0.0
+VIS-00264,2026-05-30,A,Desktop,Social,0.37,3,0,0.0
+VIS-00265,2026-05-29,A,Mobile,Paid Search,1.35,7,0,0.0
+VIS-00266,2026-05-02,A,Desktop,Email,3.95,5,0,0.0
+VIS-00267,2026-05-13,A,Desktop,Organic,4.66,2,0,0.0
+VIS-00268,2026-05-23,A,Mobile,Referral,1.09,5,0,0.0
+VIS-00269,2026-05-26,A,Mobile,Email,9.67,3,0,0.0
+VIS-00270,2026-05-08,A,Desktop,Social,0.59,5,0,0.0
+VIS-00271,2026-05-13,A,Mobile,Organic,6.34,4,0,0.0
+VIS-00272,2026-05-02,A,Mobile,Social,1.29,2,0,0.0
+VIS-00273,2026-05-03,A,Desktop,Organic,3.57,3,0,0.0
+VIS-00274,2026-05-06,A,Desktop,Email,1.73,4,0,0.0
+VIS-00275,2026-05-05,A,Mobile,Organic,3.69,4,0,0.0
+VIS-00276,2026-05-23,A,Desktop,Social,6.79,2,0,0.0
+VIS-00277,2026-05-12,A,Desktop,Social,6.77,5,0,0.0
+VIS-00278,2026-05-28,A,Desktop,Social,4.04,5,0,0.0
+VIS-00279,2026-05-06,A,Desktop,Paid Search,4.93,5,0,0.0
+VIS-00280,2026-05-24,A,Tablet,Social,8.14,3,1,27.69
+VIS-00281,2026-05-11,A,Mobile,Social,0.81,7,0,0.0
+VIS-00282,2026-05-09,A,Mobile,Email,3.16,5,0,0.0
+VIS-00283,2026-05-09,A,Tablet,Organic,9.43,2,0,0.0
+VIS-00284,2026-05-15,A,Desktop,Social,4.81,4,0,0.0
+VIS-00285,2026-05-27,A,Mobile,Referral,4.57,4,0,0.0
+VIS-00286,2026-05-04,A,Mobile,Organic,6.67,3,0,0.0
+VIS-00287,2026-05-18,A,Desktop,Organic,0.32,2,0,0.0
+VIS-00288,2026-05-13,A,Desktop,Organic,4.08,2,0,0.0
+VIS-00289,2026-05-19,A,Desktop,Organic,5.42,2,0,0.0
+VIS-00290,2026-05-08,A,Desktop,Paid Search,11.39,4,0,0.0
+VIS-00291,2026-05-09,A,Mobile,Email,3.52,2,0,0.0
+VIS-00292,2026-05-01,A,Desktop,Referral,1.58,4,0,0.0
+VIS-00293,2026-05-30,A,Mobile,Paid Search,1.9,1,0,0.0
+VIS-00294,2026-05-09,A,Desktop,Social,1.95,5,0,0.0
+VIS-00295,2026-05-05,A,Mobile,Organic,2.71,3,0,0.0
+VIS-00296,2026-05-28,A,Desktop,Organic,8.68,7,0,0.0
+VIS-00297,2026-05-16,A,Mobile,Social,5.1,5,1,51.24
+VIS-00298,2026-05-16,A,Desktop,Referral,4.47,6,0,0.0
+VIS-00299,2026-05-17,A,Mobile,Social,5.33,1,1,60.16
+VIS-00300,2026-05-09,A,Desktop,Organic,10.09,6,0,0.0
+VIS-00301,2026-05-02,A,Desktop,Organic,4.49,5,1,63.34
+VIS-00302,2026-05-04,A,Desktop,Referral,3.25,6,0,0.0
+VIS-00303,2026-05-29,A,Desktop,Paid Search,3.91,5,1,62.03
+VIS-00304,2026-05-27,A,Mobile,Organic,2.07,4,0,0.0
+VIS-00305,2026-05-24,A,Mobile,Social,1.15,7,0,0.0
+VIS-00306,2026-05-03,A,Desktop,Organic,1.87,5,0,0.0
+VIS-00307,2026-05-18,A,Desktop,Referral,3.98,4,0,0.0
+VIS-00308,2026-05-02,A,Mobile,Email,3.94,6,1,56.81
+VIS-00309,2026-05-07,A,Desktop,Organic,11.0,6,1,54.99
+VIS-00310,2026-05-04,A,Desktop,Organic,2.13,3,1,56.98
+VIS-00311,2026-05-28,A,Mobile,Social,5.17,8,0,0.0
+VIS-00312,2026-05-23,A,Desktop,Social,4.21,6,0,0.0
+VIS-00313,2026-05-23,A,Tablet,Paid Search,2.29,1,0,0.0
+VIS-00314,2026-05-29,A,Desktop,Email,12.56,6,0,0.0
+VIS-00315,2026-05-19,A,Mobile,Paid Search,7.69,3,0,0.0
+VIS-00316,2026-05-03,A,Mobile,Email,1.55,3,0,0.0
+VIS-00317,2026-05-04,A,Tablet,Social,2.2,5,0,0.0
+VIS-00318,2026-05-20,A,Mobile,Paid Search,2.81,6,0,0.0
+VIS-00319,2026-05-11,A,Mobile,Organic,3.51,4,1,60.12
+VIS-00320,2026-05-20,A,Desktop,Paid Search,5.63,3,0,0.0
+VIS-00321,2026-05-10,A,Mobile,Paid Search,1.69,3,0,0.0
+VIS-00322,2026-05-16,A,Desktop,Email,4.19,4,0,0.0
+VIS-00323,2026-05-26,A,Desktop,Social,5.08,4,0,0.0
+VIS-00324,2026-05-01,A,Mobile,Social,3.69,9,0,0.0
+VIS-00325,2026-05-17,A,Desktop,Organic,2.63,2,1,38.18
+VIS-00326,2026-05-21,A,Mobile,Organic,5.03,5,0,0.0
+VIS-00327,2026-05-09,A,Desktop,Email,6.14,1,0,0.0
+VIS-00328,2026-05-13,A,Mobile,Paid Search,8.26,5,0,0.0
+VIS-00329,2026-05-24,A,Desktop,Paid Search,7.01,4,0,0.0
+VIS-00330,2026-05-28,A,Tablet,Email,5.09,7,0,0.0
+VIS-00331,2026-05-18,A,Mobile,Organic,2.04,1,0,0.0
+VIS-00332,2026-05-30,A,Desktop,Organic,1.62,6,0,0.0
+VIS-00333,2026-05-09,A,Desktop,Paid Search,4.68,6,0,0.0
+VIS-00334,2026-05-20,A,Desktop,Social,2.16,5,0,0.0
+VIS-00335,2026-05-13,A,Mobile,Organic,4.63,4,0,0.0
+VIS-00336,2026-05-04,A,Desktop,Email,1.21,2,0,0.0
+VIS-00337,2026-05-21,A,Desktop,Organic,3.33,5,0,0.0
+VIS-00338,2026-05-10,A,Desktop,Email,2.67,3,0,0.0
+VIS-00339,2026-05-17,A,Mobile,Email,7.32,2,0,0.0
+VIS-00340,2026-05-19,A,Desktop,Paid Search,5.86,7,0,0.0
+VIS-00341,2026-05-18,A,Mobile,Paid Search,5.58,5,1,74.77
+VIS-00342,2026-05-27,A,Desktop,Paid Search,12.71,4,0,0.0
+VIS-00343,2026-05-28,A,Desktop,Paid Search,2.17,1,0,0.0
+VIS-00344,2026-05-13,A,Mobile,Social,1.85,2,0,0.0
+VIS-00345,2026-05-04,A,Desktop,Social,1.0,4,0,0.0
+VIS-00346,2026-05-11,A,Desktop,Email,0.82,5,1,57.62
+VIS-00347,2026-05-14,A,Tablet,Organic,16.31,3,0,0.0
+VIS-00348,2026-05-19,A,Desktop,Organic,0.49,6,0,0.0
+VIS-00349,2026-05-16,A,Mobile,Organic,8.38,2,0,0.0
+VIS-00350,2026-05-26,A,Mobile,Organic,1.58,1,0,0.0
+VIS-00351,2026-05-26,A,Desktop,Organic,4.37,4,0,0.0
+VIS-00352,2026-05-06,A,Desktop,Referral,1.73,6,0,0.0
+VIS-00353,2026-05-11,A,Desktop,Organic,10.77,5,0,0.0
+VIS-00354,2026-05-18,A,Desktop,Referral,2.44,6,0,0.0
+VIS-00355,2026-05-15,A,Desktop,Paid Search,3.34,1,0,0.0
+VIS-00356,2026-05-19,A,Desktop,Paid Search,2.17,2,0,0.0
+VIS-00357,2026-05-30,A,Mobile,Social,5.4,3,0,0.0
+VIS-00358,2026-05-15,A,Mobile,Social,6.84,5,0,0.0
+VIS-00359,2026-05-27,A,Mobile,Organic,11.87,4,0,0.0
+VIS-00360,2026-05-11,A,Desktop,Email,1.5,5,0,0.0
+VIS-00361,2026-05-20,A,Mobile,Social,6.71,4,0,0.0
+VIS-00362,2026-05-29,A,Mobile,Organic,9.88,2,0,0.0
+VIS-00363,2026-05-24,A,Desktop,Email,1.36,3,1,41.52
+VIS-00364,2026-05-25,A,Mobile,Paid Search,2.39,3,0,0.0
+VIS-00365,2026-05-08,A,Mobile,Social,2.86,2,0,0.0
+VIS-00366,2026-05-05,A,Mobile,Social,5.47,4,0,0.0
+VIS-00367,2026-05-15,A,Desktop,Organic,1.75,4,0,0.0
+VIS-00368,2026-05-01,A,Mobile,Organic,2.75,6,0,0.0
+VIS-00369,2026-05-23,A,Desktop,Social,1.93,5,0,0.0
+VIS-00370,2026-05-08,A,Mobile,Referral,4.72,3,0,0.0
+VIS-00371,2026-05-10,A,Desktop,Email,4.61,4,0,0.0
+VIS-00372,2026-05-13,A,Mobile,Email,9.35,5,0,0.0
+VIS-00373,2026-05-12,A,Mobile,Organic,1.14,2,0,0.0
+VIS-00374,2026-05-05,A,Mobile,Organic,2.87,4,1,44.8
+VIS-00375,2026-05-30,A,Mobile,Paid Search,1.81,7,1,56.93
+VIS-00376,2026-05-11,A,Desktop,Paid Search,8.27,5,0,0.0
+VIS-00377,2026-05-26,A,Desktop,Referral,3.27,3,0,0.0
+VIS-00378,2026-05-21,A,Mobile,Organic,5.28,2,0,0.0
+VIS-00379,2026-05-05,A,Mobile,Organic,8.41,2,0,0.0
+VIS-00380,2026-05-23,A,Desktop,Paid Search,1.91,8,0,0.0
+VIS-00381,2026-05-02,A,Mobile,Paid Search,5.92,6,0,0.0
+VIS-00382,2026-05-25,A,Desktop,Referral,4.27,5,0,0.0
+VIS-00383,2026-05-10,A,Desktop,Paid Search,5.42,7,0,0.0
+VIS-00384,2026-05-25,A,Mobile,Organic,7.05,1,0,0.0
+VIS-00385,2026-05-11,A,Desktop,Paid Search,3.68,1,0,0.0
+VIS-00386,2026-05-10,A,Desktop,Paid Search,2.4,2,0,0.0
+VIS-00387,2026-05-04,A,Tablet,Social,6.42,5,0,0.0
+VIS-00388,2026-05-16,A,Desktop,Email,9.22,4,0,0.0
+VIS-00389,2026-05-30,A,Desktop,Paid Search,4.56,2,1,62.43
+VIS-00390,2026-05-23,A,Mobile,Social,6.23,2,0,0.0
+VIS-00391,2026-05-25,A,Mobile,Organic,6.95,3,0,0.0
+VIS-00392,2026-05-19,A,Desktop,Paid Search,4.74,1,0,0.0
+VIS-00393,2026-05-18,A,Mobile,Organic,2.06,7,0,0.0
+VIS-00394,2026-05-18,A,Desktop,Organic,7.69,4,0,0.0
+VIS-00395,2026-05-15,A,Mobile,Organic,1.93,4,0,0.0
+VIS-00396,2026-05-25,A,Mobile,Organic,2.73,2,0,0.0
+VIS-00397,2026-05-29,A,Desktop,Social,4.35,5,0,0.0
+VIS-00398,2026-05-29,A,Desktop,Organic,7.67,5,0,0.0
+VIS-00399,2026-05-02,A,Mobile,Organic,2.74,6,0,0.0
+VIS-00400,2026-05-27,A,Mobile,Email,7.98,4,0,0.0
+VIS-00401,2026-05-10,A,Tablet,Organic,5.37,5,0,0.0
+VIS-00402,2026-05-09,A,Mobile,Referral,6.23,6,0,0.0
+VIS-00403,2026-05-26,A,Desktop,Paid Search,1.55,5,0,0.0
+VIS-00404,2026-05-04,A,Desktop,Organic,8.78,4,0,0.0
+VIS-00405,2026-05-19,A,Tablet,Paid Search,1.04,3,0,0.0
+VIS-00406,2026-05-09,A,Desktop,Organic,10.03,5,0,0.0
+VIS-00407,2026-05-20,A,Desktop,Organic,2.03,3,0,0.0
+VIS-00408,2026-05-25,A,Mobile,Organic,3.78,4,0,0.0
+VIS-00409,2026-05-21,A,Desktop,Paid Search,2.34,4,1,64.88
+VIS-00410,2026-05-10,A,Desktop,Organic,1.86,5,0,0.0
+VIS-00411,2026-05-07,A,Mobile,Organic,3.38,1,0,0.0
+VIS-00412,2026-05-23,A,Mobile,Organic,6.17,5,0,0.0
+VIS-00413,2026-05-17,A,Mobile,Referral,10.11,2,0,0.0
+VIS-00414,2026-05-18,A,Tablet,Paid Search,6.21,2,0,0.0
+VIS-00415,2026-05-12,A,Mobile,Organic,2.73,2,0,0.0
+VIS-00416,2026-05-30,A,Desktop,Organic,2.61,1,0,0.0
+VIS-00417,2026-05-02,A,Mobile,Organic,5.27,8,0,0.0
+VIS-00418,2026-05-04,A,Mobile,Email,4.9,5,0,0.0
+VIS-00419,2026-05-15,A,Desktop,Organic,11.53,4,0,0.0
+VIS-00420,2026-05-25,A,Mobile,Organic,2.86,2,0,0.0
+VIS-00421,2026-05-20,A,Desktop,Social,5.03,5,0,0.0
+VIS-00422,2026-05-02,A,Desktop,Organic,6.53,4,0,0.0
+VIS-00423,2026-05-29,A,Desktop,Paid Search,5.26,4,0,0.0
+VIS-00424,2026-05-20,A,Mobile,Organic,7.59,3,1,63.07
+VIS-00425,2026-05-19,A,Desktop,Paid Search,8.0,4,0,0.0
+VIS-00426,2026-05-17,A,Desktop,Email,4.41,2,0,0.0
+VIS-00427,2026-05-16,A,Desktop,Organic,2.21,1,1,76.04
+VIS-00428,2026-05-08,A,Mobile,Social,1.16,9,0,0.0
+VIS-00429,2026-05-07,A,Desktop,Social,5.84,8,0,0.0
+VIS-00430,2026-05-08,A,Mobile,Paid Search,8.58,5,1,81.55
+VIS-00431,2026-05-28,A,Mobile,Organic,5.97,4,0,0.0
+VIS-00432,2026-05-12,A,Mobile,Organic,2.4,3,0,0.0
+VIS-00433,2026-05-21,A,Desktop,Email,0.97,7,0,0.0
+VIS-00434,2026-05-15,A,Desktop,Paid Search,4.22,3,0,0.0
+VIS-00435,2026-05-26,A,Desktop,Social,2.82,6,0,0.0
+VIS-00436,2026-05-05,A,Desktop,Organic,3.32,5,0,0.0
+VIS-00437,2026-05-12,A,Desktop,Paid Search,1.94,4,0,0.0
+VIS-00438,2026-05-14,A,Desktop,Referral,2.34,2,0,0.0
+VIS-00439,2026-05-27,A,Mobile,Social,4.66,2,1,35.59
+VIS-00440,2026-05-03,A,Desktop,Social,2.58,5,0,0.0
+VIS-00441,2026-05-19,A,Desktop,Social,2.85,7,0,0.0
+VIS-00442,2026-05-15,A,Mobile,Paid Search,7.41,1,0,0.0
+VIS-00443,2026-05-10,A,Desktop,Referral,12.27,4,0,0.0
+VIS-00444,2026-05-17,A,Desktop,Referral,2.16,3,0,0.0
+VIS-00445,2026-05-09,A,Desktop,Paid Search,3.52,3,0,0.0
+VIS-00446,2026-05-12,A,Desktop,Paid Search,1.95,4,1,53.59
+VIS-00447,2026-05-01,A,Mobile,Organic,2.36,5,1,41.55
+VIS-00448,2026-05-15,A,Tablet,Social,9.97,5,0,0.0
+VIS-00449,2026-05-06,A,Mobile,Organic,8.13,4,0,0.0
+VIS-00450,2026-05-18,A,Desktop,Paid Search,6.83,6,0,0.0
+VIS-00451,2026-05-15,A,Desktop,Organic,1.15,5,0,0.0
+VIS-00452,2026-05-16,A,Desktop,Paid Search,4.71,4,0,0.0
+VIS-00453,2026-05-21,A,Desktop,Organic,0.59,3,0,0.0
+VIS-00454,2026-05-06,A,Mobile,Organic,6.06,2,1,67.14
+VIS-00455,2026-05-10,A,Tablet,Paid Search,6.14,2,0,0.0
+VIS-00456,2026-05-07,A,Mobile,Social,3.33,3,0,0.0
+VIS-00457,2026-05-05,A,Mobile,Organic,2.9,3,0,0.0
+VIS-00458,2026-05-08,A,Desktop,Paid Search,5.95,4,0,0.0
+VIS-00459,2026-05-06,A,Tablet,Paid Search,5.9,3,0,0.0
+VIS-00460,2026-05-30,A,Desktop,Email,5.86,1,0,0.0
+VIS-00461,2026-05-10,A,Mobile,Email,7.76,5,0,0.0
+VIS-00462,2026-05-16,A,Desktop,Email,2.05,5,0,0.0
+VIS-00463,2026-05-03,A,Mobile,Paid Search,5.33,3,0,0.0
+VIS-00464,2026-05-22,A,Mobile,Organic,1.95,8,0,0.0
+VIS-00465,2026-05-19,A,Desktop,Organic,6.16,1,0,0.0
+VIS-00466,2026-05-07,A,Desktop,Social,2.23,2,0,0.0
+VIS-00467,2026-05-10,A,Mobile,Paid Search,3.58,1,0,0.0
+VIS-00468,2026-05-16,A,Mobile,Paid Search,3.41,8,0,0.0
+VIS-00469,2026-05-13,A,Mobile,Referral,5.12,7,0,0.0
+VIS-00470,2026-05-14,A,Desktop,Email,9.86,1,0,0.0
+VIS-00471,2026-05-30,A,Mobile,Social,2.32,1,0,0.0
+VIS-00472,2026-05-07,A,Mobile,Organic,5.24,8,0,0.0
+VIS-00473,2026-05-07,A,Tablet,Paid Search,4.91,4,0,0.0
+VIS-00474,2026-05-07,A,Desktop,Organic,6.69,3,0,0.0
+VIS-00475,2026-05-16,A,Desktop,Paid Search,2.72,5,0,0.0
+VIS-00476,2026-05-08,A,Mobile,Organic,6.49,1,0,0.0
+VIS-00477,2026-05-20,A,Mobile,Social,0.68,5,0,0.0
+VIS-00478,2026-05-23,A,Mobile,Organic,3.48,3,0,0.0
+VIS-00479,2026-05-20,A,Desktop,Organic,1.38,6,0,0.0
+VIS-00480,2026-05-23,A,Desktop,Paid Search,5.37,3,0,0.0
+VIS-00481,2026-05-06,A,Desktop,Social,2.22,6,0,0.0
+VIS-00482,2026-05-27,A,Mobile,Organic,6.05,2,1,39.16
+VIS-00483,2026-05-02,A,Desktop,Social,8.94,1,0,0.0
+VIS-00484,2026-05-11,A,Mobile,Referral,3.47,3,0,0.0
+VIS-00485,2026-05-21,A,Mobile,Organic,4.39,5,0,0.0
+VIS-00486,2026-05-16,A,Desktop,Referral,1.76,5,1,66.54
+VIS-00487,2026-05-23,A,Desktop,Paid Search,1.82,1,1,55.73
+VIS-00488,2026-05-22,A,Mobile,Organic,2.2,2,0,0.0
+VIS-00489,2026-05-04,A,Mobile,Organic,6.36,6,0,0.0
+VIS-00490,2026-05-17,A,Mobile,Referral,6.56,3,0,0.0
+VIS-00491,2026-05-22,A,Desktop,Paid Search,1.63,2,0,0.0
+VIS-00492,2026-05-26,A,Desktop,Social,4.94,8,0,0.0
+VIS-00493,2026-05-28,A,Desktop,Organic,4.76,6,0,0.0
+VIS-00494,2026-05-01,A,Desktop,Referral,12.2,6,0,0.0
+VIS-00495,2026-05-28,A,Tablet,Paid Search,7.03,3,0,0.0
+VIS-00496,2026-05-21,A,Desktop,Email,6.07,8,0,0.0
+VIS-00497,2026-05-06,A,Mobile,Paid Search,7.71,2,0,0.0
+VIS-00498,2026-05-04,A,Tablet,Paid Search,6.06,5,1,65.37
+VIS-00499,2026-05-16,A,Desktop,Referral,1.24,8,0,0.0
+VIS-00500,2026-05-16,A,Desktop,Organic,10.98,2,1,72.6
+VIS-00501,2026-05-25,A,Desktop,Social,4.07,2,0,0.0
+VIS-00502,2026-05-12,A,Mobile,Social,3.46,10,0,0.0
+VIS-00503,2026-05-03,A,Mobile,Paid Search,7.48,4,0,0.0
+VIS-00504,2026-05-14,A,Mobile,Paid Search,7.91,11,0,0.0
+VIS-00505,2026-05-10,A,Desktop,Referral,7.71,2,0,0.0
+VIS-00506,2026-05-24,A,Desktop,Organic,3.39,1,0,0.0
+VIS-00507,2026-05-12,A,Desktop,Organic,0.58,2,0,0.0
+VIS-00508,2026-05-03,A,Mobile,Organic,6.5,1,0,0.0
+VIS-00509,2026-05-18,A,Desktop,Paid Search,4.94,2,0,0.0
+VIS-00510,2026-05-02,A,Tablet,Organic,4.49,5,1,66.02
+VIS-00511,2026-05-04,A,Desktop,Referral,1.13,5,0,0.0
+VIS-00512,2026-05-29,A,Mobile,Organic,2.61,7,0,0.0
+VIS-00513,2026-05-02,A,Mobile,Social,4.51,6,0,0.0
+VIS-00514,2026-05-15,A,Desktop,Organic,3.28,4,1,57.69
+VIS-00515,2026-05-28,A,Mobile,Paid Search,4.64,7,0,0.0
+VIS-00516,2026-05-13,A,Desktop,Social,7.56,2,0,0.0
+VIS-00517,2026-05-13,A,Desktop,Organic,1.36,2,1,55.56
+VIS-00518,2026-05-05,A,Mobile,Organic,8.84,8,0,0.0
+VIS-00519,2026-05-27,A,Mobile,Paid Search,3.81,2,0,0.0
+VIS-00520,2026-05-16,A,Mobile,Social,7.11,5,0,0.0
+VIS-00521,2026-05-11,A,Mobile,Paid Search,1.72,6,0,0.0
+VIS-00522,2026-05-20,A,Tablet,Email,1.55,4,0,0.0
+VIS-00523,2026-05-17,A,Desktop,Organic,4.63,4,0,0.0
+VIS-00524,2026-05-27,A,Mobile,Paid Search,1.05,3,0,0.0
+VIS-00525,2026-05-03,A,Desktop,Email,4.17,5,0,0.0
+VIS-00526,2026-05-12,A,Mobile,Social,4.27,4,0,0.0
+VIS-00527,2026-05-16,A,Mobile,Organic,2.35,4,0,0.0
+VIS-00528,2026-05-04,A,Desktop,Email,2.31,4,0,0.0
+VIS-00529,2026-05-26,A,Tablet,Paid Search,5.05,3,0,0.0
+VIS-00530,2026-05-23,A,Mobile,Email,1.66,3,0,0.0
+VIS-00531,2026-05-26,A,Desktop,Paid Search,1.44,6,0,0.0
+VIS-00532,2026-05-10,A,Desktop,Social,1.04,3,0,0.0
+VIS-00533,2026-05-22,A,Desktop,Organic,4.9,3,0,0.0
+VIS-00534,2026-05-22,A,Desktop,Social,0.78,3,1,77.18
+VIS-00535,2026-05-18,A,Desktop,Organic,3.46,2,0,0.0
+VIS-00536,2026-05-25,A,Mobile,Email,3.3,5,0,0.0
+VIS-00537,2026-05-11,A,Desktop,Referral,1.63,6,0,0.0
+VIS-00538,2026-05-29,A,Desktop,Paid Search,3.66,6,0,0.0
+VIS-00539,2026-05-28,A,Mobile,Organic,5.75,3,0,0.0
+VIS-00540,2026-05-06,A,Mobile,Organic,1.34,5,0,0.0
+VIS-00541,2026-05-12,A,Mobile,Organic,4.42,3,0,0.0
+VIS-00542,2026-05-08,A,Desktop,Organic,9.33,3,0,0.0
+VIS-00543,2026-05-14,A,Mobile,Organic,3.32,4,0,0.0
+VIS-00544,2026-05-12,A,Desktop,Email,3.16,3,0,0.0
+VIS-00545,2026-05-27,A,Desktop,Referral,4.17,5,0,0.0
+VIS-00546,2026-05-25,A,Desktop,Organic,4.48,2,0,0.0
+VIS-00547,2026-05-17,A,Desktop,Paid Search,5.77,4,0,0.0
+VIS-00548,2026-05-14,A,Desktop,Paid Search,4.26,7,0,0.0
+VIS-00549,2026-05-01,A,Desktop,Referral,3.14,4,0,0.0
+VIS-00550,2026-05-14,A,Desktop,Referral,2.65,8,1,46.31
+VIS-00551,2026-05-28,A,Mobile,Social,2.32,2,0,0.0
+VIS-00552,2026-05-26,A,Mobile,Organic,1.24,7,0,0.0
+VIS-00553,2026-05-09,A,Desktop,Organic,9.83,3,0,0.0
+VIS-00554,2026-05-04,A,Mobile,Referral,1.15,3,0,0.0
+VIS-00555,2026-05-09,A,Desktop,Referral,5.11,6,0,0.0
+VIS-00556,2026-05-04,A,Desktop,Organic,4.38,5,0,0.0
+VIS-00557,2026-05-16,A,Mobile,Organic,3.7,4,0,0.0
+VIS-00558,2026-05-03,A,Desktop,Paid Search,1.3,7,0,0.0
+VIS-00559,2026-05-18,A,Desktop,Organic,3.66,6,0,0.0
+VIS-00560,2026-05-16,A,Desktop,Email,5.4,3,0,0.0
+VIS-00561,2026-05-03,A,Mobile,Organic,9.88,5,0,0.0
+VIS-00562,2026-05-07,A,Mobile,Organic,1.52,2,0,0.0
+VIS-00563,2026-05-20,A,Mobile,Email,1.46,2,0,0.0
+VIS-00564,2026-05-11,A,Tablet,Email,1.69,4,0,0.0
+VIS-00565,2026-05-05,A,Mobile,Organic,7.35,4,0,0.0
+VIS-00566,2026-05-15,A,Mobile,Paid Search,1.89,4,0,0.0
+VIS-00567,2026-05-20,A,Desktop,Organic,4.91,4,0,0.0
+VIS-00568,2026-05-16,A,Mobile,Organic,6.33,4,0,0.0
+VIS-00569,2026-05-22,A,Desktop,Organic,7.97,3,0,0.0
+VIS-00570,2026-05-12,A,Desktop,Paid Search,2.29,5,0,0.0
+VIS-00571,2026-05-23,A,Desktop,Paid Search,2.75,5,0,0.0
+VIS-00572,2026-05-05,A,Mobile,Paid Search,1.9,2,0,0.0
+VIS-00573,2026-05-30,A,Tablet,Paid Search,5.93,3,0,0.0
+VIS-00574,2026-05-25,A,Mobile,Organic,0.6,1,0,0.0
+VIS-00575,2026-05-10,A,Mobile,Paid Search,3.26,3,0,0.0
+VIS-00576,2026-05-26,A,Mobile,Social,3.4,4,0,0.0
+VIS-00577,2026-05-29,A,Mobile,Paid Search,7.3,2,0,0.0
+VIS-00578,2026-05-17,A,Desktop,Paid Search,1.12,3,1,41.72
+VIS-00579,2026-05-20,A,Tablet,Organic,3.25,2,0,0.0
+VIS-00580,2026-05-09,A,Mobile,Organic,4.79,6,0,0.0
+VIS-00581,2026-05-14,A,Mobile,Organic,3.1,8,0,0.0
+VIS-00582,2026-05-30,A,Desktop,Email,6.96,4,0,0.0
+VIS-00583,2026-05-19,A,Mobile,Paid Search,4.03,2,1,60.71
+VIS-00584,2026-05-04,A,Desktop,Paid Search,9.29,8,0,0.0
+VIS-00585,2026-05-05,A,Mobile,Email,1.96,5,1,52.95
+VIS-00586,2026-05-27,A,Mobile,Organic,4.41,2,0,0.0
+VIS-00587,2026-05-11,A,Desktop,Email,6.36,2,0,0.0
+VIS-00588,2026-05-19,A,Desktop,Paid Search,3.86,3,0,0.0
+VIS-00589,2026-05-23,A,Desktop,Referral,4.63,1,0,0.0
+VIS-00590,2026-05-08,A,Mobile,Social,3.45,3,0,0.0
+VIS-00591,2026-05-23,A,Desktop,Organic,8.91,6,0,0.0
+VIS-00592,2026-05-18,A,Tablet,Organic,9.24,5,0,0.0
+VIS-00593,2026-05-06,A,Desktop,Referral,4.33,1,0,0.0
+VIS-00594,2026-05-17,A,Desktop,Social,3.62,3,1,57.91
+VIS-00595,2026-05-03,A,Desktop,Email,0.52,8,1,70.44
+VIS-00596,2026-05-01,A,Mobile,Organic,7.31,5,1,56.48
+VIS-00597,2026-05-14,A,Mobile,Organic,5.18,1,0,0.0
+VIS-00598,2026-05-14,A,Tablet,Social,9.91,6,0,0.0
+VIS-00599,2026-05-25,A,Desktop,Paid Search,1.66,4,0,0.0
+VIS-00600,2026-05-24,A,Desktop,Email,6.75,2,0,0.0
+VIS-00601,2026-05-17,A,Mobile,Referral,4.98,1,0,0.0
+VIS-00602,2026-05-20,A,Mobile,Paid Search,8.52,2,0,0.0
+VIS-00603,2026-05-19,A,Tablet,Email,1.9,3,1,83.01
+VIS-00604,2026-05-04,A,Desktop,Social,4.41,4,0,0.0
+VIS-00605,2026-05-21,A,Mobile,Paid Search,8.42,6,1,58.05
+VIS-00606,2026-05-07,A,Mobile,Paid Search,7.35,3,0,0.0
+VIS-00607,2026-05-02,A,Mobile,Paid Search,4.92,3,0,0.0
+VIS-00608,2026-05-21,A,Mobile,Paid Search,3.96,5,1,45.55
+VIS-00609,2026-05-18,A,Mobile,Referral,4.02,1,0,0.0
+VIS-00610,2026-05-01,A,Mobile,Email,5.43,7,1,48.6
+VIS-00611,2026-05-25,A,Mobile,Organic,15.31,4,1,69.98
+VIS-00612,2026-05-21,A,Desktop,Organic,4.97,5,1,37.22
+VIS-00613,2026-05-13,A,Mobile,Email,2.69,2,1,71.18
+VIS-00614,2026-05-17,A,Desktop,Social,5.94,7,0,0.0
+VIS-00615,2026-05-19,A,Mobile,Organic,1.54,5,0,0.0
+VIS-00616,2026-05-12,A,Mobile,Social,2.39,6,0,0.0
+VIS-00617,2026-05-10,A,Mobile,Paid Search,8.6,3,0,0.0
+VIS-00618,2026-05-13,A,Desktop,Email,1.4,5,0,0.0
+VIS-00619,2026-05-05,A,Mobile,Organic,8.7,2,1,70.19
+VIS-00620,2026-05-15,A,Desktop,Organic,1.69,3,0,0.0
+VIS-00621,2026-05-19,A,Mobile,Social,1.75,3,0,0.0
+VIS-00622,2026-05-03,A,Mobile,Social,5.02,2,0,0.0
+VIS-00623,2026-05-03,A,Mobile,Social,4.26,4,0,0.0
+VIS-00624,2026-05-28,A,Mobile,Organic,12.57,2,0,0.0
+VIS-00625,2026-05-06,A,Desktop,Social,3.31,4,0,0.0
+VIS-00626,2026-05-13,A,Desktop,Paid Search,3.84,2,0,0.0
+VIS-00627,2026-05-07,A,Desktop,Organic,3.43,7,0,0.0
+VIS-00628,2026-05-20,A,Mobile,Social,4.72,5,1,39.15
+VIS-00629,2026-05-14,A,Mobile,Email,1.08,3,1,32.85
+VIS-00630,2026-05-04,A,Mobile,Referral,4.55,2,0,0.0
+VIS-00631,2026-05-01,A,Mobile,Referral,7.44,2,0,0.0
+VIS-00632,2026-05-27,A,Desktop,Referral,8.34,6,0,0.0
+VIS-00633,2026-05-13,A,Mobile,Paid Search,8.15,7,0,0.0
+VIS-00634,2026-05-21,A,Mobile,Paid Search,1.56,2,0,0.0
+VIS-00635,2026-05-07,A,Desktop,Organic,10.05,8,0,0.0
+VIS-00636,2026-05-08,A,Desktop,Email,1.49,2,0,0.0
+VIS-00637,2026-05-16,A,Mobile,Email,10.29,5,0,0.0
+VIS-00638,2026-05-28,A,Mobile,Email,3.66,4,0,0.0
+VIS-00639,2026-05-12,A,Mobile,Social,2.41,5,0,0.0
+VIS-00640,2026-05-27,A,Desktop,Referral,7.09,4,0,0.0
+VIS-00641,2026-05-02,A,Desktop,Social,3.81,2,0,0.0
+VIS-00642,2026-05-14,A,Desktop,Referral,8.62,2,0,0.0
+VIS-00643,2026-05-11,A,Desktop,Paid Search,6.77,4,0,0.0
+VIS-00644,2026-05-09,A,Mobile,Email,19.5,7,0,0.0
+VIS-00645,2026-05-01,A,Desktop,Paid Search,1.13,6,0,0.0
+VIS-00646,2026-05-25,A,Mobile,Referral,2.86,7,0,0.0
+VIS-00647,2026-05-01,A,Desktop,Social,1.18,3,0,0.0
+VIS-00648,2026-05-01,A,Mobile,Organic,12.08,2,0,0.0
+VIS-00649,2026-05-01,A,Desktop,Organic,5.95,4,1,40.01
+VIS-00650,2026-05-29,A,Desktop,Paid Search,2.76,1,0,0.0
+VIS-00651,2026-05-16,A,Tablet,Paid Search,16.69,3,1,66.59
+VIS-00652,2026-05-29,A,Desktop,Social,4.92,2,0,0.0
+VIS-00653,2026-05-14,A,Mobile,Organic,5.75,5,0,0.0
+VIS-00654,2026-05-03,A,Desktop,Organic,3.27,4,0,0.0
+VIS-00655,2026-05-04,A,Mobile,Email,7.49,3,0,0.0
+VIS-00656,2026-05-29,A,Tablet,Referral,6.29,4,0,0.0
+VIS-00657,2026-05-21,A,Mobile,Organic,4.18,5,0,0.0
+VIS-00658,2026-05-09,A,Mobile,Organic,6.73,5,0,0.0
+VIS-00659,2026-05-14,A,Desktop,Organic,7.94,3,0,0.0
+VIS-00660,2026-05-25,A,Desktop,Paid Search,2.0,4,0,0.0
+VIS-00661,2026-05-27,A,Mobile,Organic,6.03,6,1,82.45
+VIS-00662,2026-05-26,A,Desktop,Organic,5.18,1,0,0.0
+VIS-00663,2026-05-30,A,Desktop,Organic,5.59,7,1,76.19
+VIS-00664,2026-05-06,A,Tablet,Email,0.56,3,0,0.0
+VIS-00665,2026-05-04,A,Tablet,Social,9.06,5,0,0.0
+VIS-00666,2026-05-11,A,Desktop,Email,12.33,6,1,21.58
+VIS-00667,2026-05-03,A,Mobile,Social,10.16,1,0,0.0
+VIS-00668,2026-05-29,A,Mobile,Organic,1.02,3,1,58.8
+VIS-00669,2026-05-04,A,Desktop,Organic,2.68,6,0,0.0
+VIS-00670,2026-05-24,A,Mobile,Paid Search,2.9,2,0,0.0
+VIS-00671,2026-05-11,A,Desktop,Organic,3.48,3,0,0.0
+VIS-00672,2026-05-22,A,Desktop,Social,7.96,1,0,0.0
+VIS-00673,2026-05-29,A,Mobile,Organic,2.72,3,0,0.0
+VIS-00674,2026-05-08,A,Desktop,Organic,6.74,3,0,0.0
+VIS-00675,2026-05-24,A,Desktop,Social,8.87,6,0,0.0
+VIS-00676,2026-05-22,A,Mobile,Organic,3.6,3,0,0.0
+VIS-00677,2026-05-09,A,Mobile,Referral,6.93,5,0,0.0
+VIS-00678,2026-05-02,A,Desktop,Social,3.22,6,0,0.0
+VIS-00679,2026-05-15,A,Desktop,Social,8.78,5,0,0.0
+VIS-00680,2026-05-08,A,Desktop,Organic,9.7,2,0,0.0
+VIS-00681,2026-05-21,A,Mobile,Referral,2.87,4,0,0.0
+VIS-00682,2026-05-08,A,Desktop,Paid Search,2.14,3,0,0.0
+VIS-00683,2026-05-11,A,Mobile,Paid Search,9.99,8,0,0.0
+VIS-00684,2026-05-02,A,Desktop,Email,3.75,3,1,57.08
+VIS-00685,2026-05-06,A,Mobile,Organic,5.87,4,0,0.0
+VIS-00686,2026-05-15,A,Tablet,Referral,7.79,7,0,0.0
+VIS-00687,2026-05-11,A,Mobile,Referral,2.11,6,0,0.0
+VIS-00688,2026-05-01,A,Mobile,Organic,2.63,5,0,0.0
+VIS-00689,2026-05-23,A,Desktop,Organic,0.52,5,0,0.0
+VIS-00690,2026-05-30,A,Desktop,Referral,9.49,6,0,0.0
+VIS-00691,2026-05-09,A,Tablet,Organic,4.51,4,0,0.0
+VIS-00692,2026-05-15,A,Desktop,Organic,2.32,3,0,0.0
+VIS-00693,2026-05-11,A,Mobile,Organic,4.27,3,0,0.0
+VIS-00694,2026-05-24,A,Mobile,Paid Search,2.54,3,0,0.0
+VIS-00695,2026-05-06,A,Desktop,Organic,4.4,4,0,0.0
+VIS-00696,2026-05-16,A,Desktop,Paid Search,7.41,5,0,0.0
+VIS-00697,2026-05-11,A,Desktop,Social,2.35,4,0,0.0
+VIS-00698,2026-05-04,A,Mobile,Organic,4.54,8,0,0.0
+VIS-00699,2026-05-22,A,Mobile,Organic,5.01,4,0,0.0
+VIS-00700,2026-05-14,A,Mobile,Organic,1.24,4,1,72.16
+VIS-00701,2026-05-08,A,Mobile,Referral,3.06,4,0,0.0
+VIS-00702,2026-05-01,A,Mobile,Organic,8.68,5,0,0.0
+VIS-00703,2026-05-30,A,Desktop,Email,3.69,4,0,0.0
+VIS-00704,2026-05-09,A,Desktop,Organic,5.85,5,0,0.0
+VIS-00705,2026-05-02,A,Tablet,Paid Search,5.56,6,0,0.0
+VIS-00706,2026-05-20,A,Mobile,Organic,4.86,3,0,0.0
+VIS-00707,2026-05-27,A,Mobile,Organic,9.51,1,0,0.0
+VIS-00708,2026-05-06,A,Mobile,Organic,1.78,7,0,0.0
+VIS-00709,2026-05-29,A,Mobile,Organic,0.66,4,0,0.0
+VIS-00710,2026-05-28,A,Desktop,Referral,4.6,5,0,0.0
+VIS-00711,2026-05-01,A,Desktop,Organic,6.55,3,0,0.0
+VIS-00712,2026-05-20,A,Mobile,Paid Search,7.57,4,0,0.0
+VIS-00713,2026-05-22,A,Desktop,Social,5.06,8,0,0.0
+VIS-00714,2026-05-01,A,Mobile,Paid Search,1.63,3,1,61.28
+VIS-00715,2026-05-29,A,Desktop,Organic,5.03,3,0,0.0
+VIS-00716,2026-05-13,A,Desktop,Organic,0.76,7,0,0.0
+VIS-00717,2026-05-06,A,Desktop,Referral,4.96,5,0,0.0
+VIS-00718,2026-05-27,A,Tablet,Paid Search,1.13,3,0,0.0
+VIS-00719,2026-05-30,A,Mobile,Organic,4.43,4,0,0.0
+VIS-00720,2026-05-08,A,Desktop,Referral,1.21,6,0,0.0
+VIS-00721,2026-05-13,A,Mobile,Email,2.31,3,0,0.0
+VIS-00722,2026-05-04,A,Desktop,Email,1.64,4,0,0.0
+VIS-00723,2026-05-03,A,Desktop,Organic,5.1,6,0,0.0
+VIS-00724,2026-05-09,A,Desktop,Social,2.88,6,0,0.0
+VIS-00725,2026-05-03,A,Mobile,Paid Search,4.07,6,0,0.0
+VIS-00726,2026-05-15,A,Tablet,Organic,7.76,3,0,0.0
+VIS-00727,2026-05-10,A,Desktop,Paid Search,2.96,10,0,0.0
+VIS-00728,2026-05-12,A,Mobile,Organic,2.21,1,1,38.67
+VIS-00729,2026-05-25,A,Mobile,Organic,3.03,1,0,0.0
+VIS-00730,2026-05-08,A,Desktop,Paid Search,6.05,3,0,0.0
+VIS-00731,2026-05-23,A,Desktop,Organic,2.95,3,1,57.21
+VIS-00732,2026-05-14,A,Desktop,Organic,4.51,6,0,0.0
+VIS-00733,2026-05-04,A,Mobile,Paid Search,3.43,7,0,0.0
+VIS-00734,2026-05-15,A,Desktop,Paid Search,1.99,1,0,0.0
+VIS-00735,2026-05-29,A,Mobile,Paid Search,10.59,6,0,0.0
+VIS-00736,2026-05-21,A,Mobile,Referral,4.18,4,0,0.0
+VIS-00737,2026-05-21,A,Mobile,Paid Search,5.03,4,0,0.0
+VIS-00738,2026-05-30,A,Desktop,Email,6.26,7,0,0.0
+VIS-00739,2026-05-15,A,Mobile,Email,6.77,4,0,0.0
+VIS-00740,2026-05-20,A,Desktop,Email,5.61,4,0,0.0
+VIS-00741,2026-05-11,A,Mobile,Social,2.92,3,0,0.0
+VIS-00742,2026-05-03,A,Tablet,Organic,3.47,5,0,0.0
+VIS-00743,2026-05-07,A,Desktop,Email,2.28,6,0,0.0
+VIS-00744,2026-05-05,A,Mobile,Social,5.75,4,0,0.0
+VIS-00745,2026-05-12,A,Desktop,Paid Search,3.41,3,0,0.0
+VIS-00746,2026-05-09,A,Tablet,Organic,4.25,2,1,47.37
+VIS-00747,2026-05-02,A,Desktop,Organic,2.02,3,0,0.0
+VIS-00748,2026-05-29,A,Tablet,Organic,3.77,3,1,64.03
+VIS-00749,2026-05-18,A,Desktop,Social,5.81,3,0,0.0
+VIS-00750,2026-05-02,A,Desktop,Social,5.24,4,0,0.0
+VIS-00751,2026-05-28,A,Mobile,Email,2.96,3,0,0.0
+VIS-00752,2026-05-20,A,Desktop,Paid Search,2.95,2,0,0.0
+VIS-00753,2026-05-12,A,Desktop,Organic,4.32,7,0,0.0
+VIS-00754,2026-05-13,A,Desktop,Paid Search,3.73,1,0,0.0
+VIS-00755,2026-05-14,A,Desktop,Organic,5.92,2,0,0.0
+VIS-00756,2026-05-08,A,Desktop,Organic,1.84,2,0,0.0
+VIS-00757,2026-05-16,A,Desktop,Paid Search,1.73,4,0,0.0
+VIS-00758,2026-05-20,A,Tablet,Social,3.02,3,0,0.0
+VIS-00759,2026-05-25,A,Mobile,Paid Search,2.37,5,0,0.0
+VIS-00760,2026-05-23,A,Mobile,Paid Search,3.96,3,0,0.0
+VIS-00761,2026-05-21,A,Desktop,Organic,3.96,2,0,0.0
+VIS-00762,2026-05-24,A,Desktop,Organic,1.08,3,0,0.0
+VIS-00763,2026-05-13,A,Mobile,Email,2.74,2,0,0.0
+VIS-00764,2026-05-07,A,Mobile,Social,2.92,3,0,0.0
+VIS-00765,2026-05-08,A,Tablet,Organic,3.4,8,0,0.0
+VIS-00766,2026-05-06,A,Mobile,Paid Search,3.72,8,1,61.63
+VIS-00767,2026-05-11,A,Tablet,Organic,3.67,4,0,0.0
+VIS-00768,2026-05-06,A,Mobile,Organic,1.51,7,0,0.0
+VIS-00769,2026-05-22,A,Desktop,Organic,3.95,4,0,0.0
+VIS-00770,2026-05-07,A,Desktop,Organic,1.1,7,0,0.0
+VIS-00771,2026-05-16,A,Tablet,Social,3.36,3,0,0.0
+VIS-00772,2026-05-07,A,Desktop,Paid Search,3.22,5,0,0.0
+VIS-00773,2026-05-30,A,Desktop,Organic,4.4,1,1,62.4
+VIS-00774,2026-05-16,A,Desktop,Email,1.68,6,0,0.0
+VIS-00775,2026-05-14,A,Mobile,Social,14.09,3,0,0.0
+VIS-00776,2026-05-10,A,Mobile,Paid Search,3.83,7,0,0.0
+VIS-00777,2026-05-03,A,Mobile,Organic,1.54,4,0,0.0
+VIS-00778,2026-05-19,A,Mobile,Paid Search,6.31,4,0,0.0
+VIS-00779,2026-05-04,A,Mobile,Email,3.07,5,0,0.0
+VIS-00780,2026-05-30,A,Mobile,Email,5.41,7,0,0.0
+VIS-00781,2026-05-09,A,Tablet,Organic,2.64,1,1,70.11
+VIS-00782,2026-05-24,A,Mobile,Organic,5.63,2,0,0.0
+VIS-00783,2026-05-05,A,Desktop,Referral,2.8,3,0,0.0
+VIS-00784,2026-05-03,A,Mobile,Organic,16.7,8,1,58.68
+VIS-00785,2026-05-03,A,Mobile,Paid Search,4.31,4,0,0.0
+VIS-00786,2026-05-29,A,Desktop,Social,1.43,1,0,0.0
+VIS-00787,2026-05-10,A,Mobile,Social,3.34,5,0,0.0
+VIS-00788,2026-05-12,A,Desktop,Organic,7.86,3,0,0.0
+VIS-00789,2026-05-10,A,Mobile,Social,2.65,5,1,36.77
+VIS-00790,2026-05-06,A,Mobile,Paid Search,8.72,7,0,0.0
+VIS-00791,2026-05-06,A,Desktop,Paid Search,6.46,2,0,0.0
+VIS-00792,2026-05-08,A,Desktop,Social,5.09,4,0,0.0
+VIS-00793,2026-05-22,A,Mobile,Paid Search,9.2,5,0,0.0
+VIS-00794,2026-05-02,A,Tablet,Organic,4.89,3,0,0.0
+VIS-00795,2026-05-28,A,Tablet,Organic,8.0,9,1,58.68
+VIS-00796,2026-05-09,A,Mobile,Social,4.73,5,0,0.0
+VIS-00797,2026-05-26,A,Mobile,Email,4.38,5,1,46.24
+VIS-00798,2026-05-15,A,Mobile,Organic,9.96,4,0,0.0
+VIS-00799,2026-05-22,A,Desktop,Referral,4.86,2,0,0.0
+VIS-00800,2026-05-04,A,Mobile,Referral,2.23,7,0,0.0
+VIS-00801,2026-05-18,A,Desktop,Organic,0.43,7,0,0.0
+VIS-00802,2026-05-29,A,Tablet,Email,2.47,3,0,0.0
+VIS-00803,2026-05-27,A,Tablet,Paid Search,1.7,8,1,79.22
+VIS-00804,2026-05-13,A,Tablet,Organic,7.07,1,0,0.0
+VIS-00805,2026-05-08,A,Mobile,Organic,0.82,2,0,0.0
+VIS-00806,2026-05-17,A,Mobile,Organic,6.29,1,1,50.13
+VIS-00807,2026-05-09,A,Mobile,Organic,2.4,1,0,0.0
+VIS-00808,2026-05-10,A,Mobile,Paid Search,6.91,1,0,0.0
+VIS-00809,2026-05-01,A,Tablet,Organic,6.08,3,1,52.92
+VIS-00810,2026-05-28,A,Mobile,Email,0.52,1,0,0.0
+VIS-00811,2026-05-03,A,Desktop,Email,13.47,2,0,0.0
+VIS-00812,2026-05-26,A,Desktop,Paid Search,2.95,6,0,0.0
+VIS-00813,2026-05-23,A,Mobile,Organic,3.83,5,0,0.0
+VIS-00814,2026-05-15,A,Desktop,Social,7.26,1,0,0.0
+VIS-00815,2026-05-11,A,Mobile,Paid Search,14.38,1,0,0.0
+VIS-00816,2026-05-01,A,Tablet,Paid Search,2.41,5,0,0.0
+VIS-00817,2026-05-17,A,Desktop,Organic,5.17,4,0,0.0
+VIS-00818,2026-05-20,A,Mobile,Social,2.85,1,0,0.0
+VIS-00819,2026-05-22,A,Mobile,Organic,7.62,5,0,0.0
+VIS-00820,2026-05-11,A,Mobile,Email,10.11,3,0,0.0
+VIS-00821,2026-05-04,A,Desktop,Paid Search,2.17,3,0,0.0
+VIS-00822,2026-05-05,A,Mobile,Social,1.47,4,1,66.0
+VIS-00823,2026-05-27,A,Desktop,Social,4.16,3,0,0.0
+VIS-00824,2026-05-14,A,Desktop,Paid Search,3.37,3,0,0.0
+VIS-00825,2026-05-08,A,Desktop,Paid Search,1.45,2,0,0.0
+VIS-00826,2026-05-22,A,Desktop,Organic,5.28,5,0,0.0
+VIS-00827,2026-05-05,A,Tablet,Organic,3.06,4,0,0.0
+VIS-00828,2026-05-20,A,Desktop,Organic,1.51,3,1,50.1
+VIS-00829,2026-05-09,A,Mobile,Organic,2.83,2,0,0.0
+VIS-00830,2026-05-03,A,Mobile,Organic,8.33,5,0,0.0
+VIS-00831,2026-05-26,A,Desktop,Referral,7.7,3,0,0.0
+VIS-00832,2026-05-28,A,Desktop,Referral,4.29,5,0,0.0
+VIS-00833,2026-05-02,A,Mobile,Email,4.12,2,1,65.37
+VIS-00834,2026-05-15,A,Desktop,Organic,5.03,1,0,0.0
+VIS-00835,2026-05-21,A,Mobile,Social,5.99,6,0,0.0
+VIS-00836,2026-05-28,A,Desktop,Organic,7.85,3,0,0.0
+VIS-00837,2026-05-21,A,Desktop,Paid Search,5.31,6,0,0.0
+VIS-00838,2026-05-13,A,Mobile,Organic,3.97,3,1,64.2
+VIS-00839,2026-05-10,A,Tablet,Email,4.58,5,0,0.0
+VIS-00840,2026-05-28,A,Desktop,Paid Search,0.89,6,0,0.0
+VIS-00841,2026-05-20,A,Mobile,Paid Search,6.65,5,0,0.0
+VIS-00842,2026-05-26,A,Desktop,Email,4.81,6,1,73.34
+VIS-00843,2026-05-22,A,Desktop,Referral,6.81,4,1,20.55
+VIS-00844,2026-05-02,A,Desktop,Paid Search,2.82,3,0,0.0
+VIS-00845,2026-05-21,A,Mobile,Organic,14.79,3,0,0.0
+VIS-00846,2026-05-27,A,Desktop,Email,1.88,6,0,0.0
+VIS-00847,2026-05-30,A,Mobile,Organic,3.19,2,0,0.0
+VIS-00848,2026-05-21,A,Tablet,Paid Search,8.37,4,0,0.0
+VIS-00849,2026-05-08,A,Mobile,Organic,5.73,6,0,0.0
+VIS-00850,2026-05-18,A,Tablet,Organic,2.41,2,0,0.0
+VIS-00851,2026-05-06,A,Tablet,Organic,3.77,5,0,0.0
+VIS-00852,2026-05-01,A,Desktop,Social,2.07,6,0,0.0
+VIS-00853,2026-05-23,A,Mobile,Social,1.18,1,0,0.0
+VIS-00854,2026-05-19,A,Tablet,Social,0.4,5,0,0.0
+VIS-00855,2026-05-11,A,Desktop,Email,2.37,3,0,0.0
+VIS-00856,2026-05-20,A,Tablet,Referral,7.17,5,0,0.0
+VIS-00857,2026-05-04,A,Desktop,Paid Search,9.51,7,0,0.0
+VIS-00858,2026-05-26,A,Mobile,Social,5.84,4,0,0.0
+VIS-00859,2026-05-11,A,Tablet,Paid Search,3.93,6,0,0.0
+VIS-00860,2026-05-12,A,Mobile,Paid Search,1.16,2,0,0.0
+VIS-00861,2026-05-28,A,Mobile,Social,5.28,2,0,0.0
+VIS-00862,2026-05-02,A,Tablet,Email,1.12,4,0,0.0
+VIS-00863,2026-05-18,A,Mobile,Paid Search,4.5,3,0,0.0
+VIS-00864,2026-05-23,A,Mobile,Organic,5.68,2,0,0.0
+VIS-00865,2026-05-15,A,Mobile,Email,3.53,4,0,0.0
+VIS-00866,2026-05-12,A,Mobile,Social,3.18,3,0,0.0
+VIS-00867,2026-05-22,A,Desktop,Organic,7.79,2,0,0.0
+VIS-00868,2026-05-10,A,Mobile,Organic,8.52,5,0,0.0
+VIS-00869,2026-05-11,A,Desktop,Referral,9.01,8,0,0.0
+VIS-00870,2026-05-21,A,Desktop,Paid Search,5.47,3,0,0.0
+VIS-00871,2026-05-25,A,Mobile,Organic,2.55,5,1,47.29
+VIS-00872,2026-05-02,A,Tablet,Email,4.05,2,0,0.0
+VIS-00873,2026-05-21,A,Desktop,Email,1.82,3,0,0.0
+VIS-00874,2026-05-01,A,Mobile,Email,1.94,4,0,0.0
+VIS-00875,2026-05-26,A,Desktop,Organic,1.19,7,0,0.0
+VIS-00876,2026-05-30,A,Mobile,Organic,4.48,3,0,0.0
+VIS-00877,2026-05-24,A,Mobile,Email,5.27,3,0,0.0
+VIS-00878,2026-05-27,A,Tablet,Social,1.71,2,0,0.0
+VIS-00879,2026-05-23,A,Mobile,Organic,6.03,4,0,0.0
+VIS-00880,2026-05-25,A,Desktop,Organic,2.92,4,0,0.0
+VIS-00881,2026-05-28,A,Mobile,Organic,7.73,5,0,0.0
+VIS-00882,2026-05-15,A,Desktop,Organic,6.94,2,0,0.0
+VIS-00883,2026-05-04,A,Desktop,Paid Search,7.42,4,0,0.0
+VIS-00884,2026-05-12,A,Mobile,Organic,1.73,5,0,0.0
+VIS-00885,2026-05-03,A,Desktop,Organic,4.33,3,0,0.0
+VIS-00886,2026-05-06,A,Mobile,Organic,8.16,2,0,0.0
+VIS-00887,2026-05-17,A,Mobile,Organic,12.19,5,0,0.0
+VIS-00888,2026-05-01,A,Desktop,Paid Search,0.25,4,0,0.0
+VIS-00889,2026-05-28,A,Desktop,Organic,3.87,7,0,0.0
+VIS-00890,2026-05-24,A,Desktop,Email,5.22,6,1,68.64
+VIS-00891,2026-05-19,A,Desktop,Paid Search,3.63,3,0,0.0
+VIS-00892,2026-05-08,A,Mobile,Paid Search,5.59,8,0,0.0
+VIS-00893,2026-05-04,A,Desktop,Paid Search,3.21,3,0,0.0
+VIS-00894,2026-05-23,A,Desktop,Paid Search,10.6,6,0,0.0
+VIS-00895,2026-05-07,A,Desktop,Social,1.64,3,0,0.0
+VIS-00896,2026-05-02,A,Desktop,Organic,6.49,5,0,0.0
+VIS-00897,2026-05-12,A,Desktop,Organic,12.63,2,0,0.0
+VIS-00898,2026-05-08,A,Mobile,Email,7.01,4,1,51.45
+VIS-00899,2026-05-15,A,Mobile,Organic,8.11,7,0,0.0
+VIS-00900,2026-05-13,A,Desktop,Organic,2.77,7,0,0.0
+VIS-00901,2026-05-19,A,Mobile,Organic,3.13,2,1,68.15
+VIS-00902,2026-05-12,A,Desktop,Paid Search,1.63,4,0,0.0
+VIS-00903,2026-05-26,A,Desktop,Social,11.21,8,0,0.0
+VIS-00904,2026-05-07,A,Mobile,Referral,2.21,7,0,0.0
+VIS-00905,2026-05-24,A,Desktop,Organic,1.45,6,1,41.39
+VIS-00906,2026-05-24,A,Mobile,Paid Search,6.1,4,0,0.0
+VIS-00907,2026-05-01,A,Desktop,Organic,8.91,4,0,0.0
+VIS-00908,2026-05-03,A,Desktop,Paid Search,0.76,6,0,0.0
+VIS-00909,2026-05-04,A,Mobile,Paid Search,9.32,5,0,0.0
+VIS-00910,2026-05-19,A,Mobile,Email,4.34,6,0,0.0
+VIS-00911,2026-05-11,A,Mobile,Social,5.07,11,0,0.0
+VIS-00912,2026-05-17,A,Desktop,Referral,2.56,6,0,0.0
+VIS-00913,2026-05-04,A,Mobile,Paid Search,7.57,2,0,0.0
+VIS-00914,2026-05-16,A,Mobile,Organic,4.8,7,0,0.0
+VIS-00915,2026-05-10,A,Mobile,Social,7.95,5,0,0.0
+VIS-00916,2026-05-06,A,Mobile,Referral,5.54,3,0,0.0
+VIS-00917,2026-05-02,A,Mobile,Organic,2.59,4,0,0.0
+VIS-00918,2026-05-20,A,Mobile,Social,6.2,1,0,0.0
+VIS-00919,2026-05-20,A,Mobile,Organic,2.78,12,0,0.0
+VIS-00920,2026-05-22,A,Desktop,Organic,2.82,7,1,58.56
+VIS-00921,2026-05-03,A,Mobile,Organic,3.89,6,0,0.0
+VIS-00922,2026-05-18,A,Mobile,Organic,4.58,5,0,0.0
+VIS-00923,2026-05-09,A,Desktop,Social,2.02,4,1,58.25
+VIS-00924,2026-05-18,A,Mobile,Email,5.45,5,0,0.0
+VIS-00925,2026-05-27,A,Desktop,Organic,4.89,3,0,0.0
+VIS-00926,2026-05-17,A,Mobile,Paid Search,6.02,2,1,27.7
+VIS-00927,2026-05-14,A,Mobile,Email,4.72,7,0,0.0
+VIS-00928,2026-05-14,A,Tablet,Organic,8.51,4,0,0.0
+VIS-00929,2026-05-16,A,Desktop,Organic,3.76,7,0,0.0
+VIS-00930,2026-05-18,A,Desktop,Referral,1.35,3,0,0.0
+VIS-00931,2026-05-05,A,Mobile,Referral,1.29,3,0,0.0
+VIS-00932,2026-05-16,A,Desktop,Organic,1.73,5,0,0.0
+VIS-00933,2026-05-08,A,Desktop,Referral,2.53,3,0,0.0
+VIS-00934,2026-05-09,A,Mobile,Email,5.51,4,0,0.0
+VIS-00935,2026-05-08,A,Desktop,Paid Search,6.49,3,1,55.64
+VIS-00936,2026-05-26,A,Desktop,Paid Search,2.15,1,0,0.0
+VIS-00937,2026-05-14,A,Tablet,Email,4.51,3,0,0.0
+VIS-00938,2026-05-11,A,Desktop,Organic,2.25,4,0,0.0
+VIS-00939,2026-05-08,A,Desktop,Social,12.0,4,1,51.93
+VIS-00940,2026-05-04,A,Tablet,Email,2.83,5,0,0.0
+VIS-00941,2026-05-16,A,Mobile,Organic,3.19,2,0,0.0
+VIS-00942,2026-05-19,A,Desktop,Social,1.96,3,0,0.0
+VIS-00943,2026-05-08,A,Desktop,Organic,6.2,5,0,0.0
+VIS-00944,2026-05-26,A,Mobile,Paid Search,1.51,6,1,50.96
+VIS-00945,2026-05-19,A,Mobile,Social,6.42,7,0,0.0
+VIS-00946,2026-05-04,A,Mobile,Email,5.37,1,0,0.0
+VIS-00947,2026-05-04,A,Desktop,Paid Search,0.96,3,0,0.0
+VIS-00948,2026-05-01,A,Mobile,Organic,4.68,2,0,0.0
+VIS-00949,2026-05-29,A,Desktop,Email,8.87,4,0,0.0
+VIS-00950,2026-05-10,A,Mobile,Organic,11.48,3,0,0.0
+VIS-00951,2026-05-29,A,Desktop,Paid Search,6.51,6,0,0.0
+VIS-00952,2026-05-09,A,Mobile,Social,7.89,4,0,0.0
+VIS-00953,2026-05-09,A,Mobile,Organic,2.61,7,0,0.0
+VIS-00954,2026-05-05,A,Desktop,Organic,6.19,4,0,0.0
+VIS-00955,2026-05-04,A,Mobile,Organic,4.95,1,0,0.0
+VIS-00956,2026-05-09,A,Desktop,Paid Search,3.76,4,0,0.0
+VIS-00957,2026-05-20,A,Mobile,Paid Search,10.26,2,1,71.54
+VIS-00958,2026-05-13,A,Mobile,Email,3.02,5,1,48.28
+VIS-00959,2026-05-06,A,Desktop,Social,6.58,1,0,0.0
+VIS-00960,2026-05-07,A,Desktop,Paid Search,3.11,4,0,0.0
+VIS-00961,2026-05-06,A,Desktop,Social,1.65,8,0,0.0
+VIS-00962,2026-05-16,A,Mobile,Referral,2.26,4,0,0.0
+VIS-00963,2026-05-27,A,Desktop,Email,3.93,5,0,0.0
+VIS-00964,2026-05-13,A,Mobile,Paid Search,1.79,2,0,0.0
+VIS-00965,2026-05-05,A,Desktop,Organic,7.64,7,0,0.0
+VIS-00966,2026-05-12,A,Desktop,Email,2.6,2,0,0.0
+VIS-00967,2026-05-04,A,Desktop,Social,6.12,7,0,0.0
+VIS-00968,2026-05-04,A,Tablet,Social,4.76,3,0,0.0
+VIS-00969,2026-05-02,A,Desktop,Organic,8.96,5,0,0.0
+VIS-00970,2026-05-23,A,Desktop,Organic,3.59,4,0,0.0
+VIS-00971,2026-05-12,A,Mobile,Email,5.31,4,0,0.0
+VIS-00972,2026-05-19,A,Desktop,Organic,3.19,6,0,0.0
+VIS-00973,2026-05-04,A,Desktop,Organic,3.07,6,0,0.0
+VIS-00974,2026-05-17,A,Desktop,Social,3.24,5,0,0.0
+VIS-00975,2026-05-15,A,Tablet,Social,18.77,5,0,0.0
+VIS-00976,2026-05-10,A,Desktop,Social,7.37,4,0,0.0
+VIS-00977,2026-05-04,A,Desktop,Social,1.69,3,0,0.0
+VIS-00978,2026-05-30,A,Desktop,Email,5.44,5,1,51.17
+VIS-00979,2026-05-20,A,Mobile,Paid Search,3.37,5,0,0.0
+VIS-00980,2026-05-22,A,Desktop,Organic,1.2,3,0,0.0
+VIS-00981,2026-05-29,A,Mobile,Referral,3.56,1,0,0.0
+VIS-00982,2026-05-25,A,Tablet,Organic,1.2,5,0,0.0
+VIS-00983,2026-05-21,A,Desktop,Paid Search,6.56,3,0,0.0
+VIS-00984,2026-05-17,A,Mobile,Paid Search,10.53,2,0,0.0
+VIS-00985,2026-05-11,A,Desktop,Social,4.34,2,0,0.0
+VIS-00986,2026-05-19,A,Mobile,Social,4.17,5,0,0.0
+VIS-00987,2026-05-14,A,Desktop,Social,7.11,3,0,0.0
+VIS-00988,2026-05-21,A,Desktop,Paid Search,1.58,4,0,0.0
+VIS-00989,2026-05-30,A,Mobile,Referral,2.84,7,0,0.0
+VIS-00990,2026-05-09,A,Mobile,Organic,6.28,2,0,0.0
+VIS-00991,2026-05-22,A,Mobile,Organic,8.04,3,0,0.0
+VIS-00992,2026-05-08,A,Desktop,Organic,8.75,6,0,0.0
+VIS-00993,2026-05-20,A,Mobile,Paid Search,2.26,7,0,0.0
+VIS-00994,2026-05-24,A,Mobile,Organic,2.88,2,0,0.0
+VIS-00995,2026-05-20,A,Mobile,Social,0.79,4,0,0.0
+VIS-00996,2026-05-10,A,Mobile,Referral,6.6,4,1,48.82
+VIS-00997,2026-05-23,A,Desktop,Email,1.4,7,0,0.0
+VIS-00998,2026-05-01,A,Desktop,Email,12.26,7,0,0.0
+VIS-00999,2026-05-17,A,Mobile,Paid Search,4.29,2,0,0.0
+VIS-01000,2026-05-14,A,Desktop,Social,8.25,6,0,0.0
+VIS-01001,2026-05-24,A,Mobile,Paid Search,2.61,5,0,0.0
+VIS-01002,2026-05-26,A,Desktop,Email,14.03,4,0,0.0
+VIS-01003,2026-05-15,A,Mobile,Email,9.16,2,0,0.0
+VIS-01004,2026-05-13,A,Mobile,Paid Search,10.45,4,0,0.0
+VIS-01005,2026-05-22,A,Mobile,Referral,2.61,2,0,0.0
+VIS-01006,2026-05-17,A,Mobile,Social,7.27,8,0,0.0
+VIS-01007,2026-05-05,A,Mobile,Referral,1.63,3,0,0.0
+VIS-01008,2026-05-28,A,Mobile,Organic,1.04,1,0,0.0
+VIS-01009,2026-05-09,A,Mobile,Paid Search,7.51,2,0,0.0
+VIS-01010,2026-05-05,A,Mobile,Social,10.49,6,0,0.0
+VIS-01011,2026-05-03,A,Desktop,Organic,3.95,4,0,0.0
+VIS-01012,2026-05-06,A,Mobile,Paid Search,1.51,2,0,0.0
+VIS-01013,2026-05-22,A,Mobile,Email,1.8,2,0,0.0
+VIS-01014,2026-05-01,A,Mobile,Referral,6.1,9,0,0.0
+VIS-01015,2026-05-26,A,Mobile,Organic,9.88,6,0,0.0
+VIS-01016,2026-05-11,A,Desktop,Referral,7.99,3,0,0.0
+VIS-01017,2026-05-20,A,Desktop,Referral,3.89,8,0,0.0
+VIS-01018,2026-05-04,A,Mobile,Email,1.89,7,0,0.0
+VIS-01019,2026-05-18,A,Tablet,Paid Search,3.14,3,0,0.0
+VIS-01020,2026-05-18,A,Mobile,Social,5.39,8,0,0.0
+VIS-01021,2026-05-09,A,Desktop,Referral,4.68,4,0,0.0
+VIS-01022,2026-05-10,A,Desktop,Organic,2.09,2,0,0.0
+VIS-01023,2026-05-27,A,Desktop,Referral,5.07,3,0,0.0
+VIS-01024,2026-05-03,A,Desktop,Social,3.65,5,0,0.0
+VIS-01025,2026-05-07,A,Desktop,Organic,2.96,2,1,48.63
+VIS-01026,2026-05-22,A,Desktop,Paid Search,10.12,5,0,0.0
+VIS-01027,2026-05-03,A,Desktop,Organic,6.56,1,1,60.2
+VIS-01028,2026-05-23,A,Desktop,Social,4.58,3,0,0.0
+VIS-01029,2026-05-24,A,Mobile,Referral,2.51,6,0,0.0
+VIS-01030,2026-05-28,A,Tablet,Organic,6.84,6,0,0.0
+VIS-01031,2026-05-23,A,Mobile,Paid Search,2.8,3,0,0.0
+VIS-01032,2026-05-11,A,Desktop,Social,11.98,5,0,0.0
+VIS-01033,2026-05-10,A,Desktop,Referral,3.54,4,0,0.0
+VIS-01034,2026-05-17,A,Desktop,Referral,5.39,3,1,73.68
+VIS-01035,2026-05-16,A,Desktop,Referral,1.18,3,0,0.0
+VIS-01036,2026-05-20,A,Tablet,Organic,5.43,3,0,0.0
+VIS-01037,2026-05-27,A,Tablet,Paid Search,3.55,5,0,0.0
+VIS-01038,2026-05-27,A,Desktop,Paid Search,5.58,6,0,0.0
+VIS-01039,2026-05-08,A,Desktop,Social,2.24,4,0,0.0
+VIS-01040,2026-05-29,A,Mobile,Organic,2.07,5,1,61.01
+VIS-01041,2026-05-21,A,Desktop,Organic,6.71,7,0,0.0
+VIS-01042,2026-05-11,A,Desktop,Social,2.65,2,0,0.0
+VIS-01043,2026-05-20,A,Tablet,Email,1.01,4,0,0.0
+VIS-01044,2026-05-07,A,Mobile,Social,2.72,5,0,0.0
+VIS-01045,2026-05-17,A,Mobile,Organic,6.77,6,0,0.0
+VIS-01046,2026-05-09,A,Mobile,Social,9.2,3,0,0.0
+VIS-01047,2026-05-15,A,Desktop,Organic,2.42,6,0,0.0
+VIS-01048,2026-05-08,A,Desktop,Organic,3.08,4,0,0.0
+VIS-01049,2026-05-15,A,Mobile,Organic,3.18,5,0,0.0
+VIS-01050,2026-05-24,A,Mobile,Organic,2.21,3,0,0.0
+VIS-01051,2026-05-02,A,Mobile,Organic,7.44,6,0,0.0
+VIS-01052,2026-05-19,A,Desktop,Paid Search,4.78,4,0,0.0
+VIS-01053,2026-05-05,A,Mobile,Referral,2.85,4,0,0.0
+VIS-01054,2026-05-04,A,Tablet,Organic,6.96,3,0,0.0
+VIS-01055,2026-05-24,A,Mobile,Paid Search,2.42,5,0,0.0
+VIS-01056,2026-05-19,A,Desktop,Organic,1.68,3,0,0.0
+VIS-01057,2026-05-29,A,Mobile,Paid Search,2.1,6,0,0.0
+VIS-01058,2026-05-20,A,Mobile,Paid Search,3.54,5,0,0.0
+VIS-01059,2026-05-09,A,Mobile,Social,6.46,4,0,0.0
+VIS-01060,2026-05-15,A,Mobile,Email,1.37,3,0,0.0
+VIS-01061,2026-05-30,A,Mobile,Social,1.36,4,0,0.0
+VIS-01062,2026-05-23,A,Mobile,Organic,5.14,2,0,0.0
+VIS-01063,2026-05-08,A,Desktop,Social,3.54,2,0,0.0
+VIS-01064,2026-05-03,A,Mobile,Organic,5.83,1,0,0.0
+VIS-01065,2026-05-16,A,Mobile,Email,7.7,11,1,48.21
+VIS-01066,2026-05-21,A,Desktop,Social,7.69,4,0,0.0
+VIS-01067,2026-05-01,A,Desktop,Referral,2.96,1,0,0.0
+VIS-01068,2026-05-02,A,Mobile,Social,4.55,2,1,44.68
+VIS-01069,2026-05-15,A,Desktop,Paid Search,4.35,4,0,0.0
+VIS-01070,2026-05-26,A,Desktop,Social,4.36,3,0,0.0
+VIS-01071,2026-05-21,A,Desktop,Social,3.25,3,0,0.0
+VIS-01072,2026-05-17,A,Mobile,Referral,1.97,4,0,0.0
+VIS-01073,2026-05-21,A,Mobile,Referral,4.18,3,0,0.0
+VIS-01074,2026-05-26,A,Mobile,Paid Search,10.2,8,0,0.0
+VIS-01075,2026-05-08,A,Mobile,Organic,5.18,8,0,0.0
+VIS-01076,2026-05-05,A,Mobile,Social,1.42,2,0,0.0
+VIS-01077,2026-05-01,A,Desktop,Social,2.65,3,0,0.0
+VIS-01078,2026-05-07,A,Desktop,Email,3.94,2,0,0.0
+VIS-01079,2026-05-02,A,Mobile,Email,0.91,5,0,0.0
+VIS-01080,2026-05-26,A,Desktop,Paid Search,6.37,2,0,0.0
+VIS-01081,2026-05-07,A,Desktop,Organic,1.77,5,0,0.0
+VIS-01082,2026-05-03,A,Mobile,Paid Search,2.19,4,0,0.0
+VIS-01083,2026-05-24,A,Desktop,Referral,3.9,7,0,0.0
+VIS-01084,2026-05-10,A,Desktop,Paid Search,1.15,2,0,0.0
+VIS-01085,2026-05-21,A,Tablet,Social,6.46,2,0,0.0
+VIS-01086,2026-05-24,A,Desktop,Paid Search,1.16,3,0,0.0
+VIS-01087,2026-05-23,A,Mobile,Referral,1.98,5,0,0.0
+VIS-01088,2026-05-26,A,Mobile,Social,2.89,5,0,0.0
+VIS-01089,2026-05-13,A,Mobile,Paid Search,5.69,2,0,0.0
+VIS-01090,2026-05-05,A,Mobile,Organic,15.89,2,0,0.0
+VIS-01091,2026-05-20,A,Desktop,Organic,1.11,2,0,0.0
+VIS-01092,2026-05-02,A,Tablet,Organic,1.63,5,0,0.0
+VIS-01093,2026-05-11,A,Mobile,Paid Search,0.65,2,1,35.41
+VIS-01094,2026-05-19,A,Desktop,Social,0.74,4,0,0.0
+VIS-01095,2026-05-11,A,Desktop,Social,4.05,2,0,0.0
+VIS-01096,2026-05-07,A,Tablet,Social,3.71,3,0,0.0
+VIS-01097,2026-05-20,A,Desktop,Paid Search,6.54,2,0,0.0
+VIS-01098,2026-05-09,A,Desktop,Organic,2.36,2,0,0.0
+VIS-01099,2026-05-25,A,Mobile,Social,6.2,6,0,0.0
+VIS-01100,2026-05-02,A,Mobile,Organic,8.38,3,0,0.0
+VIS-01101,2026-05-07,A,Desktop,Social,3.17,1,1,48.78
+VIS-01102,2026-05-11,A,Tablet,Social,6.02,2,0,0.0
+VIS-01103,2026-05-28,A,Mobile,Email,3.85,1,0,0.0
+VIS-01104,2026-05-25,A,Desktop,Organic,1.64,1,0,0.0
+VIS-01105,2026-05-30,A,Desktop,Referral,4.73,5,0,0.0
+VIS-01106,2026-05-18,A,Desktop,Social,8.6,6,0,0.0
+VIS-01107,2026-05-22,A,Mobile,Organic,2.19,6,0,0.0
+VIS-01108,2026-05-01,A,Mobile,Organic,1.54,5,0,0.0
+VIS-01109,2026-05-28,A,Mobile,Paid Search,5.48,9,0,0.0
+VIS-01110,2026-05-03,A,Mobile,Paid Search,3.59,3,0,0.0
+VIS-01111,2026-05-03,A,Mobile,Email,2.71,3,0,0.0
+VIS-01112,2026-05-27,A,Mobile,Paid Search,12.63,6,0,0.0
+VIS-01113,2026-05-12,A,Mobile,Email,4.83,7,0,0.0
+VIS-01114,2026-05-19,A,Desktop,Paid Search,4.7,1,0,0.0
+VIS-01115,2026-05-07,A,Desktop,Referral,6.98,6,0,0.0
+VIS-01116,2026-05-06,A,Mobile,Organic,3.88,5,0,0.0
+VIS-01117,2026-05-20,A,Mobile,Organic,5.31,9,1,52.27
+VIS-01118,2026-05-19,A,Mobile,Social,1.27,1,0,0.0
+VIS-01119,2026-05-11,A,Desktop,Paid Search,1.57,3,0,0.0
+VIS-01120,2026-05-24,A,Desktop,Paid Search,6.71,6,0,0.0
+VIS-01121,2026-05-13,A,Mobile,Organic,3.27,9,0,0.0
+VIS-01122,2026-05-25,A,Mobile,Paid Search,5.63,4,0,0.0
+VIS-01123,2026-05-15,A,Desktop,Paid Search,10.44,5,0,0.0
+VIS-01124,2026-05-20,A,Desktop,Organic,2.05,4,0,0.0
+VIS-01125,2026-05-14,A,Desktop,Referral,3.96,4,0,0.0
+VIS-01126,2026-05-05,A,Mobile,Organic,2.73,1,1,53.34
+VIS-01127,2026-05-06,A,Desktop,Referral,3.31,1,0,0.0
+VIS-01128,2026-05-26,A,Mobile,Paid Search,1.29,6,1,71.02
+VIS-01129,2026-05-02,A,Tablet,Organic,2.03,4,0,0.0
+VIS-01130,2026-05-21,A,Mobile,Paid Search,2.25,3,0,0.0
+VIS-01131,2026-05-24,A,Mobile,Paid Search,2.48,3,1,68.96
+VIS-01132,2026-05-25,A,Desktop,Organic,10.73,3,0,0.0
+VIS-01133,2026-05-10,A,Mobile,Organic,0.57,3,0,0.0
+VIS-01134,2026-05-15,A,Desktop,Social,7.97,8,0,0.0
+VIS-01135,2026-05-20,A,Mobile,Paid Search,0.81,3,0,0.0
+VIS-01136,2026-05-27,A,Desktop,Paid Search,5.79,5,0,0.0
+VIS-01137,2026-05-18,A,Desktop,Paid Search,3.55,2,0,0.0
+VIS-01138,2026-05-25,A,Desktop,Paid Search,6.1,4,0,0.0
+VIS-01139,2026-05-04,A,Tablet,Social,6.24,5,0,0.0
+VIS-01140,2026-05-10,A,Mobile,Organic,1.29,6,0,0.0
+VIS-01141,2026-05-23,A,Mobile,Organic,3.11,3,0,0.0
+VIS-01142,2026-05-05,A,Mobile,Paid Search,1.23,6,0,0.0
+VIS-01143,2026-05-30,A,Desktop,Paid Search,3.81,1,0,0.0
+VIS-01144,2026-05-19,A,Mobile,Paid Search,4.03,4,0,0.0
+VIS-01145,2026-05-05,A,Tablet,Organic,9.81,4,0,0.0
+VIS-01146,2026-05-07,A,Desktop,Referral,5.59,4,0,0.0
+VIS-01147,2026-05-05,A,Desktop,Email,0.71,2,0,0.0
+VIS-01148,2026-05-11,A,Desktop,Referral,2.12,3,0,0.0
+VIS-01149,2026-05-04,A,Desktop,Email,2.33,6,0,0.0
+VIS-01150,2026-05-07,A,Desktop,Email,2.83,3,0,0.0
+VIS-01151,2026-05-23,A,Mobile,Paid Search,6.44,4,0,0.0
+VIS-01152,2026-05-12,A,Mobile,Organic,3.96,5,1,63.13
+VIS-01153,2026-05-19,A,Mobile,Paid Search,3.75,6,0,0.0
+VIS-01154,2026-05-11,A,Mobile,Organic,0.53,3,0,0.0
+VIS-01155,2026-05-13,A,Tablet,Social,1.69,7,0,0.0
+VIS-01156,2026-05-22,A,Desktop,Organic,1.94,7,0,0.0
+VIS-01157,2026-05-15,A,Desktop,Organic,1.74,2,0,0.0
+VIS-01158,2026-05-19,A,Mobile,Organic,0.7,7,0,0.0
+VIS-01159,2026-05-28,A,Desktop,Social,7.36,8,0,0.0
+VIS-01160,2026-05-06,A,Desktop,Organic,9.5,4,0,0.0
+VIS-01161,2026-05-07,A,Mobile,Organic,1.71,6,1,64.3
+VIS-01162,2026-05-20,A,Mobile,Paid Search,2.95,6,0,0.0
+VIS-01163,2026-05-07,A,Desktop,Paid Search,1.5,1,0,0.0
+VIS-01164,2026-05-23,A,Desktop,Organic,0.84,1,1,70.24
+VIS-01165,2026-05-23,A,Desktop,Social,8.34,5,0,0.0
+VIS-01166,2026-05-14,A,Desktop,Email,3.72,7,0,0.0
+VIS-01167,2026-05-06,A,Tablet,Social,9.06,7,0,0.0
+VIS-01168,2026-05-02,A,Mobile,Organic,3.42,6,0,0.0
+VIS-01169,2026-05-24,A,Desktop,Referral,0.37,4,0,0.0
+VIS-01170,2026-05-24,A,Mobile,Organic,2.68,4,0,0.0
+VIS-01171,2026-05-12,A,Desktop,Organic,3.78,7,0,0.0
+VIS-01172,2026-05-22,A,Desktop,Organic,8.59,4,0,0.0
+VIS-01173,2026-05-01,A,Mobile,Paid Search,2.63,7,0,0.0
+VIS-01174,2026-05-02,A,Desktop,Organic,6.95,5,1,39.44
+VIS-01175,2026-05-16,A,Mobile,Paid Search,3.59,3,0,0.0
+VIS-01176,2026-05-09,A,Desktop,Paid Search,3.89,3,0,0.0
+VIS-01177,2026-05-04,A,Desktop,Email,1.6,4,0,0.0
+VIS-01178,2026-05-23,A,Mobile,Referral,5.94,5,0,0.0
+VIS-01179,2026-05-13,A,Desktop,Organic,2.78,6,0,0.0
+VIS-01180,2026-05-20,A,Desktop,Paid Search,3.75,7,0,0.0
+VIS-01181,2026-05-15,A,Desktop,Referral,1.91,3,0,0.0
+VIS-01182,2026-05-05,A,Desktop,Paid Search,0.54,5,0,0.0
+VIS-01183,2026-05-27,A,Mobile,Organic,8.26,7,1,46.0
+VIS-01184,2026-05-11,A,Desktop,Referral,0.56,8,1,67.2
+VIS-01185,2026-05-06,A,Desktop,Paid Search,2.72,3,0,0.0
+VIS-01186,2026-05-02,A,Desktop,Social,7.83,3,0,0.0
+VIS-01187,2026-05-20,A,Mobile,Email,4.37,7,0,0.0
+VIS-01188,2026-05-27,A,Desktop,Paid Search,3.46,5,0,0.0
+VIS-01189,2026-05-11,A,Mobile,Referral,3.92,7,0,0.0
+VIS-01190,2026-05-24,A,Desktop,Paid Search,1.22,3,0,0.0
+VIS-01191,2026-05-20,A,Desktop,Organic,6.63,2,0,0.0
+VIS-01192,2026-05-08,A,Desktop,Organic,1.15,3,0,0.0
+VIS-01193,2026-05-07,A,Desktop,Organic,2.19,5,0,0.0
+VIS-01194,2026-05-13,A,Desktop,Organic,2.96,3,1,45.5
+VIS-01195,2026-05-03,A,Desktop,Referral,12.16,2,0,0.0
+VIS-01196,2026-05-23,A,Mobile,Organic,10.97,6,1,79.87
+VIS-01197,2026-05-29,A,Desktop,Paid Search,3.83,6,0,0.0
+VIS-01198,2026-05-16,A,Mobile,Organic,14.06,4,0,0.0
+VIS-01199,2026-05-04,A,Mobile,Referral,6.78,6,0,0.0
+VIS-01200,2026-05-03,A,Mobile,Email,2.74,3,0,0.0
+VIS-01201,2026-05-02,B,Mobile,Organic,3.4,1,0,0.0
+VIS-01202,2026-05-24,B,Desktop,Organic,19.97,1,0,0.0
+VIS-01203,2026-05-08,B,Mobile,Paid Search,0.14,5,1,41.39
+VIS-01204,2026-05-22,B,Mobile,Organic,2.53,3,0,0.0
+VIS-01205,2026-05-05,B,Mobile,Organic,7.16,3,0,0.0
+VIS-01206,2026-05-01,B,Mobile,Referral,2.01,4,0,0.0
+VIS-01207,2026-05-03,B,Mobile,Organic,6.67,6,1,55.89
+VIS-01208,2026-05-26,B,Mobile,Email,6.9,5,0,0.0
+VIS-01209,2026-05-03,B,Mobile,Email,1.03,6,0,0.0
+VIS-01210,2026-05-15,B,Tablet,Organic,9.67,3,1,82.1
+VIS-01211,2026-05-04,B,Desktop,Organic,5.01,5,0,0.0
+VIS-01212,2026-05-18,B,Mobile,Paid Search,3.94,5,0,0.0
+VIS-01213,2026-05-16,B,Mobile,Paid Search,5.26,3,1,76.49
+VIS-01214,2026-05-21,B,Desktop,Social,2.71,5,0,0.0
+VIS-01215,2026-05-16,B,Desktop,Organic,5.58,2,0,0.0
+VIS-01216,2026-05-27,B,Mobile,Referral,3.75,3,0,0.0
+VIS-01217,2026-05-28,B,Desktop,Referral,6.42,6,0,0.0
+VIS-01218,2026-05-15,B,Desktop,Organic,4.79,7,0,0.0
+VIS-01219,2026-05-13,B,Desktop,Organic,8.91,10,0,0.0
+VIS-01220,2026-05-08,B,Tablet,Organic,2.41,1,1,47.76
+VIS-01221,2026-05-19,B,Tablet,Organic,3.35,6,0,0.0
+VIS-01222,2026-05-13,B,Mobile,Email,6.01,7,1,46.74
+VIS-01223,2026-05-29,B,Desktop,Organic,2.7,8,0,0.0
+VIS-01224,2026-05-27,B,Desktop,Paid Search,8.32,6,0,0.0
+VIS-01225,2026-05-06,B,Mobile,Organic,10.65,6,0,0.0
+VIS-01226,2026-05-19,B,Desktop,Organic,4.94,2,0,0.0
+VIS-01227,2026-05-10,B,Desktop,Organic,1.75,5,0,0.0
+VIS-01228,2026-05-17,B,Mobile,Paid Search,6.04,5,0,0.0
+VIS-01229,2026-05-07,B,Mobile,Email,3.07,6,0,0.0
+VIS-01230,2026-05-17,B,Mobile,Organic,7.01,7,1,55.53
+VIS-01231,2026-05-15,B,Mobile,Email,2.9,3,1,83.0
+VIS-01232,2026-05-15,B,Desktop,Organic,6.0,6,0,0.0
+VIS-01233,2026-05-08,B,Desktop,Referral,1.59,3,1,44.26
+VIS-01234,2026-05-28,B,Mobile,Social,2.38,3,0,0.0
+VIS-01235,2026-05-12,B,Mobile,Paid Search,3.33,4,0,0.0
+VIS-01236,2026-05-29,B,Mobile,Organic,3.56,2,0,0.0
+VIS-01237,2026-05-05,B,Mobile,Organic,1.18,5,1,79.64
+VIS-01238,2026-05-11,B,Mobile,Paid Search,6.99,6,0,0.0
+VIS-01239,2026-05-05,B,Desktop,Email,6.35,5,0,0.0
+VIS-01240,2026-05-01,B,Tablet,Referral,4.34,3,0,0.0
+VIS-01241,2026-05-28,B,Desktop,Referral,9.93,4,1,58.91
+VIS-01242,2026-05-05,B,Desktop,Organic,1.55,5,0,0.0
+VIS-01243,2026-05-10,B,Mobile,Organic,8.13,3,0,0.0
+VIS-01244,2026-05-08,B,Desktop,Paid Search,6.86,4,0,0.0
+VIS-01245,2026-05-14,B,Mobile,Organic,2.98,2,0,0.0
+VIS-01246,2026-05-13,B,Mobile,Organic,3.76,3,0,0.0
+VIS-01247,2026-05-23,B,Mobile,Email,0.13,8,0,0.0
+VIS-01248,2026-05-21,B,Mobile,Organic,2.11,6,0,0.0
+VIS-01249,2026-05-25,B,Desktop,Paid Search,6.76,5,0,0.0
+VIS-01250,2026-05-20,B,Mobile,Paid Search,2.06,6,1,59.59
+VIS-01251,2026-05-08,B,Desktop,Organic,1.58,3,0,0.0
+VIS-01252,2026-05-15,B,Tablet,Paid Search,5.84,5,1,65.53
+VIS-01253,2026-05-12,B,Mobile,Email,2.49,2,1,51.12
+VIS-01254,2026-05-28,B,Desktop,Organic,7.85,1,0,0.0
+VIS-01255,2026-05-10,B,Desktop,Paid Search,1.91,5,1,64.73
+VIS-01256,2026-05-04,B,Mobile,Paid Search,8.31,4,0,0.0
+VIS-01257,2026-05-08,B,Desktop,Organic,3.26,5,0,0.0
+VIS-01258,2026-05-13,B,Mobile,Organic,4.61,1,0,0.0
+VIS-01259,2026-05-26,B,Desktop,Paid Search,5.38,5,0,0.0
+VIS-01260,2026-05-25,B,Mobile,Email,5.7,4,1,47.38
+VIS-01261,2026-05-23,B,Mobile,Referral,1.94,3,0,0.0
+VIS-01262,2026-05-21,B,Mobile,Referral,6.95,8,0,0.0
+VIS-01263,2026-05-29,B,Desktop,Organic,7.9,3,0,0.0
+VIS-01264,2026-05-17,B,Desktop,Paid Search,12.26,6,0,0.0
+VIS-01265,2026-05-28,B,Desktop,Referral,1.59,2,0,0.0
+VIS-01266,2026-05-21,B,Desktop,Organic,6.71,4,0,0.0
+VIS-01267,2026-05-02,B,Tablet,Organic,1.71,5,0,0.0
+VIS-01268,2026-05-01,B,Tablet,Email,5.0,4,1,74.7
+VIS-01269,2026-05-06,B,Desktop,Social,2.4,6,0,0.0
+VIS-01270,2026-05-22,B,Mobile,Email,4.81,6,0,0.0
+VIS-01271,2026-05-14,B,Mobile,Organic,0.94,1,0,0.0
+VIS-01272,2026-05-16,B,Mobile,Organic,4.37,6,0,0.0
+VIS-01273,2026-05-18,B,Mobile,Organic,2.47,4,0,0.0
+VIS-01274,2026-05-26,B,Mobile,Paid Search,4.08,2,1,55.02
+VIS-01275,2026-05-02,B,Desktop,Email,3.59,1,0,0.0
+VIS-01276,2026-05-06,B,Mobile,Referral,7.78,8,1,52.55
+VIS-01277,2026-05-25,B,Desktop,Paid Search,5.51,6,0,0.0
+VIS-01278,2026-05-12,B,Desktop,Paid Search,4.93,10,1,54.84
+VIS-01279,2026-05-15,B,Tablet,Organic,9.15,3,0,0.0
+VIS-01280,2026-05-30,B,Desktop,Paid Search,1.6,1,0,0.0
+VIS-01281,2026-05-07,B,Desktop,Referral,6.41,1,0,0.0
+VIS-01282,2026-05-10,B,Desktop,Organic,3.57,6,0,0.0
+VIS-01283,2026-05-02,B,Desktop,Social,3.06,2,0,0.0
+VIS-01284,2026-05-21,B,Desktop,Organic,9.3,3,0,0.0
+VIS-01285,2026-05-27,B,Desktop,Organic,4.06,4,0,0.0
+VIS-01286,2026-05-28,B,Mobile,Organic,3.14,2,0,0.0
+VIS-01287,2026-05-20,B,Desktop,Paid Search,6.74,4,0,0.0
+VIS-01288,2026-05-17,B,Tablet,Organic,3.43,4,0,0.0
+VIS-01289,2026-05-16,B,Desktop,Social,9.13,3,0,0.0
+VIS-01290,2026-05-16,B,Desktop,Organic,2.97,7,1,53.16
+VIS-01291,2026-05-23,B,Desktop,Organic,4.19,1,0,0.0
+VIS-01292,2026-05-16,B,Tablet,Social,3.09,3,0,0.0
+VIS-01293,2026-05-23,B,Mobile,Email,12.35,8,0,0.0
+VIS-01294,2026-05-08,B,Desktop,Social,3.63,4,0,0.0
+VIS-01295,2026-05-30,B,Desktop,Organic,11.9,7,0,0.0
+VIS-01296,2026-05-16,B,Desktop,Email,3.09,8,1,47.0
+VIS-01297,2026-05-18,B,Desktop,Email,5.92,8,1,74.56
+VIS-01298,2026-05-22,B,Mobile,Organic,0.81,7,0,0.0
+VIS-01299,2026-05-27,B,Desktop,Organic,10.24,2,0,0.0
+VIS-01300,2026-05-15,B,Mobile,Organic,6.0,2,1,65.8
+VIS-01301,2026-05-29,B,Desktop,Organic,2.89,5,0,0.0
+VIS-01302,2026-05-10,B,Mobile,Organic,3.97,4,0,0.0
+VIS-01303,2026-05-17,B,Tablet,Email,4.73,5,0,0.0
+VIS-01304,2026-05-12,B,Desktop,Email,9.78,5,0,0.0
+VIS-01305,2026-05-04,B,Desktop,Email,5.2,3,0,0.0
+VIS-01306,2026-05-03,B,Mobile,Email,9.43,5,0,0.0
+VIS-01307,2026-05-14,B,Desktop,Email,5.64,2,0,0.0
+VIS-01308,2026-05-01,B,Desktop,Email,3.17,11,0,0.0
+VIS-01309,2026-05-23,B,Desktop,Organic,4.11,2,0,0.0
+VIS-01310,2026-05-28,B,Desktop,Paid Search,1.95,6,0,0.0
+VIS-01311,2026-05-17,B,Mobile,Organic,12.49,7,0,0.0
+VIS-01312,2026-05-12,B,Desktop,Organic,3.19,2,0,0.0
+VIS-01313,2026-05-24,B,Desktop,Paid Search,7.19,5,0,0.0
+VIS-01314,2026-05-22,B,Tablet,Paid Search,7.99,1,0,0.0
+VIS-01315,2026-05-23,B,Desktop,Paid Search,11.48,5,0,0.0
+VIS-01316,2026-05-21,B,Mobile,Organic,6.46,6,0,0.0
+VIS-01317,2026-05-12,B,Desktop,Social,8.81,3,0,0.0
+VIS-01318,2026-05-09,B,Mobile,Paid Search,3.75,2,0,0.0
+VIS-01319,2026-05-07,B,Mobile,Organic,5.55,5,0,0.0
+VIS-01320,2026-05-10,B,Mobile,Paid Search,9.5,6,0,0.0
+VIS-01321,2026-05-27,B,Mobile,Organic,4.05,9,0,0.0
+VIS-01322,2026-05-20,B,Desktop,Social,3.57,3,0,0.0
+VIS-01323,2026-05-18,B,Tablet,Email,8.82,8,0,0.0
+VIS-01324,2026-05-15,B,Tablet,Paid Search,9.32,6,0,0.0
+VIS-01325,2026-05-14,B,Mobile,Organic,3.68,3,1,68.72
+VIS-01326,2026-05-20,B,Desktop,Email,4.21,3,0,0.0
+VIS-01327,2026-05-19,B,Mobile,Paid Search,3.57,7,0,0.0
+VIS-01328,2026-05-18,B,Mobile,Paid Search,8.07,5,0,0.0
+VIS-01329,2026-05-10,B,Mobile,Organic,2.66,5,0,0.0
+VIS-01330,2026-05-15,B,Desktop,Paid Search,4.85,4,0,0.0
+VIS-01331,2026-05-13,B,Desktop,Referral,0.51,5,0,0.0
+VIS-01332,2026-05-19,B,Desktop,Social,7.64,4,0,0.0
+VIS-01333,2026-05-04,B,Tablet,Social,0.77,4,0,0.0
+VIS-01334,2026-05-14,B,Desktop,Email,5.55,5,0,0.0
+VIS-01335,2026-05-24,B,Mobile,Referral,1.59,2,1,59.02
+VIS-01336,2026-05-02,B,Mobile,Paid Search,5.82,3,0,0.0
+VIS-01337,2026-05-22,B,Tablet,Organic,5.32,5,0,0.0
+VIS-01338,2026-05-16,B,Desktop,Organic,3.51,12,0,0.0
+VIS-01339,2026-05-19,B,Mobile,Social,7.42,7,0,0.0
+VIS-01340,2026-05-29,B,Tablet,Social,3.14,6,0,0.0
+VIS-01341,2026-05-25,B,Mobile,Referral,4.66,1,1,74.82
+VIS-01342,2026-05-23,B,Desktop,Organic,5.01,8,1,40.44
+VIS-01343,2026-05-16,B,Desktop,Referral,4.18,4,0,0.0
+VIS-01344,2026-05-09,B,Desktop,Social,7.47,4,0,0.0
+VIS-01345,2026-05-18,B,Desktop,Organic,9.01,5,0,0.0
+VIS-01346,2026-05-16,B,Desktop,Paid Search,4.12,7,0,0.0
+VIS-01347,2026-05-07,B,Desktop,Paid Search,9.23,3,0,0.0
+VIS-01348,2026-05-04,B,Desktop,Email,1.85,8,1,58.94
+VIS-01349,2026-05-11,B,Mobile,Social,0.84,2,0,0.0
+VIS-01350,2026-05-21,B,Mobile,Social,6.93,4,0,0.0
+VIS-01351,2026-05-21,B,Desktop,Referral,2.44,2,0,0.0
+VIS-01352,2026-05-12,B,Mobile,Social,4.28,5,0,0.0
+VIS-01353,2026-05-09,B,Desktop,Paid Search,0.89,6,0,0.0
+VIS-01354,2026-05-18,B,Mobile,Organic,3.71,4,0,0.0
+VIS-01355,2026-05-14,B,Desktop,Paid Search,5.42,5,0,0.0
+VIS-01356,2026-05-30,B,Desktop,Organic,1.2,6,1,71.74
+VIS-01357,2026-05-23,B,Mobile,Organic,4.13,4,0,0.0
+VIS-01358,2026-05-19,B,Mobile,Organic,1.05,2,0,0.0
+VIS-01359,2026-05-08,B,Desktop,Organic,9.26,4,0,0.0
+VIS-01360,2026-05-25,B,Mobile,Referral,5.14,3,1,59.16
+VIS-01361,2026-05-06,B,Mobile,Paid Search,2.88,6,1,68.83
+VIS-01362,2026-05-01,B,Mobile,Referral,2.92,2,0,0.0
+VIS-01363,2026-05-22,B,Mobile,Organic,11.29,4,0,0.0
+VIS-01364,2026-05-10,B,Desktop,Social,4.4,5,0,0.0
+VIS-01365,2026-05-20,B,Desktop,Organic,1.8,4,1,79.82
+VIS-01366,2026-05-18,B,Mobile,Social,1.83,5,0,0.0
+VIS-01367,2026-05-28,B,Desktop,Email,4.73,4,0,0.0
+VIS-01368,2026-05-06,B,Mobile,Organic,9.09,6,0,0.0
+VIS-01369,2026-05-04,B,Desktop,Email,1.85,3,0,0.0
+VIS-01370,2026-05-17,B,Mobile,Email,3.54,1,1,52.71
+VIS-01371,2026-05-29,B,Desktop,Email,6.53,1,0,0.0
+VIS-01372,2026-05-11,B,Mobile,Paid Search,2.06,4,0,0.0
+VIS-01373,2026-05-26,B,Tablet,Organic,6.77,6,0,0.0
+VIS-01374,2026-05-15,B,Mobile,Email,3.47,8,0,0.0
+VIS-01375,2026-05-06,B,Desktop,Paid Search,3.15,5,1,44.59
+VIS-01376,2026-05-03,B,Desktop,Paid Search,6.64,5,0,0.0
+VIS-01377,2026-05-13,B,Desktop,Email,9.55,4,0,0.0
+VIS-01378,2026-05-22,B,Tablet,Paid Search,9.9,3,0,0.0
+VIS-01379,2026-05-06,B,Desktop,Social,10.0,5,0,0.0
+VIS-01380,2026-05-08,B,Desktop,Organic,5.48,7,0,0.0
+VIS-01381,2026-05-16,B,Desktop,Organic,12.92,5,1,58.53
+VIS-01382,2026-05-10,B,Desktop,Social,1.71,2,0,0.0
+VIS-01383,2026-05-27,B,Desktop,Email,2.46,4,1,64.28
+VIS-01384,2026-05-05,B,Desktop,Email,6.97,4,0,0.0
+VIS-01385,2026-05-16,B,Tablet,Organic,5.87,6,0,0.0
+VIS-01386,2026-05-08,B,Mobile,Email,4.0,3,0,0.0
+VIS-01387,2026-05-30,B,Desktop,Social,5.3,6,0,0.0
+VIS-01388,2026-05-05,B,Desktop,Paid Search,5.94,3,0,0.0
+VIS-01389,2026-05-14,B,Mobile,Organic,8.29,5,0,0.0
+VIS-01390,2026-05-30,B,Mobile,Paid Search,4.13,1,0,0.0
+VIS-01391,2026-05-08,B,Mobile,Email,3.81,5,0,0.0
+VIS-01392,2026-05-25,B,Desktop,Organic,4.16,4,0,0.0
+VIS-01393,2026-05-27,B,Mobile,Social,8.65,3,0,0.0
+VIS-01394,2026-05-23,B,Desktop,Paid Search,10.06,6,0,0.0
+VIS-01395,2026-05-07,B,Mobile,Social,4.89,4,0,0.0
+VIS-01396,2026-05-03,B,Desktop,Email,5.22,7,1,49.31
+VIS-01397,2026-05-23,B,Desktop,Paid Search,5.65,3,0,0.0
+VIS-01398,2026-05-08,B,Mobile,Paid Search,6.68,1,0,0.0
+VIS-01399,2026-05-20,B,Desktop,Paid Search,6.39,5,0,0.0
+VIS-01400,2026-05-28,B,Mobile,Organic,1.17,6,0,0.0
+VIS-01401,2026-05-16,B,Desktop,Paid Search,6.44,4,0,0.0
+VIS-01402,2026-05-27,B,Mobile,Organic,12.88,5,0,0.0
+VIS-01403,2026-05-10,B,Mobile,Organic,3.07,10,0,0.0
+VIS-01404,2026-05-06,B,Mobile,Social,1.99,7,0,0.0
+VIS-01405,2026-05-19,B,Desktop,Referral,6.79,3,1,76.57
+VIS-01406,2026-05-18,B,Mobile,Paid Search,2.75,5,0,0.0
+VIS-01407,2026-05-20,B,Desktop,Paid Search,9.18,5,0,0.0
+VIS-01408,2026-05-21,B,Mobile,Paid Search,10.87,6,0,0.0
+VIS-01409,2026-05-23,B,Mobile,Email,4.77,3,0,0.0
+VIS-01410,2026-05-13,B,Mobile,Email,3.42,7,1,65.36
+VIS-01411,2026-05-02,B,Desktop,Email,2.82,2,0,0.0
+VIS-01412,2026-05-10,B,Tablet,Organic,5.97,4,0,0.0
+VIS-01413,2026-05-10,B,Tablet,Organic,6.02,2,0,0.0
+VIS-01414,2026-05-08,B,Tablet,Organic,6.12,7,0,0.0
+VIS-01415,2026-05-01,B,Desktop,Paid Search,5.92,4,0,0.0
+VIS-01416,2026-05-22,B,Desktop,Referral,21.4,6,0,0.0
+VIS-01417,2026-05-29,B,Desktop,Paid Search,7.88,3,0,0.0
+VIS-01418,2026-05-10,B,Desktop,Paid Search,4.11,6,0,0.0
+VIS-01419,2026-05-13,B,Desktop,Paid Search,1.94,1,0,0.0
+VIS-01420,2026-05-22,B,Mobile,Email,4.34,4,0,0.0
+VIS-01421,2026-05-27,B,Mobile,Referral,1.68,6,0,0.0
+VIS-01422,2026-05-01,B,Mobile,Social,5.09,4,0,0.0
+VIS-01423,2026-05-29,B,Mobile,Paid Search,5.04,5,0,0.0
+VIS-01424,2026-05-17,B,Mobile,Organic,2.21,4,0,0.0
+VIS-01425,2026-05-15,B,Tablet,Social,4.37,4,0,0.0
+VIS-01426,2026-05-27,B,Mobile,Social,5.01,5,0,0.0
+VIS-01427,2026-05-26,B,Desktop,Organic,3.81,5,0,0.0
+VIS-01428,2026-05-04,B,Desktop,Organic,2.06,6,0,0.0
+VIS-01429,2026-05-28,B,Mobile,Email,9.66,6,0,0.0
+VIS-01430,2026-05-01,B,Mobile,Organic,5.16,2,0,0.0
+VIS-01431,2026-05-16,B,Desktop,Paid Search,3.46,3,0,0.0
+VIS-01432,2026-05-22,B,Mobile,Social,5.93,5,0,0.0
+VIS-01433,2026-05-01,B,Desktop,Organic,4.58,5,1,62.45
+VIS-01434,2026-05-06,B,Desktop,Paid Search,4.83,5,0,0.0
+VIS-01435,2026-05-15,B,Mobile,Organic,3.22,3,1,67.75
+VIS-01436,2026-05-17,B,Mobile,Organic,4.5,3,0,0.0
+VIS-01437,2026-05-30,B,Desktop,Email,4.87,5,0,0.0
+VIS-01438,2026-05-01,B,Desktop,Organic,9.7,5,1,68.9
+VIS-01439,2026-05-07,B,Mobile,Organic,9.68,2,0,0.0
+VIS-01440,2026-05-15,B,Mobile,Organic,2.48,2,0,0.0
+VIS-01441,2026-05-15,B,Desktop,Paid Search,2.72,2,0,0.0
+VIS-01442,2026-05-13,B,Desktop,Paid Search,3.96,3,0,0.0
+VIS-01443,2026-05-29,B,Desktop,Email,2.56,5,0,0.0
+VIS-01444,2026-05-01,B,Mobile,Organic,5.61,7,0,0.0
+VIS-01445,2026-05-27,B,Mobile,Social,12.23,4,0,0.0
+VIS-01446,2026-05-09,B,Desktop,Referral,3.76,10,0,0.0
+VIS-01447,2026-05-06,B,Mobile,Social,4.75,4,0,0.0
+VIS-01448,2026-05-14,B,Mobile,Paid Search,6.73,6,0,0.0
+VIS-01449,2026-05-18,B,Desktop,Referral,2.67,8,0,0.0
+VIS-01450,2026-05-16,B,Mobile,Social,2.31,8,0,0.0
+VIS-01451,2026-05-17,B,Desktop,Organic,3.98,3,0,0.0
+VIS-01452,2026-05-10,B,Desktop,Email,7.78,5,0,0.0
+VIS-01453,2026-05-21,B,Desktop,Paid Search,2.55,2,0,0.0
+VIS-01454,2026-05-20,B,Mobile,Email,4.22,1,1,56.58
+VIS-01455,2026-05-28,B,Mobile,Organic,4.11,3,0,0.0
+VIS-01456,2026-05-23,B,Desktop,Paid Search,1.97,7,0,0.0
+VIS-01457,2026-05-26,B,Desktop,Organic,8.95,4,0,0.0
+VIS-01458,2026-05-04,B,Desktop,Organic,6.75,1,0,0.0
+VIS-01459,2026-05-20,B,Mobile,Email,4.29,2,0,0.0
+VIS-01460,2026-05-28,B,Mobile,Organic,4.22,2,0,0.0
+VIS-01461,2026-05-16,B,Tablet,Paid Search,3.46,3,0,0.0
+VIS-01462,2026-05-11,B,Desktop,Organic,5.41,5,0,0.0
+VIS-01463,2026-05-21,B,Mobile,Social,1.77,3,0,0.0
+VIS-01464,2026-05-19,B,Mobile,Email,2.72,3,0,0.0
+VIS-01465,2026-05-16,B,Tablet,Social,6.14,5,0,0.0
+VIS-01466,2026-05-28,B,Mobile,Referral,2.18,4,1,55.08
+VIS-01467,2026-05-01,B,Mobile,Paid Search,5.0,8,0,0.0
+VIS-01468,2026-05-21,B,Desktop,Paid Search,12.6,2,0,0.0
+VIS-01469,2026-05-08,B,Mobile,Organic,6.69,4,0,0.0
+VIS-01470,2026-05-13,B,Desktop,Organic,0.13,4,0,0.0
+VIS-01471,2026-05-30,B,Mobile,Email,6.79,8,0,0.0
+VIS-01472,2026-05-23,B,Mobile,Organic,10.41,5,0,0.0
+VIS-01473,2026-05-05,B,Desktop,Organic,5.1,3,0,0.0
+VIS-01474,2026-05-10,B,Mobile,Social,1.68,3,0,0.0
+VIS-01475,2026-05-13,B,Desktop,Paid Search,7.92,4,1,62.53
+VIS-01476,2026-05-01,B,Desktop,Paid Search,1.05,2,0,0.0
+VIS-01477,2026-05-03,B,Mobile,Social,0.42,7,0,0.0
+VIS-01478,2026-05-21,B,Mobile,Paid Search,10.06,5,0,0.0
+VIS-01479,2026-05-28,B,Desktop,Paid Search,2.72,5,0,0.0
+VIS-01480,2026-05-12,B,Mobile,Social,2.84,1,0,0.0
+VIS-01481,2026-05-17,B,Desktop,Paid Search,5.23,5,0,0.0
+VIS-01482,2026-05-26,B,Desktop,Email,7.54,8,0,0.0
+VIS-01483,2026-05-05,B,Mobile,Paid Search,3.21,7,0,0.0
+VIS-01484,2026-05-01,B,Mobile,Paid Search,7.34,1,1,81.23
+VIS-01485,2026-05-09,B,Desktop,Organic,11.13,3,0,0.0
+VIS-01486,2026-05-22,B,Tablet,Organic,3.23,5,0,0.0
+VIS-01487,2026-05-09,B,Desktop,Organic,6.74,6,0,0.0
+VIS-01488,2026-05-14,B,Mobile,Paid Search,3.39,6,0,0.0
+VIS-01489,2026-05-04,B,Desktop,Organic,3.9,3,0,0.0
+VIS-01490,2026-05-02,B,Mobile,Referral,5.61,3,0,0.0
+VIS-01491,2026-05-23,B,Desktop,Referral,9.44,8,0,0.0
+VIS-01492,2026-05-13,B,Mobile,Email,6.0,4,0,0.0
+VIS-01493,2026-05-12,B,Tablet,Organic,4.34,3,1,63.5
+VIS-01494,2026-05-25,B,Mobile,Paid Search,4.7,5,0,0.0
+VIS-01495,2026-05-22,B,Mobile,Social,4.29,4,1,61.59
+VIS-01496,2026-05-27,B,Desktop,Social,7.34,8,0,0.0
+VIS-01497,2026-05-09,B,Mobile,Organic,3.29,5,0,0.0
+VIS-01498,2026-05-20,B,Mobile,Paid Search,9.58,5,0,0.0
+VIS-01499,2026-05-25,B,Desktop,Email,7.33,7,0,0.0
+VIS-01500,2026-05-22,B,Mobile,Social,10.14,9,0,0.0
+VIS-01501,2026-05-17,B,Mobile,Email,4.07,4,1,69.55
+VIS-01502,2026-05-27,B,Mobile,Organic,5.63,3,0,0.0
+VIS-01503,2026-05-13,B,Desktop,Paid Search,2.01,6,1,65.3
+VIS-01504,2026-05-29,B,Mobile,Referral,3.58,2,1,68.54
+VIS-01505,2026-05-16,B,Tablet,Referral,10.43,4,0,0.0
+VIS-01506,2026-05-16,B,Mobile,Social,4.34,2,0,0.0
+VIS-01507,2026-05-13,B,Desktop,Social,3.42,8,1,62.93
+VIS-01508,2026-05-01,B,Desktop,Organic,3.2,5,0,0.0
+VIS-01509,2026-05-10,B,Desktop,Organic,2.71,3,0,0.0
+VIS-01510,2026-05-20,B,Desktop,Organic,5.06,5,0,0.0
+VIS-01511,2026-05-03,B,Mobile,Organic,2.93,2,0,0.0
+VIS-01512,2026-05-02,B,Desktop,Email,7.34,7,0,0.0
+VIS-01513,2026-05-11,B,Mobile,Email,17.91,4,0,0.0
+VIS-01514,2026-05-02,B,Mobile,Email,3.72,7,1,46.34
+VIS-01515,2026-05-29,B,Mobile,Organic,2.98,6,0,0.0
+VIS-01516,2026-05-16,B,Mobile,Organic,2.86,7,0,0.0
+VIS-01517,2026-05-10,B,Mobile,Email,6.04,5,0,0.0
+VIS-01518,2026-05-19,B,Mobile,Social,2.12,5,0,0.0
+VIS-01519,2026-05-21,B,Mobile,Organic,4.64,3,1,41.04
+VIS-01520,2026-05-03,B,Desktop,Email,2.74,4,0,0.0
+VIS-01521,2026-05-15,B,Mobile,Organic,1.52,1,0,0.0
+VIS-01522,2026-05-20,B,Desktop,Organic,2.85,2,0,0.0
+VIS-01523,2026-05-14,B,Mobile,Email,8.98,8,0,0.0
+VIS-01524,2026-05-23,B,Desktop,Organic,8.53,5,0,0.0
+VIS-01525,2026-05-01,B,Mobile,Email,4.72,3,0,0.0
+VIS-01526,2026-05-28,B,Mobile,Paid Search,5.28,3,0,0.0
+VIS-01527,2026-05-20,B,Mobile,Paid Search,6.7,1,0,0.0
+VIS-01528,2026-05-14,B,Desktop,Organic,3.71,6,0,0.0
+VIS-01529,2026-05-27,B,Desktop,Organic,2.72,5,0,0.0
+VIS-01530,2026-05-29,B,Desktop,Organic,3.92,4,0,0.0
+VIS-01531,2026-05-23,B,Tablet,Organic,2.12,7,0,0.0
+VIS-01532,2026-05-07,B,Mobile,Social,6.26,6,0,0.0
+VIS-01533,2026-05-11,B,Desktop,Referral,11.96,6,0,0.0
+VIS-01534,2026-05-18,B,Mobile,Social,3.4,4,0,0.0
+VIS-01535,2026-05-22,B,Desktop,Organic,2.9,4,0,0.0
+VIS-01536,2026-05-08,B,Desktop,Social,10.91,2,0,0.0
+VIS-01537,2026-05-09,B,Mobile,Social,1.24,9,0,0.0
+VIS-01538,2026-05-11,B,Mobile,Organic,4.67,5,0,0.0
+VIS-01539,2026-05-13,B,Desktop,Social,1.15,7,0,0.0
+VIS-01540,2026-05-08,B,Desktop,Social,3.11,6,0,0.0
+VIS-01541,2026-05-17,B,Mobile,Paid Search,8.8,9,0,0.0
+VIS-01542,2026-05-30,B,Desktop,Paid Search,7.97,5,0,0.0
+VIS-01543,2026-05-18,B,Desktop,Social,1.96,5,0,0.0
+VIS-01544,2026-05-29,B,Desktop,Organic,2.72,3,0,0.0
+VIS-01545,2026-05-06,B,Desktop,Organic,6.24,7,0,0.0
+VIS-01546,2026-05-18,B,Mobile,Social,7.01,3,0,0.0
+VIS-01547,2026-05-17,B,Mobile,Social,10.58,8,0,0.0
+VIS-01548,2026-05-03,B,Tablet,Referral,8.21,7,0,0.0
+VIS-01549,2026-05-06,B,Mobile,Paid Search,3.69,4,0,0.0
+VIS-01550,2026-05-07,B,Mobile,Email,8.18,6,1,83.92
+VIS-01551,2026-05-16,B,Mobile,Referral,4.89,5,1,65.09
+VIS-01552,2026-05-06,B,Desktop,Social,4.56,7,0,0.0
+VIS-01553,2026-05-02,B,Desktop,Organic,7.51,1,0,0.0
+VIS-01554,2026-05-09,B,Mobile,Social,2.27,3,0,0.0
+VIS-01555,2026-05-15,B,Mobile,Social,6.29,4,1,66.56
+VIS-01556,2026-05-14,B,Desktop,Email,5.58,8,0,0.0
+VIS-01557,2026-05-30,B,Mobile,Organic,2.89,10,0,0.0
+VIS-01558,2026-05-12,B,Mobile,Paid Search,9.59,6,0,0.0
+VIS-01559,2026-05-02,B,Desktop,Email,4.33,8,0,0.0
+VIS-01560,2026-05-14,B,Mobile,Social,15.14,1,0,0.0
+VIS-01561,2026-05-01,B,Desktop,Email,3.61,5,0,0.0
+VIS-01562,2026-05-25,B,Desktop,Referral,5.67,4,0,0.0
+VIS-01563,2026-05-04,B,Desktop,Organic,5.35,5,0,0.0
+VIS-01564,2026-05-13,B,Desktop,Organic,5.36,8,0,0.0
+VIS-01565,2026-05-06,B,Mobile,Social,2.55,4,0,0.0
+VIS-01566,2026-05-16,B,Mobile,Email,6.96,3,1,70.7
+VIS-01567,2026-05-28,B,Desktop,Organic,1.54,1,1,71.22
+VIS-01568,2026-05-15,B,Desktop,Paid Search,4.56,6,0,0.0
+VIS-01569,2026-05-14,B,Tablet,Organic,3.77,7,0,0.0
+VIS-01570,2026-05-08,B,Mobile,Email,4.69,3,0,0.0
+VIS-01571,2026-05-09,B,Mobile,Paid Search,2.97,7,0,0.0
+VIS-01572,2026-05-18,B,Tablet,Social,8.07,4,1,30.7
+VIS-01573,2026-05-10,B,Mobile,Paid Search,1.68,4,0,0.0
+VIS-01574,2026-05-06,B,Mobile,Paid Search,10.09,6,1,54.94
+VIS-01575,2026-05-29,B,Desktop,Organic,6.72,4,0,0.0
+VIS-01576,2026-05-04,B,Mobile,Organic,3.17,6,0,0.0
+VIS-01577,2026-05-15,B,Mobile,Social,5.2,4,0,0.0
+VIS-01578,2026-05-18,B,Desktop,Paid Search,4.78,4,0,0.0
+VIS-01579,2026-05-03,B,Mobile,Referral,11.63,3,0,0.0
+VIS-01580,2026-05-21,B,Mobile,Social,6.03,2,0,0.0
+VIS-01581,2026-05-25,B,Mobile,Organic,8.0,3,0,0.0
+VIS-01582,2026-05-04,B,Mobile,Social,5.03,3,0,0.0
+VIS-01583,2026-05-13,B,Mobile,Organic,4.6,6,0,0.0
+VIS-01584,2026-05-15,B,Desktop,Paid Search,4.75,5,0,0.0
+VIS-01585,2026-05-30,B,Desktop,Referral,1.23,4,1,71.7
+VIS-01586,2026-05-04,B,Tablet,Referral,2.3,5,0,0.0
+VIS-01587,2026-05-24,B,Mobile,Social,2.59,11,0,0.0
+VIS-01588,2026-05-11,B,Mobile,Organic,1.6,5,0,0.0
+VIS-01589,2026-05-26,B,Desktop,Organic,1.16,3,0,0.0
+VIS-01590,2026-05-20,B,Mobile,Email,4.44,4,0,0.0
+VIS-01591,2026-05-08,B,Mobile,Organic,3.15,3,0,0.0
+VIS-01592,2026-05-20,B,Mobile,Organic,5.76,6,0,0.0
+VIS-01593,2026-05-16,B,Desktop,Organic,4.4,4,0,0.0
+VIS-01594,2026-05-13,B,Desktop,Social,6.12,2,0,0.0
+VIS-01595,2026-05-29,B,Desktop,Organic,2.59,7,0,0.0
+VIS-01596,2026-05-25,B,Desktop,Referral,3.21,7,0,0.0
+VIS-01597,2026-05-23,B,Tablet,Social,5.84,4,0,0.0
+VIS-01598,2026-05-26,B,Tablet,Referral,5.52,1,0,0.0
+VIS-01599,2026-05-13,B,Tablet,Referral,9.96,3,0,0.0
+VIS-01600,2026-05-07,B,Desktop,Social,4.03,3,0,0.0
+VIS-01601,2026-05-20,B,Mobile,Email,3.75,3,1,50.56
+VIS-01602,2026-05-29,B,Desktop,Social,2.56,2,1,72.83
+VIS-01603,2026-05-17,B,Mobile,Social,1.19,8,0,0.0
+VIS-01604,2026-05-08,B,Tablet,Email,1.68,4,0,0.0
+VIS-01605,2026-05-25,B,Tablet,Paid Search,6.01,6,0,0.0
+VIS-01606,2026-05-28,B,Desktop,Email,9.96,8,0,0.0
+VIS-01607,2026-05-06,B,Mobile,Organic,2.25,6,1,93.77
+VIS-01608,2026-05-18,B,Tablet,Organic,5.08,4,0,0.0
+VIS-01609,2026-05-28,B,Mobile,Social,11.65,4,0,0.0
+VIS-01610,2026-05-29,B,Mobile,Organic,1.29,6,0,0.0
+VIS-01611,2026-05-08,B,Desktop,Organic,2.74,6,0,0.0
+VIS-01612,2026-05-11,B,Desktop,Organic,7.48,5,0,0.0
+VIS-01613,2026-05-29,B,Mobile,Organic,2.58,2,0,0.0
+VIS-01614,2026-05-26,B,Mobile,Referral,6.89,6,0,0.0
+VIS-01615,2026-05-24,B,Mobile,Organic,4.63,4,0,0.0
+VIS-01616,2026-05-11,B,Mobile,Paid Search,3.17,5,1,80.77
+VIS-01617,2026-05-23,B,Desktop,Organic,3.4,2,0,0.0
+VIS-01618,2026-05-21,B,Tablet,Social,5.15,6,0,0.0
+VIS-01619,2026-05-23,B,Mobile,Referral,9.69,5,0,0.0
+VIS-01620,2026-05-23,B,Desktop,Paid Search,0.63,5,0,0.0
+VIS-01621,2026-05-16,B,Mobile,Social,6.24,6,0,0.0
+VIS-01622,2026-05-25,B,Tablet,Organic,2.07,5,0,0.0
+VIS-01623,2026-05-04,B,Mobile,Email,4.88,6,1,71.7
+VIS-01624,2026-05-19,B,Desktop,Organic,3.05,3,0,0.0
+VIS-01625,2026-05-06,B,Desktop,Email,0.64,1,0,0.0
+VIS-01626,2026-05-14,B,Desktop,Organic,3.12,5,0,0.0
+VIS-01627,2026-05-30,B,Mobile,Social,15.37,5,0,0.0
+VIS-01628,2026-05-01,B,Desktop,Email,1.65,6,0,0.0
+VIS-01629,2026-05-07,B,Desktop,Social,6.5,6,0,0.0
+VIS-01630,2026-05-22,B,Desktop,Organic,6.66,3,0,0.0
+VIS-01631,2026-05-08,B,Tablet,Referral,2.92,1,0,0.0
+VIS-01632,2026-05-18,B,Mobile,Social,1.56,3,0,0.0
+VIS-01633,2026-05-20,B,Mobile,Organic,7.63,3,0,0.0
+VIS-01634,2026-05-04,B,Mobile,Organic,4.93,3,0,0.0
+VIS-01635,2026-05-22,B,Desktop,Social,3.39,2,0,0.0
+VIS-01636,2026-05-21,B,Tablet,Referral,6.97,2,1,64.73
+VIS-01637,2026-05-25,B,Mobile,Paid Search,8.64,1,0,0.0
+VIS-01638,2026-05-12,B,Mobile,Social,8.85,5,0,0.0
+VIS-01639,2026-05-23,B,Desktop,Organic,3.81,4,0,0.0
+VIS-01640,2026-05-20,B,Desktop,Referral,2.59,4,0,0.0
+VIS-01641,2026-05-14,B,Desktop,Organic,9.98,5,0,0.0
+VIS-01642,2026-05-14,B,Mobile,Referral,4.71,4,0,0.0
+VIS-01643,2026-05-18,B,Mobile,Organic,9.06,3,0,0.0
+VIS-01644,2026-05-24,B,Mobile,Paid Search,6.92,1,0,0.0
+VIS-01645,2026-05-20,B,Mobile,Referral,4.01,6,0,0.0
+VIS-01646,2026-05-22,B,Mobile,Referral,2.65,3,0,0.0
+VIS-01647,2026-05-01,B,Mobile,Organic,1.98,4,0,0.0
+VIS-01648,2026-05-27,B,Desktop,Paid Search,10.19,10,0,0.0
+VIS-01649,2026-05-01,B,Mobile,Organic,4.0,9,1,65.79
+VIS-01650,2026-05-27,B,Mobile,Organic,3.58,3,0,0.0
+VIS-01651,2026-05-21,B,Desktop,Email,11.8,3,0,0.0
+VIS-01652,2026-05-01,B,Mobile,Paid Search,3.72,5,0,0.0
+VIS-01653,2026-05-02,B,Desktop,Referral,5.42,9,0,0.0
+VIS-01654,2026-05-19,B,Desktop,Paid Search,3.44,5,0,0.0
+VIS-01655,2026-05-14,B,Mobile,Email,13.63,5,0,0.0
+VIS-01656,2026-05-30,B,Desktop,Email,4.42,1,1,51.48
+VIS-01657,2026-05-02,B,Desktop,Organic,2.64,5,0,0.0
+VIS-01658,2026-05-01,B,Tablet,Organic,3.58,6,0,0.0
+VIS-01659,2026-05-14,B,Mobile,Organic,2.08,4,0,0.0
+VIS-01660,2026-05-23,B,Mobile,Paid Search,2.03,5,0,0.0
+VIS-01661,2026-05-13,B,Desktop,Referral,5.43,5,0,0.0
+VIS-01662,2026-05-09,B,Mobile,Email,2.63,6,0,0.0
+VIS-01663,2026-05-09,B,Mobile,Referral,3.32,2,0,0.0
+VIS-01664,2026-05-17,B,Mobile,Paid Search,8.26,4,0,0.0
+VIS-01665,2026-05-10,B,Desktop,Organic,6.29,2,0,0.0
+VIS-01666,2026-05-03,B,Desktop,Paid Search,2.22,4,0,0.0
+VIS-01667,2026-05-05,B,Mobile,Paid Search,6.37,4,0,0.0
+VIS-01668,2026-05-20,B,Desktop,Organic,3.78,2,1,56.44
+VIS-01669,2026-05-19,B,Desktop,Email,4.16,4,0,0.0
+VIS-01670,2026-05-26,B,Desktop,Email,4.14,2,0,0.0
+VIS-01671,2026-05-10,B,Desktop,Social,4.54,5,0,0.0
+VIS-01672,2026-05-23,B,Desktop,Social,0.62,5,0,0.0
+VIS-01673,2026-05-14,B,Mobile,Social,10.95,2,0,0.0
+VIS-01674,2026-05-22,B,Tablet,Paid Search,6.21,1,0,0.0
+VIS-01675,2026-05-30,B,Mobile,Organic,8.19,7,0,0.0
+VIS-01676,2026-05-27,B,Mobile,Organic,3.27,2,0,0.0
+VIS-01677,2026-05-05,B,Desktop,Social,7.44,1,0,0.0
+VIS-01678,2026-05-17,B,Mobile,Email,1.55,3,1,26.81
+VIS-01679,2026-05-02,B,Desktop,Email,2.95,4,0,0.0
+VIS-01680,2026-05-07,B,Mobile,Organic,6.1,2,0,0.0
+VIS-01681,2026-05-15,B,Desktop,Paid Search,7.06,3,0,0.0
+VIS-01682,2026-05-16,B,Desktop,Social,7.79,6,0,0.0
+VIS-01683,2026-05-11,B,Mobile,Organic,2.28,1,0,0.0
+VIS-01684,2026-05-25,B,Desktop,Referral,4.6,3,0,0.0
+VIS-01685,2026-05-04,B,Desktop,Paid Search,1.49,7,0,0.0
+VIS-01686,2026-05-10,B,Desktop,Email,4.26,1,0,0.0
+VIS-01687,2026-05-30,B,Mobile,Paid Search,12.51,7,0,0.0
+VIS-01688,2026-05-13,B,Desktop,Email,12.55,3,0,0.0
+VIS-01689,2026-05-21,B,Desktop,Organic,12.28,4,0,0.0
+VIS-01690,2026-05-25,B,Tablet,Paid Search,3.66,3,1,50.61
+VIS-01691,2026-05-01,B,Desktop,Social,5.71,2,0,0.0
+VIS-01692,2026-05-02,B,Mobile,Organic,4.19,4,0,0.0
+VIS-01693,2026-05-07,B,Desktop,Paid Search,1.29,2,0,0.0
+VIS-01694,2026-05-02,B,Desktop,Referral,3.76,5,0,0.0
+VIS-01695,2026-05-02,B,Mobile,Social,3.15,3,0,0.0
+VIS-01696,2026-05-11,B,Desktop,Referral,13.66,7,1,50.05
+VIS-01697,2026-05-30,B,Mobile,Organic,13.73,3,0,0.0
+VIS-01698,2026-05-26,B,Tablet,Organic,0.92,4,0,0.0
+VIS-01699,2026-05-20,B,Mobile,Organic,0.68,7,0,0.0
+VIS-01700,2026-05-04,B,Desktop,Paid Search,4.81,2,0,0.0
+VIS-01701,2026-05-25,B,Tablet,Organic,4.88,3,0,0.0
+VIS-01702,2026-05-17,B,Desktop,Paid Search,6.79,3,0,0.0
+VIS-01703,2026-05-22,B,Tablet,Paid Search,2.0,5,0,0.0
+VIS-01704,2026-05-21,B,Mobile,Organic,9.18,6,0,0.0
+VIS-01705,2026-05-28,B,Tablet,Social,0.79,5,0,0.0
+VIS-01706,2026-05-02,B,Mobile,Paid Search,4.12,7,0,0.0
+VIS-01707,2026-05-11,B,Desktop,Organic,4.66,1,0,0.0
+VIS-01708,2026-05-26,B,Desktop,Social,9.54,5,1,75.62
+VIS-01709,2026-05-23,B,Mobile,Social,1.02,4,0,0.0
+VIS-01710,2026-05-24,B,Desktop,Organic,7.01,2,0,0.0
+VIS-01711,2026-05-21,B,Mobile,Paid Search,2.31,2,0,0.0
+VIS-01712,2026-05-01,B,Mobile,Referral,1.5,1,0,0.0
+VIS-01713,2026-05-12,B,Desktop,Social,8.16,3,0,0.0
+VIS-01714,2026-05-14,B,Mobile,Paid Search,4.68,2,0,0.0
+VIS-01715,2026-05-11,B,Desktop,Social,3.95,3,0,0.0
+VIS-01716,2026-05-13,B,Mobile,Organic,2.61,4,0,0.0
+VIS-01717,2026-05-19,B,Desktop,Organic,9.0,3,0,0.0
+VIS-01718,2026-05-23,B,Desktop,Organic,0.81,7,1,78.67
+VIS-01719,2026-05-10,B,Mobile,Organic,3.28,3,0,0.0
+VIS-01720,2026-05-01,B,Desktop,Paid Search,0.71,3,0,0.0
+VIS-01721,2026-05-17,B,Desktop,Social,9.76,5,1,74.58
+VIS-01722,2026-05-11,B,Mobile,Paid Search,3.23,8,0,0.0
+VIS-01723,2026-05-13,B,Mobile,Organic,4.76,4,0,0.0
+VIS-01724,2026-05-02,B,Desktop,Social,1.58,2,1,39.98
+VIS-01725,2026-05-12,B,Mobile,Organic,3.53,1,0,0.0
+VIS-01726,2026-05-16,B,Desktop,Email,3.95,3,1,76.76
+VIS-01727,2026-05-22,B,Desktop,Paid Search,4.81,5,1,62.37
+VIS-01728,2026-05-03,B,Mobile,Social,4.3,3,0,0.0
+VIS-01729,2026-05-16,B,Desktop,Social,4.21,3,0,0.0
+VIS-01730,2026-05-25,B,Desktop,Paid Search,2.8,6,0,0.0
+VIS-01731,2026-05-02,B,Desktop,Social,5.66,6,0,0.0
+VIS-01732,2026-05-10,B,Desktop,Referral,3.24,6,0,0.0
+VIS-01733,2026-05-26,B,Desktop,Organic,5.66,6,0,0.0
+VIS-01734,2026-05-01,B,Mobile,Paid Search,4.14,5,0,0.0
+VIS-01735,2026-05-14,B,Mobile,Social,5.94,8,0,0.0
+VIS-01736,2026-05-09,B,Desktop,Organic,3.68,3,0,0.0
+VIS-01737,2026-05-17,B,Mobile,Social,7.93,6,0,0.0
+VIS-01738,2026-05-17,B,Mobile,Organic,2.02,1,0,0.0
+VIS-01739,2026-05-11,B,Desktop,Organic,3.84,10,0,0.0
+VIS-01740,2026-05-07,B,Tablet,Social,4.55,1,0,0.0
+VIS-01741,2026-05-19,B,Mobile,Organic,3.37,4,0,0.0
+VIS-01742,2026-05-05,B,Desktop,Paid Search,8.24,2,0,0.0
+VIS-01743,2026-05-21,B,Mobile,Paid Search,5.15,7,0,0.0
+VIS-01744,2026-05-24,B,Mobile,Social,1.08,6,0,0.0
+VIS-01745,2026-05-29,B,Desktop,Organic,0.82,8,0,0.0
+VIS-01746,2026-05-18,B,Desktop,Organic,3.83,1,0,0.0
+VIS-01747,2026-05-25,B,Mobile,Social,4.69,4,0,0.0
+VIS-01748,2026-05-01,B,Desktop,Organic,9.2,5,0,0.0
+VIS-01749,2026-05-09,B,Mobile,Email,4.89,6,0,0.0
+VIS-01750,2026-05-21,B,Desktop,Referral,2.23,4,0,0.0
+VIS-01751,2026-05-11,B,Mobile,Social,1.49,5,0,0.0
+VIS-01752,2026-05-03,B,Mobile,Organic,1.63,4,0,0.0
+VIS-01753,2026-05-20,B,Desktop,Referral,4.4,3,1,68.68
+VIS-01754,2026-05-24,B,Desktop,Social,3.92,2,1,81.34
+VIS-01755,2026-05-19,B,Mobile,Organic,3.51,5,0,0.0
+VIS-01756,2026-05-25,B,Mobile,Social,1.65,2,0,0.0
+VIS-01757,2026-05-23,B,Desktop,Organic,4.65,7,0,0.0
+VIS-01758,2026-05-09,B,Mobile,Organic,9.48,6,0,0.0
+VIS-01759,2026-05-20,B,Mobile,Paid Search,1.87,3,0,0.0
+VIS-01760,2026-05-01,B,Desktop,Paid Search,6.49,4,0,0.0
+VIS-01761,2026-05-14,B,Mobile,Paid Search,1.61,4,0,0.0
+VIS-01762,2026-05-17,B,Mobile,Social,4.45,8,1,65.44
+VIS-01763,2026-05-09,B,Mobile,Paid Search,9.65,3,0,0.0
+VIS-01764,2026-05-17,B,Mobile,Paid Search,1.84,4,0,0.0
+VIS-01765,2026-05-27,B,Mobile,Organic,6.72,6,0,0.0
+VIS-01766,2026-05-10,B,Desktop,Paid Search,1.36,3,0,0.0
+VIS-01767,2026-05-13,B,Desktop,Social,2.08,6,0,0.0
+VIS-01768,2026-05-12,B,Desktop,Organic,4.24,9,1,46.23
+VIS-01769,2026-05-16,B,Tablet,Email,4.88,7,1,33.89
+VIS-01770,2026-05-01,B,Mobile,Paid Search,4.33,5,1,71.09
+VIS-01771,2026-05-07,B,Desktop,Organic,11.27,2,1,46.58
+VIS-01772,2026-05-29,B,Desktop,Organic,4.96,7,0,0.0
+VIS-01773,2026-05-20,B,Mobile,Paid Search,4.61,8,0,0.0
+VIS-01774,2026-05-03,B,Desktop,Paid Search,2.15,1,1,61.26
+VIS-01775,2026-05-30,B,Mobile,Referral,6.2,4,0,0.0
+VIS-01776,2026-05-14,B,Desktop,Organic,8.19,5,0,0.0
+VIS-01777,2026-05-14,B,Desktop,Social,3.0,6,0,0.0
+VIS-01778,2026-05-08,B,Mobile,Organic,5.01,5,0,0.0
+VIS-01779,2026-05-28,B,Desktop,Paid Search,7.19,7,0,0.0
+VIS-01780,2026-05-19,B,Desktop,Organic,8.9,5,1,102.01
+VIS-01781,2026-05-17,B,Desktop,Referral,2.82,5,1,78.07
+VIS-01782,2026-05-07,B,Mobile,Paid Search,2.83,1,0,0.0
+VIS-01783,2026-05-27,B,Tablet,Paid Search,9.01,3,0,0.0
+VIS-01784,2026-05-02,B,Desktop,Paid Search,8.71,1,0,0.0
+VIS-01785,2026-05-13,B,Mobile,Referral,5.37,1,0,0.0
+VIS-01786,2026-05-16,B,Mobile,Organic,6.69,5,0,0.0
+VIS-01787,2026-05-06,B,Mobile,Organic,7.2,7,0,0.0
+VIS-01788,2026-05-08,B,Mobile,Paid Search,1.36,7,0,0.0
+VIS-01789,2026-05-01,B,Mobile,Organic,2.89,4,1,90.91
+VIS-01790,2026-05-20,B,Mobile,Social,4.72,6,0,0.0
+VIS-01791,2026-05-04,B,Desktop,Paid Search,7.35,2,0,0.0
+VIS-01792,2026-05-09,B,Mobile,Social,6.9,3,1,57.33
+VIS-01793,2026-05-27,B,Mobile,Email,1.94,4,1,66.69
+VIS-01794,2026-05-27,B,Mobile,Social,3.83,2,0,0.0
+VIS-01795,2026-05-11,B,Desktop,Paid Search,0.9,3,0,0.0
+VIS-01796,2026-05-18,B,Mobile,Organic,5.5,3,0,0.0
+VIS-01797,2026-05-09,B,Desktop,Social,4.08,7,0,0.0
+VIS-01798,2026-05-15,B,Mobile,Social,1.77,6,0,0.0
+VIS-01799,2026-05-19,B,Desktop,Organic,1.47,2,0,0.0
+VIS-01800,2026-05-15,B,Desktop,Organic,5.09,3,0,0.0
+VIS-01801,2026-05-28,B,Desktop,Paid Search,3.86,7,0,0.0
+VIS-01802,2026-05-18,B,Mobile,Organic,1.03,5,0,0.0
+VIS-01803,2026-05-04,B,Desktop,Organic,1.86,9,0,0.0
+VIS-01804,2026-05-17,B,Mobile,Paid Search,6.01,4,0,0.0
+VIS-01805,2026-05-12,B,Desktop,Email,6.07,6,0,0.0
+VIS-01806,2026-05-16,B,Desktop,Paid Search,1.95,1,0,0.0
+VIS-01807,2026-05-06,B,Desktop,Paid Search,3.48,4,1,59.22
+VIS-01808,2026-05-06,B,Mobile,Organic,5.54,5,0,0.0
+VIS-01809,2026-05-11,B,Desktop,Social,1.68,7,1,74.71
+VIS-01810,2026-05-24,B,Mobile,Paid Search,4.06,4,0,0.0
+VIS-01811,2026-05-17,B,Tablet,Organic,3.37,3,0,0.0
+VIS-01812,2026-05-12,B,Mobile,Organic,3.79,7,0,0.0
+VIS-01813,2026-05-29,B,Mobile,Organic,6.54,2,0,0.0
+VIS-01814,2026-05-08,B,Mobile,Social,5.74,3,0,0.0
+VIS-01815,2026-05-24,B,Desktop,Social,5.91,4,0,0.0
+VIS-01816,2026-05-19,B,Tablet,Organic,5.17,5,0,0.0
+VIS-01817,2026-05-22,B,Mobile,Social,3.8,9,0,0.0
+VIS-01818,2026-05-20,B,Mobile,Paid Search,7.85,4,0,0.0
+VIS-01819,2026-05-19,B,Mobile,Email,1.6,2,0,0.0
+VIS-01820,2026-05-11,B,Desktop,Organic,7.56,8,0,0.0
+VIS-01821,2026-05-29,B,Desktop,Email,4.35,3,1,49.27
+VIS-01822,2026-05-22,B,Desktop,Email,2.17,6,0,0.0
+VIS-01823,2026-05-09,B,Desktop,Organic,6.73,5,0,0.0
+VIS-01824,2026-05-06,B,Desktop,Paid Search,0.39,5,0,0.0
+VIS-01825,2026-05-22,B,Mobile,Referral,3.39,3,0,0.0
+VIS-01826,2026-05-02,B,Mobile,Organic,27.41,7,0,0.0
+VIS-01827,2026-05-15,B,Desktop,Referral,2.51,4,1,64.14
+VIS-01828,2026-05-07,B,Mobile,Organic,6.36,4,0,0.0
+VIS-01829,2026-05-02,B,Mobile,Organic,4.16,2,0,0.0
+VIS-01830,2026-05-23,B,Desktop,Paid Search,10.66,6,0,0.0
+VIS-01831,2026-05-03,B,Mobile,Social,9.93,4,0,0.0
+VIS-01832,2026-05-04,B,Mobile,Social,2.65,1,0,0.0
+VIS-01833,2026-05-20,B,Desktop,Email,1.78,6,0,0.0
+VIS-01834,2026-05-20,B,Desktop,Referral,6.57,9,0,0.0
+VIS-01835,2026-05-28,B,Desktop,Paid Search,2.32,8,1,49.78
+VIS-01836,2026-05-17,B,Mobile,Referral,4.78,4,0,0.0
+VIS-01837,2026-05-12,B,Mobile,Email,2.36,7,0,0.0
+VIS-01838,2026-05-18,B,Mobile,Referral,3.47,5,0,0.0
+VIS-01839,2026-05-17,B,Mobile,Organic,5.13,6,0,0.0
+VIS-01840,2026-05-10,B,Desktop,Email,8.39,4,0,0.0
+VIS-01841,2026-05-14,B,Tablet,Organic,2.48,3,0,0.0
+VIS-01842,2026-05-13,B,Mobile,Paid Search,8.26,10,0,0.0
+VIS-01843,2026-05-08,B,Mobile,Organic,7.45,4,0,0.0
+VIS-01844,2026-05-25,B,Desktop,Paid Search,2.44,4,0,0.0
+VIS-01845,2026-05-11,B,Desktop,Organic,5.07,11,0,0.0
+VIS-01846,2026-05-12,B,Desktop,Social,2.91,6,0,0.0
+VIS-01847,2026-05-25,B,Mobile,Paid Search,4.11,8,0,0.0
+VIS-01848,2026-05-02,B,Desktop,Email,6.19,6,0,0.0
+VIS-01849,2026-05-21,B,Tablet,Organic,4.65,5,0,0.0
+VIS-01850,2026-05-14,B,Mobile,Social,3.6,7,0,0.0
+VIS-01851,2026-05-05,B,Tablet,Email,9.16,3,1,48.71
+VIS-01852,2026-05-02,B,Mobile,Organic,4.54,5,1,75.71
+VIS-01853,2026-05-26,B,Mobile,Referral,2.49,1,0,0.0
+VIS-01854,2026-05-05,B,Desktop,Paid Search,6.24,3,0,0.0
+VIS-01855,2026-05-29,B,Desktop,Social,2.65,3,0,0.0
+VIS-01856,2026-05-07,B,Mobile,Organic,1.76,4,0,0.0
+VIS-01857,2026-05-04,B,Mobile,Paid Search,6.05,2,0,0.0
+VIS-01858,2026-05-16,B,Tablet,Social,2.55,5,0,0.0
+VIS-01859,2026-05-19,B,Desktop,Email,5.4,1,0,0.0
+VIS-01860,2026-05-17,B,Mobile,Social,9.81,5,0,0.0
+VIS-01861,2026-05-14,B,Mobile,Paid Search,4.33,3,0,0.0
+VIS-01862,2026-05-13,B,Desktop,Paid Search,4.74,5,0,0.0
+VIS-01863,2026-05-04,B,Desktop,Organic,5.08,3,0,0.0
+VIS-01864,2026-05-02,B,Desktop,Paid Search,2.71,7,1,52.88
+VIS-01865,2026-05-26,B,Mobile,Paid Search,6.57,7,0,0.0
+VIS-01866,2026-05-04,B,Desktop,Organic,6.7,8,0,0.0
+VIS-01867,2026-05-30,B,Desktop,Paid Search,12.59,3,0,0.0
+VIS-01868,2026-05-18,B,Mobile,Organic,5.03,5,0,0.0
+VIS-01869,2026-05-25,B,Tablet,Paid Search,7.87,4,0,0.0
+VIS-01870,2026-05-01,B,Mobile,Organic,1.68,5,1,37.59
+VIS-01871,2026-05-21,B,Desktop,Organic,3.7,14,0,0.0
+VIS-01872,2026-05-24,B,Desktop,Referral,3.83,5,0,0.0
+VIS-01873,2026-05-23,B,Tablet,Paid Search,3.57,6,1,53.84
+VIS-01874,2026-05-18,B,Desktop,Organic,5.41,6,0,0.0
+VIS-01875,2026-05-18,B,Mobile,Paid Search,4.81,7,0,0.0
+VIS-01876,2026-05-17,B,Desktop,Social,2.56,2,0,0.0
+VIS-01877,2026-05-29,B,Desktop,Paid Search,3.11,5,0,0.0
+VIS-01878,2026-05-27,B,Mobile,Organic,0.83,6,0,0.0
+VIS-01879,2026-05-28,B,Desktop,Paid Search,2.0,3,0,0.0
+VIS-01880,2026-05-04,B,Tablet,Paid Search,0.95,4,0,0.0
+VIS-01881,2026-05-26,B,Mobile,Social,5.37,4,0,0.0
+VIS-01882,2026-05-19,B,Desktop,Social,6.11,7,0,0.0
+VIS-01883,2026-05-20,B,Mobile,Referral,13.12,2,1,84.64
+VIS-01884,2026-05-13,B,Mobile,Organic,15.32,2,0,0.0
+VIS-01885,2026-05-12,B,Mobile,Organic,2.18,1,0,0.0
+VIS-01886,2026-05-23,B,Mobile,Paid Search,6.62,7,0,0.0
+VIS-01887,2026-05-17,B,Mobile,Referral,1.71,8,0,0.0
+VIS-01888,2026-05-19,B,Mobile,Paid Search,0.68,3,0,0.0
+VIS-01889,2026-05-12,B,Tablet,Referral,5.3,6,0,0.0
+VIS-01890,2026-05-17,B,Mobile,Paid Search,2.45,6,0,0.0
+VIS-01891,2026-05-13,B,Desktop,Email,6.37,3,0,0.0
+VIS-01892,2026-05-13,B,Tablet,Paid Search,1.91,6,1,66.25
+VIS-01893,2026-05-05,B,Mobile,Paid Search,4.35,4,1,82.16
+VIS-01894,2026-05-27,B,Mobile,Organic,5.04,7,0,0.0
+VIS-01895,2026-05-13,B,Mobile,Paid Search,8.57,2,0,0.0
+VIS-01896,2026-05-17,B,Desktop,Organic,3.99,3,0,0.0
+VIS-01897,2026-05-04,B,Tablet,Organic,2.92,1,0,0.0
+VIS-01898,2026-05-07,B,Mobile,Email,5.39,7,0,0.0
+VIS-01899,2026-05-29,B,Desktop,Organic,4.51,5,0,0.0
+VIS-01900,2026-05-03,B,Mobile,Referral,3.58,4,0,0.0
+VIS-01901,2026-05-09,B,Desktop,Paid Search,3.97,8,0,0.0
+VIS-01902,2026-05-29,B,Mobile,Paid Search,3.84,9,0,0.0
+VIS-01903,2026-05-16,B,Desktop,Organic,1.44,3,1,43.03
+VIS-01904,2026-05-28,B,Desktop,Organic,7.94,5,1,72.63
+VIS-01905,2026-05-06,B,Mobile,Referral,9.13,4,0,0.0
+VIS-01906,2026-05-20,B,Desktop,Paid Search,5.13,8,0,0.0
+VIS-01907,2026-05-07,B,Mobile,Organic,3.2,7,0,0.0
+VIS-01908,2026-05-24,B,Desktop,Email,3.4,6,1,45.38
+VIS-01909,2026-05-01,B,Mobile,Organic,4.11,6,0,0.0
+VIS-01910,2026-05-29,B,Mobile,Email,5.54,3,0,0.0
+VIS-01911,2026-05-21,B,Mobile,Social,3.65,10,0,0.0
+VIS-01912,2026-05-22,B,Desktop,Social,16.22,7,0,0.0
+VIS-01913,2026-05-21,B,Desktop,Organic,3.91,4,0,0.0
+VIS-01914,2026-05-10,B,Mobile,Email,3.26,6,0,0.0
+VIS-01915,2026-05-26,B,Mobile,Social,3.89,9,0,0.0
+VIS-01916,2026-05-23,B,Desktop,Referral,3.79,6,0,0.0
+VIS-01917,2026-05-12,B,Desktop,Organic,2.53,7,0,0.0
+VIS-01918,2026-05-19,B,Mobile,Email,5.6,4,0,0.0
+VIS-01919,2026-05-16,B,Desktop,Paid Search,6.19,6,0,0.0
+VIS-01920,2026-05-07,B,Mobile,Email,10.04,6,0,0.0
+VIS-01921,2026-05-08,B,Desktop,Email,3.81,6,0,0.0
+VIS-01922,2026-05-17,B,Desktop,Email,8.74,5,0,0.0
+VIS-01923,2026-05-26,B,Desktop,Paid Search,7.53,2,0,0.0
+VIS-01924,2026-05-29,B,Desktop,Organic,6.07,8,0,0.0
+VIS-01925,2026-05-20,B,Mobile,Organic,6.72,5,0,0.0
+VIS-01926,2026-05-29,B,Mobile,Organic,3.92,4,0,0.0
+VIS-01927,2026-05-15,B,Desktop,Organic,2.99,3,1,74.66
+VIS-01928,2026-05-11,B,Mobile,Social,2.74,7,0,0.0
+VIS-01929,2026-05-01,B,Desktop,Organic,6.84,4,0,0.0
+VIS-01930,2026-05-28,B,Desktop,Referral,2.68,1,0,0.0
+VIS-01931,2026-05-20,B,Desktop,Social,4.83,10,0,0.0
+VIS-01932,2026-05-07,B,Mobile,Organic,8.3,5,0,0.0
+VIS-01933,2026-05-29,B,Mobile,Social,4.15,7,0,0.0
+VIS-01934,2026-05-11,B,Desktop,Email,6.49,5,1,88.22
+VIS-01935,2026-05-06,B,Tablet,Email,3.94,5,0,0.0
+VIS-01936,2026-05-06,B,Mobile,Email,1.1,4,0,0.0
+VIS-01937,2026-05-15,B,Mobile,Email,2.11,3,0,0.0
+VIS-01938,2026-05-11,B,Mobile,Organic,6.71,2,0,0.0
+VIS-01939,2026-05-16,B,Mobile,Organic,3.98,2,1,45.71
+VIS-01940,2026-05-29,B,Mobile,Paid Search,4.72,3,0,0.0
+VIS-01941,2026-05-22,B,Mobile,Email,8.49,5,0,0.0
+VIS-01942,2026-05-06,B,Desktop,Paid Search,2.67,5,0,0.0
+VIS-01943,2026-05-16,B,Mobile,Organic,1.69,6,1,63.65
+VIS-01944,2026-05-07,B,Mobile,Organic,2.69,4,0,0.0
+VIS-01945,2026-05-24,B,Mobile,Email,7.79,5,0,0.0
+VIS-01946,2026-05-10,B,Mobile,Email,5.63,7,0,0.0
+VIS-01947,2026-05-12,B,Desktop,Email,3.57,3,0,0.0
+VIS-01948,2026-05-26,B,Tablet,Social,1.8,5,0,0.0
+VIS-01949,2026-05-01,B,Desktop,Email,4.24,5,0,0.0
+VIS-01950,2026-05-09,B,Desktop,Organic,3.46,5,0,0.0
+VIS-01951,2026-05-24,B,Mobile,Organic,5.22,8,0,0.0
+VIS-01952,2026-05-12,B,Desktop,Paid Search,1.2,6,0,0.0
+VIS-01953,2026-05-16,B,Desktop,Paid Search,4.68,4,0,0.0
+VIS-01954,2026-05-15,B,Mobile,Paid Search,3.72,5,0,0.0
+VIS-01955,2026-05-09,B,Mobile,Social,4.13,6,0,0.0
+VIS-01956,2026-05-25,B,Mobile,Social,2.11,1,0,0.0
+VIS-01957,2026-05-29,B,Desktop,Paid Search,6.93,1,0,0.0
+VIS-01958,2026-05-11,B,Tablet,Paid Search,2.28,7,0,0.0
+VIS-01959,2026-05-30,B,Desktop,Paid Search,4.46,2,0,0.0
+VIS-01960,2026-05-22,B,Mobile,Social,7.19,4,0,0.0
+VIS-01961,2026-05-08,B,Mobile,Social,3.88,6,0,0.0
+VIS-01962,2026-05-25,B,Desktop,Organic,2.95,4,0,0.0
+VIS-01963,2026-05-11,B,Desktop,Email,3.27,8,0,0.0
+VIS-01964,2026-05-01,B,Desktop,Referral,3.48,8,0,0.0
+VIS-01965,2026-05-04,B,Desktop,Paid Search,4.42,6,0,0.0
+VIS-01966,2026-05-27,B,Mobile,Organic,5.03,2,0,0.0
+VIS-01967,2026-05-24,B,Mobile,Organic,4.45,3,0,0.0
+VIS-01968,2026-05-10,B,Desktop,Paid Search,5.74,6,0,0.0
+VIS-01969,2026-05-16,B,Mobile,Organic,0.82,3,0,0.0
+VIS-01970,2026-05-16,B,Desktop,Email,5.72,6,0,0.0
+VIS-01971,2026-05-11,B,Desktop,Organic,11.94,4,0,0.0
+VIS-01972,2026-05-01,B,Mobile,Email,2.48,2,0,0.0
+VIS-01973,2026-05-01,B,Desktop,Paid Search,10.99,5,0,0.0
+VIS-01974,2026-05-28,B,Desktop,Social,3.56,2,1,80.45
+VIS-01975,2026-05-25,B,Desktop,Email,5.53,3,0,0.0
+VIS-01976,2026-05-03,B,Tablet,Referral,1.02,1,0,0.0
+VIS-01977,2026-05-02,B,Desktop,Referral,6.79,1,0,0.0
+VIS-01978,2026-05-29,B,Desktop,Organic,2.68,3,0,0.0
+VIS-01979,2026-05-28,B,Desktop,Email,3.36,6,0,0.0
+VIS-01980,2026-05-16,B,Mobile,Email,10.62,2,0,0.0
+VIS-01981,2026-05-23,B,Mobile,Email,5.43,4,0,0.0
+VIS-01982,2026-05-22,B,Desktop,Paid Search,5.14,1,0,0.0
+VIS-01983,2026-05-09,B,Mobile,Paid Search,3.69,2,0,0.0
+VIS-01984,2026-05-21,B,Desktop,Paid Search,7.36,5,0,0.0
+VIS-01985,2026-05-10,B,Desktop,Paid Search,9.19,5,0,0.0
+VIS-01986,2026-05-01,B,Mobile,Paid Search,1.45,3,0,0.0
+VIS-01987,2026-05-24,B,Desktop,Social,2.52,6,1,44.3
+VIS-01988,2026-05-21,B,Desktop,Organic,7.16,7,0,0.0
+VIS-01989,2026-05-30,B,Mobile,Referral,5.15,1,0,0.0
+VIS-01990,2026-05-07,B,Mobile,Organic,3.42,8,0,0.0
+VIS-01991,2026-05-05,B,Mobile,Organic,5.98,1,0,0.0
+VIS-01992,2026-05-03,B,Desktop,Email,3.39,5,0,0.0
+VIS-01993,2026-05-04,B,Desktop,Organic,7.84,4,1,44.59
+VIS-01994,2026-05-28,B,Mobile,Organic,1.99,6,0,0.0
+VIS-01995,2026-05-03,B,Mobile,Organic,3.67,6,1,84.91
+VIS-01996,2026-05-07,B,Mobile,Paid Search,2.81,2,0,0.0
+VIS-01997,2026-05-24,B,Desktop,Social,11.87,9,1,62.88
+VIS-01998,2026-05-27,B,Mobile,Paid Search,11.3,2,0,0.0
+VIS-01999,2026-05-09,B,Desktop,Organic,3.34,5,0,0.0
+VIS-02000,2026-05-07,B,Desktop,Email,4.37,5,0,0.0
+VIS-02001,2026-05-01,B,Mobile,Social,15.59,9,0,0.0
+VIS-02002,2026-05-22,B,Mobile,Paid Search,19.09,2,0,0.0
+VIS-02003,2026-05-13,B,Mobile,Organic,5.79,6,0,0.0
+VIS-02004,2026-05-24,B,Mobile,Organic,12.58,5,1,67.58
+VIS-02005,2026-05-30,B,Mobile,Email,3.36,4,1,63.02
+VIS-02006,2026-05-11,B,Mobile,Email,5.35,3,0,0.0
+VIS-02007,2026-05-25,B,Desktop,Email,6.6,4,0,0.0
+VIS-02008,2026-05-14,B,Tablet,Email,5.1,4,1,39.62
+VIS-02009,2026-05-23,B,Desktop,Referral,2.33,4,1,52.41
+VIS-02010,2026-05-27,B,Tablet,Organic,3.61,4,0,0.0
+VIS-02011,2026-05-09,B,Mobile,Organic,3.31,2,0,0.0
+VIS-02012,2026-05-07,B,Desktop,Email,5.28,1,1,91.86
+VIS-02013,2026-05-10,B,Desktop,Social,4.47,4,0,0.0
+VIS-02014,2026-05-02,B,Tablet,Email,5.2,3,0,0.0
+VIS-02015,2026-05-17,B,Mobile,Paid Search,3.68,9,0,0.0
+VIS-02016,2026-05-24,B,Desktop,Organic,1.44,7,0,0.0
+VIS-02017,2026-05-22,B,Mobile,Paid Search,5.59,4,0,0.0
+VIS-02018,2026-05-28,B,Desktop,Referral,4.38,12,0,0.0
+VIS-02019,2026-05-04,B,Desktop,Paid Search,5.69,8,1,75.51
+VIS-02020,2026-05-12,B,Mobile,Organic,4.67,4,0,0.0
+VIS-02021,2026-05-28,B,Mobile,Paid Search,2.55,6,1,74.95
+VIS-02022,2026-05-06,B,Mobile,Email,8.72,3,0,0.0
+VIS-02023,2026-05-08,B,Desktop,Social,4.67,2,0,0.0
+VIS-02024,2026-05-07,B,Mobile,Referral,3.3,4,0,0.0
+VIS-02025,2026-05-22,B,Desktop,Email,3.58,3,0,0.0
+VIS-02026,2026-05-16,B,Mobile,Organic,8.89,4,0,0.0
+VIS-02027,2026-05-17,B,Mobile,Email,6.51,4,0,0.0
+VIS-02028,2026-05-29,B,Desktop,Referral,3.02,6,1,47.35
+VIS-02029,2026-05-04,B,Mobile,Organic,1.58,1,0,0.0
+VIS-02030,2026-05-24,B,Mobile,Social,7.29,6,0,0.0
+VIS-02031,2026-05-24,B,Mobile,Organic,1.94,7,0,0.0
+VIS-02032,2026-05-25,B,Mobile,Paid Search,6.11,3,1,69.89
+VIS-02033,2026-05-11,B,Desktop,Paid Search,1.97,3,0,0.0
+VIS-02034,2026-05-12,B,Desktop,Referral,2.77,5,0,0.0
+VIS-02035,2026-05-28,B,Desktop,Social,6.46,3,1,40.56
+VIS-02036,2026-05-09,B,Mobile,Paid Search,3.06,7,0,0.0
+VIS-02037,2026-05-16,B,Desktop,Social,2.95,5,0,0.0
+VIS-02038,2026-05-21,B,Desktop,Paid Search,1.38,7,0,0.0
+VIS-02039,2026-05-28,B,Desktop,Organic,3.55,5,0,0.0
+VIS-02040,2026-05-28,B,Tablet,Organic,5.21,5,0,0.0
+VIS-02041,2026-05-11,B,Mobile,Email,1.29,4,0,0.0
+VIS-02042,2026-05-20,B,Mobile,Email,6.93,5,1,57.17
+VIS-02043,2026-05-04,B,Mobile,Referral,1.44,9,0,0.0
+VIS-02044,2026-05-30,B,Mobile,Paid Search,9.51,5,0,0.0
+VIS-02045,2026-05-16,B,Mobile,Organic,8.04,2,1,77.63
+VIS-02046,2026-05-14,B,Tablet,Social,2.01,3,0,0.0
+VIS-02047,2026-05-09,B,Mobile,Organic,7.73,5,0,0.0
+VIS-02048,2026-05-10,B,Tablet,Organic,1.33,7,0,0.0
+VIS-02049,2026-05-12,B,Desktop,Paid Search,4.54,5,1,66.61
+VIS-02050,2026-05-02,B,Mobile,Organic,2.77,3,0,0.0
+VIS-02051,2026-05-18,B,Tablet,Paid Search,6.16,2,0,0.0
+VIS-02052,2026-05-08,B,Mobile,Organic,1.3,4,0,0.0
+VIS-02053,2026-05-27,B,Mobile,Email,0.43,8,0,0.0
+VIS-02054,2026-05-22,B,Mobile,Email,1.59,10,1,74.42
+VIS-02055,2026-05-05,B,Mobile,Social,1.6,3,0,0.0
+VIS-02056,2026-05-24,B,Mobile,Referral,3.89,8,0,0.0
+VIS-02057,2026-05-07,B,Desktop,Organic,5.68,9,0,0.0
+VIS-02058,2026-05-07,B,Desktop,Social,5.06,5,0,0.0
+VIS-02059,2026-05-04,B,Mobile,Organic,1.66,7,0,0.0
+VIS-02060,2026-05-11,B,Desktop,Email,3.27,7,0,0.0
+VIS-02061,2026-05-21,B,Mobile,Referral,18.13,4,1,67.92
+VIS-02062,2026-05-04,B,Tablet,Organic,7.65,3,0,0.0
+VIS-02063,2026-05-03,B,Tablet,Organic,0.89,4,0,0.0
+VIS-02064,2026-05-13,B,Tablet,Referral,3.68,4,0,0.0
+VIS-02065,2026-05-28,B,Mobile,Paid Search,4.84,4,0,0.0
+VIS-02066,2026-05-12,B,Tablet,Email,3.36,7,1,71.03
+VIS-02067,2026-05-15,B,Desktop,Referral,2.95,3,0,0.0
+VIS-02068,2026-05-28,B,Mobile,Email,10.28,3,0,0.0
+VIS-02069,2026-05-24,B,Desktop,Organic,2.42,4,0,0.0
+VIS-02070,2026-05-24,B,Tablet,Organic,4.2,5,0,0.0
+VIS-02071,2026-05-02,B,Mobile,Referral,3.25,5,0,0.0
+VIS-02072,2026-05-28,B,Mobile,Paid Search,4.05,3,0,0.0
+VIS-02073,2026-05-18,B,Desktop,Social,2.89,6,0,0.0
+VIS-02074,2026-05-04,B,Mobile,Email,3.92,10,0,0.0
+VIS-02075,2026-05-15,B,Desktop,Paid Search,7.17,3,0,0.0
+VIS-02076,2026-05-10,B,Desktop,Social,3.79,7,0,0.0
+VIS-02077,2026-05-08,B,Mobile,Social,3.61,4,0,0.0
+VIS-02078,2026-05-26,B,Mobile,Organic,1.46,3,0,0.0
+VIS-02079,2026-05-04,B,Desktop,Email,4.2,4,0,0.0
+VIS-02080,2026-05-08,B,Desktop,Referral,12.13,7,0,0.0
+VIS-02081,2026-05-10,B,Mobile,Paid Search,6.99,2,0,0.0
+VIS-02082,2026-05-11,B,Desktop,Social,3.94,6,1,60.46
+VIS-02083,2026-05-27,B,Mobile,Organic,2.42,7,0,0.0
+VIS-02084,2026-05-04,B,Desktop,Organic,6.4,2,0,0.0
+VIS-02085,2026-05-02,B,Mobile,Email,6.67,7,0,0.0
+VIS-02086,2026-05-01,B,Mobile,Organic,4.1,5,0,0.0
+VIS-02087,2026-05-20,B,Desktop,Organic,7.59,3,0,0.0
+VIS-02088,2026-05-19,B,Mobile,Paid Search,7.26,7,0,0.0
+VIS-02089,2026-05-15,B,Mobile,Organic,2.51,6,0,0.0
+VIS-02090,2026-05-12,B,Mobile,Social,2.88,2,0,0.0
+VIS-02091,2026-05-08,B,Mobile,Paid Search,1.93,4,1,47.48
+VIS-02092,2026-05-11,B,Desktop,Email,4.38,4,0,0.0
+VIS-02093,2026-05-08,B,Mobile,Social,7.21,5,0,0.0
+VIS-02094,2026-05-13,B,Mobile,Organic,13.08,4,1,57.49
+VIS-02095,2026-05-09,B,Mobile,Organic,2.61,6,0,0.0
+VIS-02096,2026-05-24,B,Tablet,Paid Search,3.78,5,0,0.0
+VIS-02097,2026-05-13,B,Mobile,Email,7.87,11,0,0.0
+VIS-02098,2026-05-03,B,Mobile,Paid Search,3.28,4,1,51.53
+VIS-02099,2026-05-25,B,Mobile,Organic,6.34,5,1,61.17
+VIS-02100,2026-05-01,B,Desktop,Organic,7.0,7,0,0.0
+VIS-02101,2026-05-15,B,Desktop,Social,3.29,8,0,0.0
+VIS-02102,2026-05-03,B,Mobile,Social,1.97,7,0,0.0
+VIS-02103,2026-05-05,B,Mobile,Paid Search,5.78,5,1,58.76
+VIS-02104,2026-05-02,B,Mobile,Referral,12.9,3,0,0.0
+VIS-02105,2026-05-15,B,Desktop,Email,10.28,3,0,0.0
+VIS-02106,2026-05-20,B,Mobile,Organic,4.52,2,0,0.0
+VIS-02107,2026-05-20,B,Mobile,Organic,9.02,2,0,0.0
+VIS-02108,2026-05-16,B,Mobile,Email,5.92,1,0,0.0
+VIS-02109,2026-05-24,B,Mobile,Organic,9.45,2,0,0.0
+VIS-02110,2026-05-03,B,Tablet,Organic,5.08,7,0,0.0
+VIS-02111,2026-05-19,B,Desktop,Organic,5.23,7,0,0.0
+VIS-02112,2026-05-11,B,Desktop,Organic,2.01,7,0,0.0
+VIS-02113,2026-05-14,B,Mobile,Social,2.64,5,1,68.28
+VIS-02114,2026-05-03,B,Mobile,Paid Search,5.65,1,0,0.0
+VIS-02115,2026-05-05,B,Desktop,Paid Search,5.98,4,0,0.0
+VIS-02116,2026-05-17,B,Desktop,Social,4.52,9,0,0.0
+VIS-02117,2026-05-10,B,Tablet,Paid Search,8.79,7,1,23.96
+VIS-02118,2026-05-23,B,Mobile,Email,2.75,3,0,0.0
+VIS-02119,2026-05-25,B,Mobile,Paid Search,5.11,3,0,0.0
+VIS-02120,2026-05-05,B,Desktop,Social,1.63,5,0,0.0
+VIS-02121,2026-05-26,B,Mobile,Referral,6.53,5,0,0.0
+VIS-02122,2026-05-26,B,Mobile,Organic,6.15,6,0,0.0
+VIS-02123,2026-05-03,B,Desktop,Organic,1.74,6,0,0.0
+VIS-02124,2026-05-24,B,Desktop,Social,4.51,10,0,0.0
+VIS-02125,2026-05-15,B,Desktop,Paid Search,13.96,2,0,0.0
+VIS-02126,2026-05-30,B,Mobile,Social,3.82,8,0,0.0
+VIS-02127,2026-05-08,B,Mobile,Social,1.78,8,1,63.42
+VIS-02128,2026-05-16,B,Mobile,Organic,10.33,7,0,0.0
+VIS-02129,2026-05-10,B,Mobile,Organic,1.4,4,0,0.0
+VIS-02130,2026-05-17,B,Tablet,Organic,3.2,6,0,0.0
+VIS-02131,2026-05-01,B,Desktop,Social,9.83,9,0,0.0
+VIS-02132,2026-05-01,B,Mobile,Organic,2.89,5,0,0.0
+VIS-02133,2026-05-15,B,Desktop,Paid Search,12.5,5,0,0.0
+VIS-02134,2026-05-28,B,Desktop,Organic,5.4,3,1,69.84
+VIS-02135,2026-05-30,B,Mobile,Organic,3.1,4,0,0.0
+VIS-02136,2026-05-24,B,Mobile,Email,6.62,2,0,0.0
+VIS-02137,2026-05-06,B,Mobile,Referral,4.93,2,0,0.0
+VIS-02138,2026-05-20,B,Mobile,Referral,9.71,7,0,0.0
+VIS-02139,2026-05-06,B,Desktop,Organic,1.89,7,0,0.0
+VIS-02140,2026-05-24,B,Desktop,Paid Search,8.28,6,0,0.0
+VIS-02141,2026-05-15,B,Mobile,Email,2.84,3,1,42.69
+VIS-02142,2026-05-07,B,Desktop,Referral,3.57,8,0,0.0
+VIS-02143,2026-05-30,B,Desktop,Referral,5.88,5,0,0.0
+VIS-02144,2026-05-25,B,Mobile,Social,5.14,8,0,0.0
+VIS-02145,2026-05-20,B,Mobile,Social,4.25,6,0,0.0
+VIS-02146,2026-05-22,B,Mobile,Social,7.14,2,1,89.15
+VIS-02147,2026-05-08,B,Desktop,Organic,8.37,7,0,0.0
+VIS-02148,2026-05-07,B,Mobile,Referral,3.99,5,0,0.0
+VIS-02149,2026-05-12,B,Desktop,Paid Search,10.59,1,0,0.0
+VIS-02150,2026-05-23,B,Mobile,Paid Search,5.92,2,0,0.0
+VIS-02151,2026-05-23,B,Desktop,Organic,4.04,1,1,84.66
+VIS-02152,2026-05-17,B,Desktop,Email,7.93,9,0,0.0
+VIS-02153,2026-05-29,B,Mobile,Organic,7.07,6,0,0.0
+VIS-02154,2026-05-22,B,Mobile,Paid Search,3.34,7,0,0.0
+VIS-02155,2026-05-30,B,Desktop,Organic,4.47,6,0,0.0
+VIS-02156,2026-05-05,B,Desktop,Organic,10.11,4,1,47.97
+VIS-02157,2026-05-21,B,Desktop,Paid Search,5.76,3,0,0.0
+VIS-02158,2026-05-26,B,Desktop,Referral,8.27,7,0,0.0
+VIS-02159,2026-05-01,B,Mobile,Paid Search,2.22,1,0,0.0
+VIS-02160,2026-05-12,B,Desktop,Paid Search,0.24,7,0,0.0
+VIS-02161,2026-05-22,B,Mobile,Email,5.6,6,0,0.0
+VIS-02162,2026-05-26,B,Desktop,Email,10.15,6,1,81.03
+VIS-02163,2026-05-28,B,Mobile,Organic,6.19,5,0,0.0
+VIS-02164,2026-05-30,B,Desktop,Organic,11.99,2,0,0.0
+VIS-02165,2026-05-07,B,Mobile,Organic,7.65,13,0,0.0
+VIS-02166,2026-05-02,B,Tablet,Organic,5.13,7,0,0.0
+VIS-02167,2026-05-06,B,Mobile,Referral,3.73,5,1,69.28
+VIS-02168,2026-05-20,B,Desktop,Organic,11.51,7,0,0.0
+VIS-02169,2026-05-25,B,Mobile,Organic,8.22,3,0,0.0
+VIS-02170,2026-05-01,B,Mobile,Organic,2.23,5,0,0.0
+VIS-02171,2026-05-20,B,Mobile,Social,4.26,3,0,0.0
+VIS-02172,2026-05-10,B,Desktop,Paid Search,6.85,2,0,0.0
+VIS-02173,2026-05-03,B,Desktop,Organic,2.52,4,0,0.0
+VIS-02174,2026-05-30,B,Mobile,Organic,6.19,5,0,0.0
+VIS-02175,2026-05-24,B,Tablet,Social,6.57,5,0,0.0
+VIS-02176,2026-05-20,B,Mobile,Organic,2.6,4,0,0.0
+VIS-02177,2026-05-09,B,Mobile,Social,6.98,4,0,0.0
+VIS-02178,2026-05-22,B,Desktop,Paid Search,6.73,3,0,0.0
+VIS-02179,2026-05-13,B,Tablet,Social,4.96,5,1,43.53
+VIS-02180,2026-05-14,B,Mobile,Organic,6.72,6,0,0.0
+VIS-02181,2026-05-20,B,Mobile,Social,2.83,4,0,0.0
+VIS-02182,2026-05-11,B,Mobile,Organic,7.59,4,0,0.0
+VIS-02183,2026-05-25,B,Mobile,Organic,2.48,8,0,0.0
+VIS-02184,2026-05-04,B,Mobile,Organic,14.69,4,0,0.0
+VIS-02185,2026-05-22,B,Mobile,Organic,3.46,6,0,0.0
+VIS-02186,2026-05-20,B,Mobile,Social,6.65,7,1,57.65
+VIS-02187,2026-05-16,B,Tablet,Paid Search,10.54,7,0,0.0
+VIS-02188,2026-05-30,B,Tablet,Paid Search,7.57,3,0,0.0
+VIS-02189,2026-05-20,B,Mobile,Social,2.86,3,1,64.76
+VIS-02190,2026-05-15,B,Tablet,Organic,6.34,7,0,0.0
+VIS-02191,2026-05-19,B,Desktop,Social,3.47,8,0,0.0
+VIS-02192,2026-05-15,B,Tablet,Social,5.64,3,0,0.0
+VIS-02193,2026-05-24,B,Mobile,Social,8.49,5,0,0.0
+VIS-02194,2026-05-23,B,Desktop,Paid Search,9.7,4,0,0.0
+VIS-02195,2026-05-14,B,Mobile,Paid Search,6.9,4,0,0.0
+VIS-02196,2026-05-03,B,Mobile,Social,6.88,7,0,0.0
+VIS-02197,2026-05-28,B,Mobile,Organic,5.5,2,0,0.0
+VIS-02198,2026-05-20,B,Tablet,Paid Search,6.07,7,0,0.0
+VIS-02199,2026-05-16,B,Mobile,Referral,8.37,3,0,0.0
+VIS-02200,2026-05-28,B,Desktop,Referral,2.91,5,0,0.0
+VIS-02201,2026-05-04,B,Mobile,Paid Search,2.8,3,0,0.0
+VIS-02202,2026-05-04,B,Desktop,Organic,5.93,7,0,0.0
+VIS-02203,2026-05-26,B,Mobile,Social,7.17,4,0,0.0
+VIS-02204,2026-05-30,B,Mobile,Paid Search,6.9,5,1,54.36
+VIS-02205,2026-05-06,B,Desktop,Social,3.57,6,0,0.0
+VIS-02206,2026-05-25,B,Mobile,Social,6.7,4,0,0.0
+VIS-02207,2026-05-15,B,Mobile,Email,1.84,8,0,0.0
+VIS-02208,2026-05-28,B,Desktop,Referral,15.63,2,0,0.0
+VIS-02209,2026-05-03,B,Mobile,Paid Search,4.15,5,0,0.0
+VIS-02210,2026-05-04,B,Tablet,Referral,4.27,4,0,0.0
+VIS-02211,2026-05-10,B,Desktop,Organic,4.82,2,1,43.85
+VIS-02212,2026-05-16,B,Desktop,Social,3.33,5,0,0.0
+VIS-02213,2026-05-29,B,Tablet,Referral,1.75,5,0,0.0
+VIS-02214,2026-05-23,B,Desktop,Social,3.24,8,0,0.0
+VIS-02215,2026-05-24,B,Mobile,Organic,8.8,5,0,0.0
+VIS-02216,2026-05-24,B,Desktop,Organic,9.92,4,0,0.0
+VIS-02217,2026-05-23,B,Desktop,Email,2.94,8,0,0.0
+VIS-02218,2026-05-07,B,Mobile,Paid Search,3.88,3,1,77.87
+VIS-02219,2026-05-23,B,Desktop,Email,3.0,5,0,0.0
+VIS-02220,2026-05-30,B,Mobile,Email,4.92,5,0,0.0
+VIS-02221,2026-05-24,B,Desktop,Referral,4.09,3,0,0.0
+VIS-02222,2026-05-04,B,Mobile,Social,4.77,3,0,0.0
+VIS-02223,2026-05-03,B,Desktop,Organic,4.85,3,1,65.89
+VIS-02224,2026-05-22,B,Desktop,Social,4.29,3,0,0.0
+VIS-02225,2026-05-09,B,Tablet,Organic,2.0,2,0,0.0
+VIS-02226,2026-05-28,B,Desktop,Organic,11.86,3,0,0.0
+VIS-02227,2026-05-30,B,Mobile,Paid Search,6.43,6,0,0.0
+VIS-02228,2026-05-25,B,Desktop,Referral,0.86,3,0,0.0
+VIS-02229,2026-05-09,B,Desktop,Organic,3.17,4,0,0.0
+VIS-02230,2026-05-27,B,Mobile,Email,4.2,4,0,0.0
+VIS-02231,2026-05-21,B,Mobile,Social,5.99,5,0,0.0
+VIS-02232,2026-05-14,B,Desktop,Organic,14.96,4,0,0.0
+VIS-02233,2026-05-08,B,Mobile,Email,6.58,5,0,0.0
+VIS-02234,2026-05-27,B,Desktop,Organic,6.65,3,0,0.0
+VIS-02235,2026-05-05,B,Mobile,Organic,1.97,7,0,0.0
+VIS-02236,2026-05-28,B,Tablet,Organic,11.58,5,0,0.0
+VIS-02237,2026-05-15,B,Mobile,Email,5.01,6,0,0.0
+VIS-02238,2026-05-19,B,Tablet,Paid Search,2.32,7,0,0.0
+VIS-02239,2026-05-16,B,Desktop,Paid Search,3.62,4,0,0.0
+VIS-02240,2026-05-20,B,Desktop,Paid Search,4.09,2,0,0.0
+VIS-02241,2026-05-06,B,Mobile,Organic,4.44,4,0,0.0
+VIS-02242,2026-05-03,B,Mobile,Paid Search,5.15,1,0,0.0
+VIS-02243,2026-05-23,B,Desktop,Paid Search,3.42,3,1,36.51
+VIS-02244,2026-05-09,B,Desktop,Social,4.15,9,0,0.0
+VIS-02245,2026-05-29,B,Desktop,Paid Search,2.85,1,0,0.0
+VIS-02246,2026-05-30,B,Mobile,Organic,2.72,7,1,57.46
+VIS-02247,2026-05-30,B,Mobile,Social,11.22,9,0,0.0
+VIS-02248,2026-05-21,B,Mobile,Social,1.9,3,1,72.97
+VIS-02249,2026-05-10,B,Tablet,Paid Search,6.15,6,0,0.0
+VIS-02250,2026-05-29,B,Mobile,Organic,3.89,4,1,43.31
+VIS-02251,2026-05-25,B,Tablet,Social,10.06,4,0,0.0
+VIS-02252,2026-05-25,B,Desktop,Email,7.6,8,0,0.0
+VIS-02253,2026-05-06,B,Mobile,Social,8.87,7,0,0.0
+VIS-02254,2026-05-21,B,Tablet,Email,3.44,6,0,0.0
+VIS-02255,2026-05-06,B,Mobile,Email,4.11,10,0,0.0
+VIS-02256,2026-05-12,B,Tablet,Social,5.13,5,0,0.0
+VIS-02257,2026-05-04,B,Mobile,Organic,4.64,2,1,48.66
+VIS-02258,2026-05-17,B,Mobile,Paid Search,4.43,4,1,60.5
+VIS-02259,2026-05-06,B,Tablet,Organic,6.5,3,0,0.0
+VIS-02260,2026-05-08,B,Mobile,Email,5.16,6,0,0.0
+VIS-02261,2026-05-19,B,Desktop,Email,3.08,4,0,0.0
+VIS-02262,2026-05-07,B,Mobile,Paid Search,12.66,5,1,45.56
+VIS-02263,2026-05-10,B,Desktop,Organic,12.36,4,1,82.36
+VIS-02264,2026-05-16,B,Desktop,Email,6.08,6,0,0.0
+VIS-02265,2026-05-11,B,Mobile,Email,5.66,3,0,0.0
+VIS-02266,2026-05-16,B,Tablet,Email,4.09,6,0,0.0
+VIS-02267,2026-05-20,B,Mobile,Social,0.83,3,1,50.34
+VIS-02268,2026-05-24,B,Desktop,Paid Search,5.47,5,0,0.0
+VIS-02269,2026-05-21,B,Mobile,Paid Search,3.06,6,0,0.0
+VIS-02270,2026-05-22,B,Mobile,Paid Search,1.09,3,0,0.0
+VIS-02271,2026-05-06,B,Mobile,Email,17.4,4,0,0.0
+VIS-02272,2026-05-12,B,Mobile,Email,3.44,8,0,0.0
+VIS-02273,2026-05-11,B,Desktop,Paid Search,8.92,2,0,0.0
+VIS-02274,2026-05-08,B,Desktop,Referral,3.57,2,0,0.0
+VIS-02275,2026-05-01,B,Mobile,Organic,13.25,5,0,0.0
+VIS-02276,2026-05-20,B,Desktop,Organic,7.11,2,1,59.68
+VIS-02277,2026-05-20,B,Mobile,Email,12.9,4,0,0.0
+VIS-02278,2026-05-07,B,Mobile,Paid Search,2.45,2,0,0.0
+VIS-02279,2026-05-06,B,Mobile,Organic,11.32,7,0,0.0
+VIS-02280,2026-05-10,B,Desktop,Referral,4.68,5,0,0.0
+VIS-02281,2026-05-29,B,Desktop,Organic,2.22,3,0,0.0
+VIS-02282,2026-05-16,B,Desktop,Referral,6.55,5,0,0.0
+VIS-02283,2026-05-12,B,Desktop,Organic,2.9,2,0,0.0
+VIS-02284,2026-05-23,B,Mobile,Paid Search,2.56,6,0,0.0
+VIS-02285,2026-05-16,B,Mobile,Organic,6.39,5,0,0.0
+VIS-02286,2026-05-13,B,Mobile,Organic,12.63,3,0,0.0
+VIS-02287,2026-05-05,B,Desktop,Social,7.56,3,0,0.0
+VIS-02288,2026-05-11,B,Desktop,Organic,4.77,6,0,0.0
+VIS-02289,2026-05-10,B,Mobile,Organic,3.46,4,1,82.12
+VIS-02290,2026-05-21,B,Mobile,Social,1.75,6,0,0.0
+VIS-02291,2026-05-19,B,Mobile,Organic,9.83,6,1,62.33
+VIS-02292,2026-05-22,B,Desktop,Paid Search,5.3,4,0,0.0
+VIS-02293,2026-05-05,B,Mobile,Referral,4.07,5,0,0.0
+VIS-02294,2026-05-18,B,Mobile,Paid Search,2.39,2,1,42.7
+VIS-02295,2026-05-10,B,Mobile,Paid Search,4.73,8,0,0.0
+VIS-02296,2026-05-24,B,Mobile,Referral,2.44,6,0,0.0
+VIS-02297,2026-05-11,B,Tablet,Paid Search,0.86,5,0,0.0
+VIS-02298,2026-05-14,B,Desktop,Paid Search,4.16,4,0,0.0
+VIS-02299,2026-05-02,B,Tablet,Organic,1.14,5,0,0.0
+VIS-02300,2026-05-29,B,Desktop,Paid Search,12.85,3,0,0.0
+VIS-02301,2026-05-29,B,Desktop,Paid Search,4.04,7,0,0.0
+VIS-02302,2026-05-20,B,Mobile,Organic,2.93,4,0,0.0
+VIS-02303,2026-05-18,B,Desktop,Paid Search,1.09,2,0,0.0
+VIS-02304,2026-05-08,B,Desktop,Organic,10.97,5,1,60.46
+VIS-02305,2026-05-20,B,Mobile,Organic,16.3,5,0,0.0
+VIS-02306,2026-05-08,B,Mobile,Paid Search,13.45,5,0,0.0
+VIS-02307,2026-05-07,B,Desktop,Paid Search,8.9,3,0,0.0
+VIS-02308,2026-05-22,B,Desktop,Paid Search,6.57,7,0,0.0
+VIS-02309,2026-05-06,B,Mobile,Email,8.7,7,0,0.0
+VIS-02310,2026-05-02,B,Mobile,Paid Search,6.02,4,0,0.0
+VIS-02311,2026-05-26,B,Mobile,Referral,1.74,5,0,0.0
+VIS-02312,2026-05-17,B,Desktop,Organic,2.63,1,0,0.0
+VIS-02313,2026-05-30,B,Desktop,Email,1.79,5,0,0.0
+VIS-02314,2026-05-21,B,Mobile,Organic,7.53,2,1,79.62
+VIS-02315,2026-05-13,B,Mobile,Email,5.45,6,0,0.0
+VIS-02316,2026-05-13,B,Mobile,Email,8.58,7,0,0.0
+VIS-02317,2026-05-12,B,Mobile,Social,1.87,4,0,0.0
+VIS-02318,2026-05-28,B,Tablet,Social,13.5,5,0,0.0
+VIS-02319,2026-05-13,B,Mobile,Organic,2.98,7,0,0.0
+VIS-02320,2026-05-26,B,Desktop,Referral,2.29,4,0,0.0
+VIS-02321,2026-05-22,B,Desktop,Social,3.6,3,0,0.0
+VIS-02322,2026-05-17,B,Desktop,Organic,7.86,6,1,82.17
+VIS-02323,2026-05-14,B,Mobile,Organic,6.13,7,0,0.0
+VIS-02324,2026-05-15,B,Mobile,Referral,3.1,4,0,0.0
+VIS-02325,2026-05-28,B,Mobile,Paid Search,6.25,7,0,0.0
+VIS-02326,2026-05-20,B,Mobile,Organic,4.2,4,0,0.0
+VIS-02327,2026-05-16,B,Mobile,Paid Search,2.63,8,0,0.0
+VIS-02328,2026-05-22,B,Desktop,Paid Search,1.57,3,0,0.0
+VIS-02329,2026-05-21,B,Desktop,Organic,4.94,3,1,87.63
+VIS-02330,2026-05-26,B,Mobile,Organic,1.61,4,0,0.0
+VIS-02331,2026-05-08,B,Tablet,Organic,5.2,2,0,0.0
+VIS-02332,2026-05-10,B,Desktop,Email,1.75,5,0,0.0
+VIS-02333,2026-05-20,B,Mobile,Organic,9.51,6,0,0.0
+VIS-02334,2026-05-11,B,Desktop,Social,5.18,4,0,0.0
+VIS-02335,2026-05-19,B,Mobile,Referral,5.32,7,1,55.48
+VIS-02336,2026-05-17,B,Mobile,Paid Search,5.49,2,0,0.0
+VIS-02337,2026-05-04,B,Tablet,Social,8.61,9,1,59.68
+VIS-02338,2026-05-23,B,Mobile,Organic,2.96,8,0,0.0
+VIS-02339,2026-05-22,B,Desktop,Organic,2.85,7,0,0.0
+VIS-02340,2026-05-19,B,Mobile,Paid Search,11.79,7,0,0.0
+VIS-02341,2026-05-30,B,Desktop,Referral,5.16,5,0,0.0
+VIS-02342,2026-05-30,B,Tablet,Social,4.09,3,0,0.0
+VIS-02343,2026-05-24,B,Mobile,Social,4.91,6,0,0.0
+VIS-02344,2026-05-16,B,Desktop,Organic,2.45,5,0,0.0
+VIS-02345,2026-05-04,B,Desktop,Organic,6.73,5,0,0.0
+VIS-02346,2026-05-14,B,Desktop,Organic,7.75,6,0,0.0
+VIS-02347,2026-05-01,B,Mobile,Social,2.37,5,1,49.59
+VIS-02348,2026-05-21,B,Desktop,Paid Search,2.31,9,1,81.61
+VIS-02349,2026-05-09,B,Desktop,Social,3.34,4,0,0.0
+VIS-02350,2026-05-30,B,Desktop,Paid Search,11.26,6,0,0.0
+VIS-02351,2026-05-06,B,Mobile,Organic,9.65,5,0,0.0
+VIS-02352,2026-05-21,B,Desktop,Referral,2.67,5,1,64.66
+VIS-02353,2026-05-05,B,Desktop,Organic,1.45,5,0,0.0
+VIS-02354,2026-05-18,B,Desktop,Referral,3.82,5,0,0.0
+VIS-02355,2026-05-24,B,Desktop,Email,3.39,1,0,0.0
+VIS-02356,2026-05-18,B,Desktop,Organic,3.74,4,1,62.06
+VIS-02357,2026-05-11,B,Mobile,Paid Search,6.11,1,0,0.0
+VIS-02358,2026-05-02,B,Mobile,Social,2.49,4,0,0.0
+VIS-02359,2026-05-14,B,Mobile,Social,5.75,6,0,0.0
+VIS-02360,2026-05-02,B,Mobile,Social,7.73,7,0,0.0
+VIS-02361,2026-05-05,B,Mobile,Social,10.14,4,0,0.0
+VIS-02362,2026-05-17,B,Mobile,Paid Search,4.35,3,0,0.0
+VIS-02363,2026-05-25,B,Desktop,Referral,6.4,5,0,0.0
+VIS-02364,2026-05-08,B,Desktop,Social,4.88,1,0,0.0
+VIS-02365,2026-05-13,B,Mobile,Social,3.23,3,0,0.0
+VIS-02366,2026-05-23,B,Mobile,Organic,2.42,4,0,0.0
+VIS-02367,2026-05-23,B,Mobile,Organic,9.55,6,0,0.0
+VIS-02368,2026-05-18,B,Mobile,Email,11.56,2,0,0.0
+VIS-02369,2026-05-03,B,Desktop,Referral,5.5,5,0,0.0
+VIS-02370,2026-05-25,B,Desktop,Organic,1.3,5,0,0.0
+VIS-02371,2026-05-18,B,Tablet,Organic,11.19,4,0,0.0
+VIS-02372,2026-05-23,B,Tablet,Paid Search,1.08,8,1,56.41
+VIS-02373,2026-05-12,B,Mobile,Email,3.07,3,0,0.0
+VIS-02374,2026-05-15,B,Mobile,Paid Search,2.48,7,0,0.0
+VIS-02375,2026-05-08,B,Mobile,Social,8.11,7,0,0.0
+VIS-02376,2026-05-25,B,Mobile,Paid Search,6.26,5,0,0.0
+VIS-02377,2026-05-21,B,Tablet,Organic,2.7,3,0,0.0
+VIS-02378,2026-05-11,B,Mobile,Organic,1.98,6,0,0.0
+VIS-02379,2026-05-04,B,Mobile,Social,1.12,1,0,0.0
+VIS-02380,2026-05-25,B,Mobile,Organic,2.13,10,0,0.0
+VIS-02381,2026-05-20,B,Desktop,Organic,2.63,3,0,0.0
+VIS-02382,2026-05-17,B,Mobile,Social,2.31,5,0,0.0
+VIS-02383,2026-05-15,B,Mobile,Social,1.47,5,0,0.0
+VIS-02384,2026-05-28,B,Desktop,Email,7.45,4,0,0.0
+VIS-02385,2026-05-18,B,Tablet,Social,3.88,4,1,61.69
+VIS-02386,2026-05-18,B,Desktop,Organic,11.52,7,0,0.0
+VIS-02387,2026-05-03,B,Desktop,Social,4.7,6,0,0.0
+VIS-02388,2026-05-10,B,Desktop,Referral,5.63,2,1,41.8
+VIS-02389,2026-05-30,B,Desktop,Email,4.99,5,0,0.0
+VIS-02390,2026-05-27,B,Mobile,Paid Search,12.19,2,0,0.0
+VIS-02391,2026-05-06,B,Mobile,Email,14.79,6,1,52.63
+VIS-02392,2026-05-24,B,Desktop,Organic,6.85,8,0,0.0
+VIS-02393,2026-05-22,B,Mobile,Paid Search,2.36,6,0,0.0
+VIS-02394,2026-05-25,B,Desktop,Organic,4.92,6,0,0.0
+VIS-02395,2026-05-10,B,Mobile,Organic,3.4,8,0,0.0
+VIS-02396,2026-05-18,B,Mobile,Paid Search,1.74,2,0,0.0
+VIS-02397,2026-05-21,B,Desktop,Organic,4.26,7,0,0.0
+VIS-02398,2026-05-26,B,Mobile,Social,2.77,6,0,0.0
+VIS-02399,2026-05-16,B,Mobile,Paid Search,12.12,5,1,56.49
+VIS-02400,2026-05-06,B,Mobile,Paid Search,4.11,6,0,0.0
